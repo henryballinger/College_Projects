@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Interests</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="css/master.css"/>
+    <link rel="stylesheet" type="text/css" href="css/interests.css"/>
+    <link rel="icon" href="imgs/Icon.ico">
+</head>
+<body>
+    <h1>Interests</h1>
+
+    <a href="/profile" class="goback" id="goback">&#8249;<span id="toprofile">Profile</span></a>
+    <a href="/moods" class="forward" id="goforward"><span id="tomoods">Moods</span>&#8250;</a>
+
+    <div id="searchcontainer">
+        <div class="form-group">
+            <label for="search">Search</label>
+            <input type="text" id="search" name="search" placeholder="Search" class="form-control">
+        </div>
+        <div id="resultscontainer"></div>
+    </div>
+
+    <div id="container"></div>
+
+    <br /><br />
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="/js/interests.js"></script>
+</body>
+</html>

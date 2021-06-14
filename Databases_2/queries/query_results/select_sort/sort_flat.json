@@ -1,0 +1,6927 @@
+{ 
+    "_id" : ObjectId("5fbe61ef168b7773e75785cd"), 
+    "museumID" : [
+        8400601272.0
+    ], 
+    "museumName" : "1930S GENERAL STORE MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "PO BOX 2743", 
+    "city" : "PALM SPRINGS", 
+    "state" : "CA", 
+    "zipCode" : 92263.0, 
+    "phoneNumber" : "7603272156"
+}
+{ 
+    "_id" : ObjectId("5fbe61f0168b7773e75785ce"), 
+    "museumID" : [
+        8400602841.0
+    ], 
+    "museumName" : "ACADEMY INTERACTIVE ARTS SCIENCES", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "9800 S LA CIENEGA BLVD", 
+    "city" : "INGLEWOOD", 
+    "state" : "CA", 
+    "zipCode" : 91302.0, 
+    "phoneNumber" : "8188760826"
+}
+{ 
+    "_id" : ObjectId("5fbe61f0168b7773e75785cf"), 
+    "museumID" : [
+        8400600608.0
+    ], 
+    "museumName" : "ADAMSON HOUSE MUSEUM", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "23200 PACIFIC COAST HWY", 
+    "city" : "MALIBU", 
+    "state" : "CA", 
+    "zipCode" : 90265.0, 
+    "phoneNumber" : "3104568432"
+}
+{ 
+    "_id" : ObjectId("5fbe61f1168b7773e75785d0"), 
+    "museumID" : [
+        8400602134.0
+    ], 
+    "museumName" : "AFRICAN AMERICAN GENEALOGICAL SOCIETY OF NORTHERN CALIFORINIA", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "3565 FRUITVALE AVENUE", 
+    "city" : "OAKLAND", 
+    "state" : "CA", 
+    "zipCode" : 94602.0, 
+    "phoneNumber" : "8778842843"
+}
+{ 
+    "_id" : ObjectId("5fbe61f2168b7773e75785d1"), 
+    "museumID" : [
+        8400600585.0
+    ], 
+    "museumName" : "AFRO-AMERICAN MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "600 STATE DRIVE", 
+    "city" : "LOS ANGELES", 
+    "state" : "CA", 
+    "zipCode" : 90001.0, 
+    "phoneNumber" : "2137447432"
+}
+{ 
+    "_id" : ObjectId("5fbe61f3168b7773e75785d2"), 
+    "museumID" : [
+        8400601907.0
+    ], 
+    "museumName" : "AGRICULTURAL HISTORY PROJECT", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "2601 E LAKE AVE", 
+    "city" : "WATSONVILLE", 
+    "state" : "CA", 
+    "zipCode" : 95077.0, 
+    "phoneNumber" : "8317245898"
+}
+{ 
+    "_id" : ObjectId("5fbe61f3168b7773e75785d3"), 
+    "museumID" : [
+        8400601963.0
+    ], 
+    "museumName" : "AGRICULTURE MUSEUM OF MERCED COUNTY", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "4498 CALIFORNIA 140", 
+    "city" : "MERCED", 
+    "state" : "CA", 
+    "zipCode" : 95348.0, 
+    "phoneNumber" : "2093831912"
+}
+{ 
+    "_id" : ObjectId("5fbe61f4168b7773e75785d4"), 
+    "museumID" : [
+        8400602451.0
+    ], 
+    "museumName" : "AIRCRAFT CARRIER HORNET FOUNDATION", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "707 W HORNET AVE", 
+    "city" : "ALAMEDA", 
+    "state" : "CA", 
+    "zipCode" : 94501.0, 
+    "phoneNumber" : "5105218448"
+}
+{ 
+    "_id" : ObjectId("5fbe61f5168b7773e75785d5"), 
+    "museumID" : [
+        8400601551.0
+    ], 
+    "museumName" : "ALAMEDA ARCHITECTURAL PRESERVATION", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "1677 ALAMEDA AVE", 
+    "city" : "ALAMEDA", 
+    "state" : "CA", 
+    "zipCode" : 94501.0, 
+    "phoneNumber" : "5109869232"
+}
+{ 
+    "_id" : ObjectId("5fbe61f5168b7773e75785d6"), 
+    "museumID" : [
+        8400602285.0
+    ], 
+    "museumName" : "ALAMEDA HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "2324 ALAMEDA AVE", 
+    "city" : "ALAMEDA", 
+    "state" : "CA", 
+    "zipCode" : 94501.0, 
+    "phoneNumber" : "5105211233"
+}
+{ 
+    "_id" : ObjectId("5fbe61f6168b7773e75785d7"), 
+    "museumID" : [
+        8400601003.0
+    ], 
+    "museumName" : "ALAMEDA THEATRE", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "2317 CENTRAL AVE", 
+    "city" : "ALAMEDA", 
+    "state" : "CA", 
+    "zipCode" : 94501.0, 
+    "phoneNumber" : "5107693456"
+}
+{ 
+    "_id" : ObjectId("5fbe61f6168b7773e75785d8"), 
+    "museumID" : [
+        8409500243.0
+    ], 
+    "museumName" : "ALEXANDER F. MORRISON PLANETARIUM", 
+    "museumType" : "SCIENCE & TECHNOLOGY MUSEUM OR PLANETARIUM", 
+    "streetAddress" : "55 MUSIC CONCOURSE DRIVE", 
+    "city" : "SAN FRANCISCO", 
+    "state" : "CA", 
+    "zipCode" : 94118.0, 
+    "phoneNumber" : "4157507127"
+}
+{ 
+    "_id" : ObjectId("5fbe61f7168b7773e75785d9"), 
+    "museumID" : [
+        8400601230.0
+    ], 
+    "museumName" : "ALHAMBRA HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "1550 W ALHAMBRA ROAD", 
+    "city" : "ALHAMBRA", 
+    "state" : "CA", 
+    "zipCode" : 91802.0, 
+    "phoneNumber" : "6263008845"
+}
+{ 
+    "_id" : ObjectId("5fbe61f7168b7773e75785da"), 
+    "museumID" : [
+        8400602239.0
+    ], 
+    "museumName" : "ALPINE COUNTY MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "1 SCHOOL STREET CALIFORNIA 89", 
+    "city" : "MARKLEEVILLE", 
+    "state" : "CA", 
+    "zipCode" : 96120.0, 
+    "phoneNumber" : "5306942317"
+}
+{ 
+    "_id" : ObjectId("5fbe61f8168b7773e75785db"), 
+    "museumID" : [
+        8400600966.0
+    ], 
+    "museumName" : "ALPINE HISTORICAL AND CONSERVATION SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "2116 TAVERN ROAD", 
+    "city" : "ALPINE", 
+    "state" : "CA", 
+    "zipCode" : 91903.0, 
+    "phoneNumber" : "6196598740"
+}
+{ 
+    "_id" : ObjectId("5fbe61f8168b7773e75785dc"), 
+    "museumID" : [
+        8400602393.0
+    ], 
+    "museumName" : "AMADOR COUNTY HISTORICAL SOCIETY & MUSEUM", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "148 MAIN ST", 
+    "city" : "JACKSON", 
+    "state" : "CA", 
+    "zipCode" : 95642.0, 
+    "phoneNumber" : "2092571485"
+}
+{ 
+    "_id" : ObjectId("5fbe61f9168b7773e75785dd"), 
+    "museumID" : [
+        8400602528.0
+    ], 
+    "museumName" : "AMADOR LIVERMORE VALLEY HISTORICAL", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "603 MAIN STREET", 
+    "city" : "PLEASANTON", 
+    "state" : "CA", 
+    "zipCode" : 94566.0, 
+    "phoneNumber" : "9254622766"
+}
+{ 
+    "_id" : ObjectId("5fbe61f9168b7773e75785de"), 
+    "museumID" : [
+        8400601022.0
+    ], 
+    "museumName" : "AMERICAN BOOKBINDERS MUSEUM", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "856 FOLSOM ST", 
+    "city" : "SAN FRANCISCO", 
+    "state" : "CA", 
+    "zipCode" : 94107.0, 
+    "phoneNumber" : "4158249754"
+}
+{ 
+    "_id" : ObjectId("5fbe61fa168b7773e75785df"), 
+    "museumID" : [
+        8400600570.0
+    ], 
+    "museumName" : "AMERICAN SOCIETY OF MILITARY HISTORY AND MUSEUM", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "2615 S GRAND AVE", 
+    "city" : "LOS ANGELES", 
+    "state" : "CA", 
+    "zipCode" : 90007.0, 
+    "phoneNumber" : "2137461776"
+}
+{ 
+    "_id" : ObjectId("5fbe61fa168b7773e75785e0"), 
+    "museumID" : [
+        8400602744.0
+    ], 
+    "museumName" : "AMERICAN SOUTHWESTERN RAILWAY ASSOCIATION", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "5200 ZOO DR", 
+    "city" : "LOS ANGELES", 
+    "state" : "CA", 
+    "zipCode" : 90039.0, 
+    "phoneNumber" : "3236680104"
+}
+{ 
+    "_id" : ObjectId("5fbe61fb168b7773e75785e1"), 
+    "museumID" : [
+        8400600569.0
+    ], 
+    "museumName" : "ANDERSON ART COLLECTION", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "2440 SAND HILL RD", 
+    "city" : "MENLO PARK", 
+    "state" : "CA", 
+    "zipCode" : 94025.0, 
+    "phoneNumber" : "6508545160"
+}
+{ 
+    "_id" : ObjectId("5fbe61fb168b7773e75785e2"), 
+    "museumID" : [
+        8400601411.0
+    ], 
+    "museumName" : "ANGELS CAMP MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "753 S MAIN ST", 
+    "city" : "ANGELS CAMP", 
+    "state" : "CA", 
+    "zipCode" : 95222.0, 
+    "phoneNumber" : "2097362963"
+}
+{ 
+    "_id" : ObjectId("5fbe61fc168b7773e75785e3"), 
+    "museumID" : [
+        8400602961.0
+    ], 
+    "museumName" : "ANNENBERG FOUNDATION TRUST AT SUNNYLANDS", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "37977 BOB HOPE DRIVE", 
+    "city" : "RANCHO MIRAGE", 
+    "state" : "CA", 
+    "zipCode" : 92270.0, 
+    "phoneNumber" : "7602022222"
+}
+{ 
+    "_id" : ObjectId("5fbe61fd168b7773e75785e4"), 
+    "museumID" : [
+        8400602951.0
+    ], 
+    "museumName" : "ANNENBERG SPACE FOR PHOTOGRAPHY", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "2000 AVENUE OF THE STARS SUITE 1000S", 
+    "city" : "LOS ANGELES", 
+    "state" : "CA", 
+    "zipCode" : 90067.0, 
+    "phoneNumber" : "3102094265"
+}
+{ 
+    "_id" : ObjectId("5fbe61fd168b7773e75785e5"), 
+    "museumID" : [
+        8400600595.0
+    ], 
+    "museumName" : "ANTELOPE VALLEY INDIAN MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "15701 EAST AVENUE M", 
+    "city" : "LANCASTER", 
+    "state" : "CA", 
+    "zipCode" : 93534.0, 
+    "phoneNumber" : "6619463055"
+}
+{ 
+    "_id" : ObjectId("5fbe61fe168b7773e75785e6"), 
+    "museumID" : [
+        8400600565.0
+    ], 
+    "museumName" : "APTOS MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "7605-B OLD DOMINION CT", 
+    "city" : "APTOS", 
+    "state" : "CA", 
+    "zipCode" : 95003.0, 
+    "phoneNumber" : "8316889514"
+}
+{ 
+    "_id" : ObjectId("5fbe61fe168b7773e75785e7"), 
+    "museumID" : [
+        8409500010.0
+    ], 
+    "museumName" : "AQUARIUM OF THE BAY", 
+    "museumType" : "ZOO, AQUARIUM, OR WILDLIFE CONSERVATION", 
+    "streetAddress" : "THE EMBARCADERO AT BEACH STREET PIER 39", 
+    "city" : "SAN FRANCISCO", 
+    "state" : "CA", 
+    "zipCode" : 94133.0, 
+    "phoneNumber" : "4156235300"
+}
+{ 
+    "_id" : ObjectId("5fbe61ff168b7773e75785e8"), 
+    "museumID" : [
+        8400601569.0
+    ], 
+    "museumName" : "ARCADIA HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "PO BOX 661332", 
+    "city" : "ARCADIA", 
+    "state" : "CA", 
+    "zipCode" : 91066.0, 
+    "phoneNumber" : "6264468512"
+}
+{ 
+    "_id" : ObjectId("5fbe6200168b7773e75785e9"), 
+    "museumID" : [
+        8400602633.0
+    ], 
+    "museumName" : "ARMORY CENTER FOR THE ARTS", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "145 RAYMOND AVENUE", 
+    "city" : "PASADENA", 
+    "state" : "CA", 
+    "zipCode" : 91103.0, 
+    "phoneNumber" : "6267925101"
+}
+{ 
+    "_id" : ObjectId("5fbe6200168b7773e75785ea"), 
+    "museumID" : [
+        8400601764.0
+    ], 
+    "museumName" : "ART WORKS DOWNTOWN", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "1337 4TH ST", 
+    "city" : "SAN RAFAEL", 
+    "state" : "CA", 
+    "zipCode" : 94901.0, 
+    "phoneNumber" : "4154518119"
+}
+{ 
+    "_id" : ObjectId("5fbe6201168b7773e75785eb"), 
+    "museumID" : [
+        8400602020.0
+    ], 
+    "museumName" : "ARTIST GUILD OF THE SANTA YNEZ VALLEY", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "2920 GRAND AVENUE", 
+    "city" : "SANTA YNEZ", 
+    "state" : "CA", 
+    "zipCode" : 93460.0, 
+    "phoneNumber" : "8056887517"
+}
+{ 
+    "_id" : ObjectId("5fbe6201168b7773e75785ec"), 
+    "museumID" : [
+        8400601693.0
+    ], 
+    "museumName" : "ARTS BENICIA", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "991 TYLER STREET #114", 
+    "city" : "BENICIA", 
+    "state" : "CA", 
+    "zipCode" : 94510.0, 
+    "phoneNumber" : "7077470131"
+}
+{ 
+    "_id" : ObjectId("5fbe6201168b7773e75785ed"), 
+    "museumID" : [
+        8400602018.0
+    ], 
+    "museumName" : "ARTS HABITAT", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "3785 Vï¿½A NONA MARIE", 
+    "city" : "CARMEL", 
+    "state" : "CA", 
+    "zipCode" : 93922.0, 
+    "phoneNumber" : "8316246111"
+}
+{ 
+    "_id" : ObjectId("5fbe6202168b7773e75785ee"), 
+    "museumID" : [
+        8400602309.0
+    ], 
+    "museumName" : "ATWATER HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "1020 CEDAR AVE", 
+    "city" : "ATWATER", 
+    "state" : "CA", 
+    "zipCode" : 95301.0, 
+    "phoneNumber" : "2093576309"
+}
+{ 
+    "_id" : ObjectId("5fbe6202168b7773e75785ef"), 
+    "museumID" : [
+        8400601611.0
+    ], 
+    "museumName" : "AZUSA STREET MISSION & HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "244 S SAN PEDRO STREET", 
+    "city" : "LOS ANGELES", 
+    "state" : "CA", 
+    "zipCode" : 90086.0, 
+    "phoneNumber" : "3236927268"
+}
+{ 
+    "_id" : ObjectId("5fbe6203168b7773e75785f0"), 
+    "museumID" : [
+        8400602913.0
+    ], 
+    "museumName" : "BAKERSFIELD ART ASSOCIATION & GALLERY", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "1817 EYE STREET", 
+    "city" : "BAKERSFIELD", 
+    "state" : "CA", 
+    "zipCode" : 93302.0, 
+    "phoneNumber" : "6618692320"
+}
+{ 
+    "_id" : ObjectId("5fbe6204168b7773e75785f1"), 
+    "museumID" : [
+        8400601419.0
+    ], 
+    "museumName" : "BAKERSFIELD MINERAL MITES", 
+    "museumType" : "NATURAL HISTORY MUSEUM", 
+    "streetAddress" : "PO BOX 10954", 
+    "city" : "BAKERSFIELD", 
+    "state" : "CA", 
+    "zipCode" : 93389.0, 
+    "phoneNumber" : "6613245907"
+}
+{ 
+    "_id" : ObjectId("5fbe6204168b7773e75785f2"), 
+    "museumID" : [
+        8400600596.0
+    ], 
+    "museumName" : "BAKERSFIELD MUSEUM OF ART", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "1930 R STREET", 
+    "city" : "BAKERSFIELD", 
+    "state" : "CA", 
+    "zipCode" : 93301.0, 
+    "phoneNumber" : "8053237219"
+}
+{ 
+    "_id" : ObjectId("5fbe6205168b7773e75785f3"), 
+    "museumID" : [
+        8400602635.0
+    ], 
+    "museumName" : "BALBOA ART CONSERVATION CENTER", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "1649 EL PRADO", 
+    "city" : "SAN DIEGO", 
+    "state" : "CA", 
+    "zipCode" : 92163.0, 
+    "phoneNumber" : "6192369702"
+}
+{ 
+    "_id" : ObjectId("5fbe6205168b7773e75785f4"), 
+    "museumID" : [
+        8400601126.0
+    ], 
+    "museumName" : "BANNERS OF HONOR", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "5111 TRIPOLI AVENUE", 
+    "city" : "LOS ALAMITOS", 
+    "state" : "CA", 
+    "zipCode" : 90720.0, 
+    "phoneNumber" : "5628963582"
+}
+{ 
+    "_id" : ObjectId("5fbe6206168b7773e75785f5"), 
+    "museumID" : [
+        8400600581.0
+    ], 
+    "museumName" : "BANNING RESIDENCE MUSEUM", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "401 EAST M STREET", 
+    "city" : "WILMINGTON", 
+    "state" : "CA", 
+    "zipCode" : 90744.0, 
+    "phoneNumber" : "3105487777"
+}
+{ 
+    "_id" : ObjectId("5fbe6206168b7773e75785f6"), 
+    "museumID" : [
+        8400601153.0
+    ], 
+    "museumName" : "BASEBALL RELIQUARY", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "1531 EAST WOODBURY ROAD", 
+    "city" : "PASADENA", 
+    "state" : "CA", 
+    "zipCode" : 91017.0, 
+    "phoneNumber" : "6267917647"
+}
+{ 
+    "_id" : ObjectId("5fbe6207168b7773e75785f7"), 
+    "museumID" : [
+        8400602118.0
+    ], 
+    "museumName" : "BAY INSTITUTE AQUARIUM FOUNDATION", 
+    "museumType" : "NATURAL HISTORY MUSEUM", 
+    "streetAddress" : "THE EMBARCADERO & BEACH ST", 
+    "city" : "SAN FRANCISCO", 
+    "state" : "CA", 
+    "zipCode" : 94133.0, 
+    "phoneNumber" : "4152624735"
+}
+{ 
+    "_id" : ObjectId("5fbe6208168b7773e75785f8"), 
+    "museumID" : [
+        8400600741.0
+    ], 
+    "museumName" : "BENBOUGH OPERATING FOUNDATION", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "2550 FIFTH AVENUE", 
+    "city" : "SAN DIEGO", 
+    "state" : "CA", 
+    "zipCode" : 92101.0, 
+    "phoneNumber" : "6192358099"
+}
+{ 
+    "_id" : ObjectId("5fbe6209168b7773e75785f9"), 
+    "museumID" : [
+        8400601563.0
+    ], 
+    "museumName" : "BERKELEY ARCHITECTURAL HERITAGE ASSOCIATION", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "2318 DURANT AVE", 
+    "city" : "BERKELEY", 
+    "state" : "CA", 
+    "zipCode" : 94701.0, 
+    "phoneNumber" : "5108412242"
+}
+{ 
+    "_id" : ObjectId("5fbe620a168b7773e75785fa"), 
+    "museumID" : [
+        8400600873.0
+    ], 
+    "museumName" : "BIG BEAR VALLEY HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "GREENWAY DR", 
+    "city" : "BIG BEAR CITY", 
+    "state" : "CA", 
+    "zipCode" : 92314.0, 
+    "phoneNumber" : "9095858100"
+}
+{ 
+    "_id" : ObjectId("5fbe620a168b7773e75785fb"), 
+    "museumID" : [
+        8400602358.0
+    ], 
+    "museumName" : "BIG SUR HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "ANDREW MOLERA PARK HIGHWAY 1", 
+    "city" : "BIG SUR", 
+    "state" : "CA", 
+    "zipCode" : 93920.0, 
+    "phoneNumber" : "8316672956"
+}
+{ 
+    "_id" : ObjectId("5fbe620b168b7773e75785fc"), 
+    "museumID" : [
+        8409500278.0
+    ], 
+    "museumName" : "BIRCH AQUARIUM AT SCRIPPS", 
+    "museumType" : "SCIENCE & TECHNOLOGY MUSEUM OR PLANETARIUM", 
+    "streetAddress" : "2300 EXPEDITION WAY", 
+    "city" : "LA JOLLA", 
+    "state" : "CA", 
+    "zipCode" : 92037.0, 
+    "phoneNumber" : "8585343474"
+}
+{ 
+    "_id" : ObjectId("5fbe620b168b7773e75785fd"), 
+    "museumID" : [
+        8400602616.0
+    ], 
+    "museumName" : "BISHOP MUSEUM AND HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "395 SILVER CANYON ROAD", 
+    "city" : "BISHOP", 
+    "state" : "CA", 
+    "zipCode" : 93515.0, 
+    "phoneNumber" : "7608735950"
+}
+{ 
+    "_id" : ObjectId("5fbe620c168b7773e75785fe"), 
+    "museumID" : [
+        8400601596.0
+    ], 
+    "museumName" : "BLACK HISTORICAL SOCIETY OF SAN DIEGO", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "PO BOX 122469", 
+    "city" : "SAN DIEGO", 
+    "state" : "CA", 
+    "zipCode" : 92112.0, 
+    "phoneNumber" : "6196857215"
+}
+{ 
+    "_id" : ObjectId("5fbe620c168b7773e75785ff"), 
+    "museumID" : [
+        8400602355.0
+    ], 
+    "museumName" : "BLUE LAKE MUSEUM SOCIETY", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "330 RAILROAD AVE", 
+    "city" : "BLUE LAKE", 
+    "state" : "CA", 
+    "zipCode" : 95525.0, 
+    "phoneNumber" : "7076684188"
+}
+{ 
+    "_id" : ObjectId("5fbe620d168b7773e7578600"), 
+    "museumID" : [
+        8400602422.0
+    ], 
+    "museumName" : "BOHART MUSEUM SOCIETY", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "1 SHIELD AVE", 
+    "city" : "DAVIS", 
+    "state" : "CA", 
+    "zipCode" : 95616.0, 
+    "phoneNumber" : "5307520493"
+}
+{ 
+    "_id" : ObjectId("5fbe620d168b7773e7578601"), 
+    "museumID" : [
+        8400601651.0
+    ], 
+    "museumName" : "BOLINAS MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "48 WHARF RD", 
+    "city" : "BOLINAS", 
+    "state" : "CA", 
+    "zipCode" : 94924.0, 
+    "phoneNumber" : "4158680330"
+}
+{ 
+    "_id" : ObjectId("5fbe620e168b7773e7578602"), 
+    "museumID" : [
+        8400600869.0
+    ], 
+    "museumName" : "BREA HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "652 S BREA BLVD", 
+    "city" : "BREA", 
+    "state" : "CA", 
+    "zipCode" : 92821.0, 
+    "phoneNumber" : "7142562283"
+}
+{ 
+    "_id" : ObjectId("5fbe620e168b7773e7578603"), 
+    "museumID" : [
+        8400602845.0
+    ], 
+    "museumName" : "BREWERY ARTWALK ASSOCIATION", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "2100 N MAIN ST", 
+    "city" : "LOS ANGELES", 
+    "state" : "CA", 
+    "zipCode" : 90031.0, 
+    "phoneNumber" : "3236389382"
+}
+{ 
+    "_id" : ObjectId("5fbe620f168b7773e7578604"), 
+    "museumID" : [
+        8400600802.0
+    ], 
+    "museumName" : "BRUSH POPPERS OF THE CENTRAL COAST", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "1085 CAMINO CABALLO", 
+    "city" : "NIPOMO", 
+    "state" : "CA", 
+    "zipCode" : 93421.0, 
+    "phoneNumber" : "8059291580"
+}
+{ 
+    "_id" : ObjectId("5fbe620f168b7773e7578605"), 
+    "museumID" : [
+        8400602053.0
+    ], 
+    "museumName" : "BUELLTON HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "597 AVE OF FLAGS UNIT 101", 
+    "city" : "BUELLTON", 
+    "state" : "CA", 
+    "zipCode" : 93427.0, 
+    "phoneNumber" : "8056887829"
+}
+{ 
+    "_id" : ObjectId("5fbe6210168b7773e7578606"), 
+    "museumID" : [
+        8400602813.0
+    ], 
+    "museumName" : "BURBANK AVIATION MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "10621 VICTORY BLVD", 
+    "city" : "BURBANK", 
+    "state" : "CA", 
+    "zipCode" : 91507.0, 
+    "phoneNumber" : "8187687881"
+}
+{ 
+    "_id" : ObjectId("5fbe6210168b7773e7578607"), 
+    "museumID" : [
+        8400600546.0
+    ], 
+    "museumName" : "C. E. SMITH MUSEUM OF ANTHROPOLOGY", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "25800 CARLOS BEE BLVD", 
+    "city" : "HAYWARD", 
+    "state" : "CA", 
+    "zipCode" : 94542.0, 
+    "phoneNumber" : "5108853104"
+}
+{ 
+    "_id" : ObjectId("5fbe6211168b7773e7578608"), 
+    "museumID" : [
+        8400602954.0
+    ], 
+    "museumName" : "C.N. GORMAN MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "1 SHEILDS AVENUE", 
+    "city" : "DAVIS", 
+    "state" : "CA", 
+    "zipCode" : 95616.0, 
+    "phoneNumber" : "5307526567"
+}
+{ 
+    "_id" : ObjectId("5fbe6212168b7773e7578609"), 
+    "museumID" : [
+        8400600855.0
+    ], 
+    "museumName" : "CALAVERAS COUNTY HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "30 MAIN ST", 
+    "city" : "SAN ANDREAS", 
+    "state" : "CA", 
+    "zipCode" : 95249.0, 
+    "phoneNumber" : "2097541058"
+}
+{ 
+    "_id" : ObjectId("5fbe6212168b7773e757860a"), 
+    "museumID" : [
+        8409500302.0
+    ], 
+    "museumName" : "CALIFORNIA ACADEMY OF SCIENCES", 
+    "museumType" : "SCIENCE & TECHNOLOGY MUSEUM OR PLANETARIUM", 
+    "streetAddress" : "55 MUSIC CONCOURSE DRIVE", 
+    "city" : "SAN FRANCISCO", 
+    "state" : "CA", 
+    "zipCode" : 94118.0, 
+    "phoneNumber" : "4153798000"
+}
+{ 
+    "_id" : ObjectId("5fbe6213168b7773e757860b"), 
+    "museumID" : [
+        8400601923.0
+    ], 
+    "museumName" : "CALIFORNIA ANTIQUE AIRCRAFT MUSEUM", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "12777 MURPHY AVE", 
+    "city" : "SAN MARTIN", 
+    "state" : "CA", 
+    "zipCode" : 95046.0, 
+    "phoneNumber" : "4086832290"
+}
+{ 
+    "_id" : ObjectId("5fbe6213168b7773e757860c"), 
+    "museumID" : [
+        8400601253.0
+    ], 
+    "museumName" : "CALIFORNIA CITRUS STATE HISTORIC PARK", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "9350 DUFFERIN AVE", 
+    "city" : "RIVERSIDE", 
+    "state" : "CA", 
+    "zipCode" : 92516.0, 
+    "phoneNumber" : "9517806222"
+}
+{ 
+    "_id" : ObjectId("5fbe6214168b7773e757860d"), 
+    "museumID" : [
+        8400600965.0
+    ], 
+    "museumName" : "CALIFORNIA HISTORICAL RADIO SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "2152 CENTRAL AVE", 
+    "city" : "ALAMEDA", 
+    "state" : "CA", 
+    "zipCode" : 94131.0, 
+    "phoneNumber" : "5105221974"
+}
+{ 
+    "_id" : ObjectId("5fbe6215168b7773e757860e"), 
+    "museumID" : [
+        8400601601.0
+    ], 
+    "museumName" : "CALIFORNIA LAW ENFORCEMENT HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "P O BOX 475", 
+    "city" : "PISMO BEACH", 
+    "state" : "CA", 
+    "zipCode" : 95608.0, 
+    "phoneNumber" : "8054414936"
+}
+{ 
+    "_id" : ObjectId("5fbe6215168b7773e757860f"), 
+    "museumID" : [
+        8400600788.0
+    ], 
+    "museumName" : "CALIFORNIA SPORTS HALL OF FAME", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "10184 SIXTH STREET SUITE G", 
+    "city" : "RANCHO CUCAMONGA", 
+    "state" : "CA", 
+    "zipCode" : 91737.0, 
+    "phoneNumber" : "9094813541"
+}
+{ 
+    "_id" : ObjectId("5fbe6216168b7773e7578610"), 
+    "museumID" : [
+        8400602040.0
+    ], 
+    "museumName" : "CALIFORNIA STATE MINING & MINERAL FUND", 
+    "museumType" : "NATURAL HISTORY MUSEUM", 
+    "streetAddress" : "P O BOX 1192 5005 FAIRGROUNDS ROAD", 
+    "city" : "MARIPOSA", 
+    "state" : "CA", 
+    "zipCode" : 95338.0, 
+    "phoneNumber" : "2097427625"
+}
+{ 
+    "_id" : ObjectId("5fbe6216168b7773e7578611"), 
+    "museumID" : [
+        8400602417.0
+    ], 
+    "museumName" : "CALIFORNIA SUPREME COURT HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "4747 NORTH FIRST SUITE 140", 
+    "city" : "FRESNO", 
+    "state" : "CA", 
+    "zipCode" : 93714.0, 
+    "phoneNumber" : "8003537537"
+}
+{ 
+    "_id" : ObjectId("5fbe6217168b7773e7578612"), 
+    "museumID" : [
+        8400601932.0
+    ], 
+    "museumName" : "CAMBRIA HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "2251 CENTER STREET", 
+    "city" : "CAMBRIA", 
+    "state" : "CA", 
+    "zipCode" : 93428.0, 
+    "phoneNumber" : "8059272891"
+}
+{ 
+    "_id" : ObjectId("5fbe6218168b7773e7578613"), 
+    "museumID" : [
+        8400602263.0
+    ], 
+    "museumName" : "CARMEL HERITAGE", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "LINCOLN ST & 6TH AVE", 
+    "city" : "CARMEL", 
+    "state" : "CA", 
+    "zipCode" : 93921.0, 
+    "phoneNumber" : "8316244447"
+}
+{ 
+    "_id" : ObjectId("5fbe6218168b7773e7578614"), 
+    "museumID" : [
+        8400602684.0
+    ], 
+    "museumName" : "CARRIAGE AND WESTERN ARTS MUSEUM OF SANTA BARBARA", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "HISTORIC PERSHING PARK 129 CASTILLO STREET", 
+    "city" : "SANTA BARBARA", 
+    "state" : "CA", 
+    "zipCode" : 93102.0, 
+    "phoneNumber" : "8059622353"
+}
+{ 
+    "_id" : ObjectId("5fbe6219168b7773e7578615"), 
+    "museumID" : [
+        8400600931.0
+    ], 
+    "museumName" : "CASA DE RANCHO CUCAMONGA HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "8810 HEMLOCK STREET", 
+    "city" : "RANCHO CUCAMONGA", 
+    "state" : "CA", 
+    "zipCode" : 91729.0, 
+    "phoneNumber" : "9099894970"
+}
+{ 
+    "_id" : ObjectId("5fbe6219168b7773e7578616"), 
+    "museumID" : [
+        8400601373.0
+    ], 
+    "museumName" : "CASA ROMANTICA CULTURAL CENTER", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "415 AVENIDA GRANADA", 
+    "city" : "SAN CLEMENTE", 
+    "state" : "CA", 
+    "zipCode" : 92674.0, 
+    "phoneNumber" : "9494982139"
+}
+{ 
+    "_id" : ObjectId("5fbe621a168b7773e7578617"), 
+    "museumID" : [
+        8400602963.0
+    ], 
+    "museumName" : "CATALINA ISLAND CONSERVANCY", 
+    "museumType" : "ARBORETUM, BOTANICAL GARDEN, OR NATURE CENTER", 
+    "streetAddress" : "125 CLARESSA AVENUE", 
+    "city" : "AVALON", 
+    "state" : "CA", 
+    "zipCode" : 90704.0, 
+    "phoneNumber" : "3105100954"
+}
+{ 
+    "_id" : ObjectId("5fbe621a168b7773e7578618"), 
+    "museumID" : [
+        8400602592.0
+    ], 
+    "museumName" : "CATALINA ISLAND MUSEUM", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "1 CASINO WAY", 
+    "city" : "AVALON", 
+    "state" : "CA", 
+    "zipCode" : 90704.0, 
+    "phoneNumber" : "3105102414"
+}
+{ 
+    "_id" : ObjectId("5fbe621b168b7773e7578619"), 
+    "museumID" : [
+        8400601922.0
+    ], 
+    "museumName" : "CAYUCOS ART ASSOCIATION VETS HALL CAYUCOS DR & OCEAN FRONT", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "10 CAYUCOS DRIVE", 
+    "city" : "CAYUCOS", 
+    "state" : "CA", 
+    "zipCode" : 93430.0, 
+    "phoneNumber" : "8059952049"
+}
+{ 
+    "_id" : ObjectId("5fbe621c168b7773e757861a"), 
+    "museumID" : [
+        8400601916.0
+    ], 
+    "museumName" : "CENTER FOR PHOTOGRAPHIC ART", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "SAN CARLOS AVE", 
+    "city" : "CARMEL", 
+    "state" : "CA", 
+    "zipCode" : 93921.0, 
+    "phoneNumber" : "8316255181"
+}
+{ 
+    "_id" : ObjectId("5fbe621c168b7773e757861b"), 
+    "museumID" : [
+        8400601938.0
+    ], 
+    "museumName" : "CENTRAL SIERRA HISTORICAL SOCIETY & MUSEUM", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "42642 TOLLHOUSE ROAD", 
+    "city" : "SHAVER LAKE", 
+    "state" : "CA", 
+    "zipCode" : 93664.0, 
+    "phoneNumber" : "5598414478"
+}
+{ 
+    "_id" : ObjectId("5fbe621d168b7773e757861c"), 
+    "museumID" : [
+        8400600466.0
+    ], 
+    "museumName" : "CENTRO CULTURAL DE LA RAZA", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "2004 PARK BLVD", 
+    "city" : "SAN DIEGO", 
+    "state" : "CA", 
+    "zipCode" : 92101.0, 
+    "phoneNumber" : "6192356135"
+}
+{ 
+    "_id" : ObjectId("5fbe621e168b7773e757861d"), 
+    "museumID" : [
+        8409400828.0
+    ], 
+    "museumName" : "CHABOT SPACE & SCIENCE CENTER", 
+    "museumType" : "CHILDREN'S MUSEUM", 
+    "streetAddress" : "10000 SKYLINE BLVD.", 
+    "city" : "OAKLAND", 
+    "state" : "CA", 
+    "zipCode" : 94619.0, 
+    "phoneNumber" : "5103367300"
+}
+{ 
+    "_id" : ObjectId("5fbe621e168b7773e757861e"), 
+    "museumID" : [
+        8400600514.0
+    ], 
+    "museumName" : "CHAFFEY COMMUNITY MUSEUM OF ART", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "217 S LEMON AVE", 
+    "city" : "ONTARIO", 
+    "state" : "CA", 
+    "zipCode" : 91739.0, 
+    "phoneNumber" : "9094633733"
+}
+{ 
+    "_id" : ObjectId("5fbe621f168b7773e757861f"), 
+    "museumID" : [
+        8400601783.0
+    ], 
+    "museumName" : "CHARLES M SCHULZ MUSEUM AND RESEARCH CENTER", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "2301 HARDIES LN", 
+    "city" : "SANTA ROSA", 
+    "state" : "CA", 
+    "zipCode" : 95403.0, 
+    "phoneNumber" : "7075794452"
+}
+{ 
+    "_id" : ObjectId("5fbe6220168b7773e7578620"), 
+    "museumID" : [
+        8409500041.0
+    ], 
+    "museumName" : "CHARLES PADDOCK ZOO", 
+    "museumType" : "ZOO, AQUARIUM, OR WILDLIFE CONSERVATION", 
+    "streetAddress" : "9100 MORRO ROAD (HIGHWAY 41)", 
+    "city" : "ATASCADERO", 
+    "state" : "CA", 
+    "zipCode" : 93422.0, 
+    "phoneNumber" : "8054615080"
+}
+{ 
+    "_id" : ObjectId("5fbe6221168b7773e7578621"), 
+    "museumID" : [
+        8400602359.0
+    ], 
+    "museumName" : "CHICO HERITAGE ASSOCIATION", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "371 EAST 5TH STREET", 
+    "city" : "CHICO", 
+    "state" : "CA", 
+    "zipCode" : 95927.0, 
+    "phoneNumber" : "5303457522"
+}
+{ 
+    "_id" : ObjectId("5fbe6221168b7773e7578622"), 
+    "museumID" : [
+        8400600471.0
+    ], 
+    "museumName" : "CHICO MUSEUM ASSOCIATION", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "270 BOEING AVE", 
+    "city" : "CHICO", 
+    "state" : "CA", 
+    "zipCode" : 95973.0, 
+    "phoneNumber" : "5308921525"
+}
+{ 
+    "_id" : ObjectId("5fbe6222168b7773e7578623"), 
+    "museumID" : [
+        8409500325.0
+    ], 
+    "museumName" : "CHILDREN'S DISCOVERY MUSEUM OF SAN JOSE", 
+    "museumType" : "SCIENCE & TECHNOLOGY MUSEUM OR PLANETARIUM", 
+    "streetAddress" : "180 WOZ WAY", 
+    "city" : "SAN JOSE", 
+    "state" : "CA", 
+    "zipCode" : 95110.0, 
+    "phoneNumber" : "4082985437"
+}
+{ 
+    "_id" : ObjectId("5fbe6222168b7773e7578624"), 
+    "museumID" : [
+        8409400837.0
+    ], 
+    "museumName" : "CHILDREN'S DISCOVERY MUSEUM OF THE DESERT", 
+    "museumType" : "CHILDREN'S MUSEUM", 
+    "streetAddress" : "71-701 GERALD FORD DRIVE", 
+    "city" : "RANCHO MIRAGE", 
+    "state" : "CA", 
+    "zipCode" : 92270.0, 
+    "phoneNumber" : "7603210602"
+}
+{ 
+    "_id" : ObjectId("5fbe6223168b7773e7578625"), 
+    "museumID" : [
+        8400600465.0
+    ], 
+    "museumName" : "CHILDREN'S MUSEUM OF ORANGE COUNTY", 
+    "museumType" : "CHILDREN'S MUSEUM", 
+    "streetAddress" : "29 HUBBLE", 
+    "city" : "IRVINE", 
+    "state" : "CA", 
+    "zipCode" : 92614.0, 
+    "phoneNumber" : "9494283900"
+}
+{ 
+    "_id" : ObjectId("5fbe6223168b7773e7578626"), 
+    "museumID" : [
+        8400600771.0
+    ], 
+    "museumName" : "CHILDREN'S MUSEUM OF SONOMA COUNTY", 
+    "museumType" : "CHILDREN'S MUSEUM", 
+    "streetAddress" : "PO BOX 12323", 
+    "city" : "SANTA ROSA", 
+    "state" : "CA", 
+    "zipCode" : 95406.0, 
+    "phoneNumber" : "7075464069"
+}
+{ 
+    "_id" : ObjectId("5fbe6224168b7773e7578627"), 
+    "museumID" : [
+        8400601381.0
+    ], 
+    "museumName" : "CHILDREN'S MUSEUM OF THE SEQUOIAS", 
+    "museumType" : "CHILDREN'S MUSEUM", 
+    "streetAddress" : "700 EAST MAIN STREET", 
+    "city" : "VISALIA", 
+    "state" : "CA", 
+    "zipCode" : 93279.0, 
+    "phoneNumber" : "5597339575"
+}
+{ 
+    "_id" : ObjectId("5fbe6225168b7773e7578628"), 
+    "museumID" : [
+        8400601063.0
+    ], 
+    "museumName" : "CHINESE AMERICAN MUSEUM OF NORTHERN CALIFORNIA", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "3 CRAIG AVENUE", 
+    "city" : "MARYSVILLE", 
+    "state" : "CA", 
+    "zipCode" : 95901.0, 
+    "phoneNumber" : "5307438160"
+}
+{ 
+    "_id" : ObjectId("5fbe6225168b7773e7578629"), 
+    "museumID" : [
+        8400601565.0
+    ], 
+    "museumName" : "CHINO VALLEY HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "5493 B ST", 
+    "city" : "CHINO", 
+    "state" : "CA", 
+    "zipCode" : 91708.0, 
+    "phoneNumber" : "9096276464"
+}
+{ 
+    "_id" : ObjectId("5fbe6226168b7773e757862a"), 
+    "museumID" : [
+        8400601387.0
+    ], 
+    "museumName" : "CHUCK JONES CENTER FOR CREATIVITY", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "3321 HYLAND AVENUE", 
+    "city" : "COSTA MESA", 
+    "state" : "CA", 
+    "zipCode" : 92780.0, 
+    "phoneNumber" : "9496607793"
+}
+{ 
+    "_id" : ObjectId("5fbe6226168b7773e757862b"), 
+    "museumID" : [
+        8400602229.0
+    ], 
+    "museumName" : "CLARKE MEMORIAL MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "240 E ST", 
+    "city" : "EUREKA", 
+    "state" : "CA", 
+    "zipCode" : 95501.0, 
+    "phoneNumber" : "7074431947"
+}
+{ 
+    "_id" : ObjectId("5fbe6227168b7773e757862c"), 
+    "museumID" : [
+        8400600687.0
+    ], 
+    "museumName" : "CLARKSVILLE REGION HISTORIC SOCIETY", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "9045 ORCHID SHADE DR", 
+    "city" : "EL DORADO HILLS", 
+    "state" : "CA", 
+    "zipCode" : 95762.0, 
+    "phoneNumber" : "9168339536"
+}
+{ 
+    "_id" : ObjectId("5fbe6227168b7773e757862d"), 
+    "museumID" : [
+        8400600955.0
+    ], 
+    "museumName" : "CLAYTON HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "6101 MAIN ST", 
+    "city" : "CLAYTON", 
+    "state" : "CA", 
+    "zipCode" : 94517.0, 
+    "phoneNumber" : "9256720240"
+}
+{ 
+    "_id" : ObjectId("5fbe6228168b7773e757862e"), 
+    "museumID" : [
+        8400601667.0
+    ], 
+    "museumName" : "CLOVERDALE HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "215 N CLOVERDALE BOULDVARD", 
+    "city" : "CLOVERDALE", 
+    "state" : "CA", 
+    "zipCode" : 95425.0, 
+    "phoneNumber" : "7078942067"
+}
+{ 
+    "_id" : ObjectId("5fbe6228168b7773e757862f"), 
+    "museumID" : [
+        8400601979.0
+    ], 
+    "museumName" : "CLOVIS BOTANICAL GARDEN COMMITTEE", 
+    "museumType" : "ARBORETUM, BOTANICAL GARDEN, OR NATURE CENTER", 
+    "streetAddress" : "945 N CLOVIS AVE", 
+    "city" : "CLOVIS", 
+    "state" : "CA", 
+    "zipCode" : 93611.0, 
+    "phoneNumber" : "5592983091"
+}
+{ 
+    "_id" : ObjectId("5fbe6229168b7773e7578630"), 
+    "museumID" : [
+        8400600887.0
+    ], 
+    "museumName" : "COACHELLA VALLEY HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "82616 MILES AVENUE", 
+    "city" : "INDIO", 
+    "state" : "CA", 
+    "zipCode" : 92202.0, 
+    "phoneNumber" : "7603426651"
+}
+{ 
+    "_id" : ObjectId("5fbe6229168b7773e7578631"), 
+    "museumID" : [
+        8400601674.0
+    ], 
+    "museumName" : "COLFAX AREA HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "99 RAILROAD AVE", 
+    "city" : "COLFAX", 
+    "state" : "CA", 
+    "zipCode" : 95713.0, 
+    "phoneNumber" : "5303468599"
+}
+{ 
+    "_id" : ObjectId("5fbe622a168b7773e7578632"), 
+    "museumID" : [
+        8400601184.0
+    ], 
+    "museumName" : "COLTON AREA MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "380 N LA CADENA DRIVE", 
+    "city" : "COLTON", 
+    "state" : "CA", 
+    "zipCode" : 92324.0, 
+    "phoneNumber" : "9098248814"
+}
+{ 
+    "_id" : ObjectId("5fbe622b168b7773e7578633"), 
+    "museumID" : [
+        8400600867.0
+    ], 
+    "museumName" : "CONCORD HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "1601 SUTTER ST", 
+    "city" : "CONCORD", 
+    "state" : "CA", 
+    "zipCode" : 94522.0, 
+    "phoneNumber" : "9258273380"
+}
+{ 
+    "_id" : ObjectId("5fbe622b168b7773e7578634"), 
+    "museumID" : [
+        8400600925.0
+    ], 
+    "museumName" : "CONEJO VALLEY BOTANIC GARDEN", 
+    "museumType" : "ARBORETUM, BOTANICAL GARDEN, OR NATURE CENTER", 
+    "streetAddress" : "400 W GAINSBOROUGH ROAD", 
+    "city" : "THOUSAND OAKS", 
+    "state" : "CA", 
+    "zipCode" : 91359.0, 
+    "phoneNumber" : "8054947630"
+}
+{ 
+    "_id" : ObjectId("5fbe622c168b7773e7578635"), 
+    "museumID" : [
+        8400600924.0
+    ], 
+    "museumName" : "CONTRA COSTA COUNTY HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "724 ESCOBAR STï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½", 
+    "city" : "MARTINEZ", 
+    "state" : "CA", 
+    "zipCode" : 94553.0, 
+    "phoneNumber" : "9256720240"
+}
+{ 
+    "_id" : ObjectId("5fbe622c168b7773e7578636"), 
+    "museumID" : [
+        8400601197.0
+    ], 
+    "museumName" : "CORONA HISTORIC PRESERVATION SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "815 W 6TH STREET #170", 
+    "city" : "CORONA", 
+    "state" : "CA", 
+    "zipCode" : 92878.0, 
+    "phoneNumber" : "9518982044"
+}
+{ 
+    "_id" : ObjectId("5fbe622d168b7773e7578637"), 
+    "museumID" : [
+        8400600472.0
+    ], 
+    "museumName" : "CORONADO MUSEUM OF HISTORY AND ART", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "1100 ORANGE AVENUE", 
+    "city" : "CORONADO", 
+    "state" : "CA", 
+    "zipCode" : 92118.0, 
+    "phoneNumber" : "6194357242"
+}
+{ 
+    "_id" : ObjectId("5fbe622d168b7773e7578638"), 
+    "museumID" : [
+        8400602938.0
+    ], 
+    "museumName" : "COSTA MESA HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "1870 ANAHEIM AVENUE", 
+    "city" : "COSTA MESA", 
+    "state" : "CA", 
+    "zipCode" : 92628.0, 
+    "phoneNumber" : "9496315918"
+}
+{ 
+    "_id" : ObjectId("5fbe622e168b7773e7578639"), 
+    "museumID" : [
+        8400601149.0
+    ], 
+    "museumName" : "COTATI HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "201 WEST SIERRA AVENUE", 
+    "city" : "COTATI", 
+    "state" : "CA", 
+    "zipCode" : 94931.0, 
+    "phoneNumber" : "7077940305"
+}
+{ 
+    "_id" : ObjectId("5fbe622e168b7773e757863a"), 
+    "museumID" : [
+        8400600650.0
+    ], 
+    "museumName" : "COTSEN FOUNDATION FOR ACADEMIC RESEARCH", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "12100 WILSHIRE BLVD SUITE 920", 
+    "city" : "LOS ANGELES", 
+    "state" : "CA", 
+    "zipCode" : 90025.0, 
+    "phoneNumber" : "3108260504"
+}
+{ 
+    "_id" : ObjectId("5fbe6231168b7773e757863b"), 
+    "museumID" : [
+        8400600485.0
+    ], 
+    "museumName" : "COUNTY OF LA PAGE MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "2900 EXPOSITION BLVD", 
+    "city" : "LOS ANGELES", 
+    "state" : "CA", 
+    "zipCode" : 90018.0, 
+    "phoneNumber" : "3239347243"
+}
+{ 
+    "_id" : ObjectId("5fbe6231168b7773e757863c"), 
+    "museumID" : [
+        8400601235.0
+    ], 
+    "museumName" : "COUNTY OF LOS ANGELES FIRE MUSEUM ASSOCIATION", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "9834 FLORA VISTA ST", 
+    "city" : "BELLFLOWER", 
+    "state" : "CA", 
+    "zipCode" : 90706.0, 
+    "phoneNumber" : "5629250234"
+}
+{ 
+    "_id" : ObjectId("5fbe6232168b7773e757863d"), 
+    "museumID" : [
+        8400602649.0
+    ], 
+    "museumName" : "COVINA VALLEY HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "125 EAST COLLEGE STREET", 
+    "city" : "COVINA", 
+    "state" : "CA", 
+    "zipCode" : 91722.0, 
+    "phoneNumber" : "6269669871"
+}
+{ 
+    "_id" : ObjectId("5fbe6232168b7773e757863e"), 
+    "museumID" : [
+        8400602197.0
+    ], 
+    "museumName" : "CROCKETT HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "900 LORING AVENUE", 
+    "city" : "CROCKETT", 
+    "state" : "CA", 
+    "zipCode" : 94525.0, 
+    "phoneNumber" : "5107872178"
+}
+{ 
+    "_id" : ObjectId("5fbe6233168b7773e757863f"), 
+    "museumID" : [
+        8400602785.0
+    ], 
+    "museumName" : "CULVER CITY HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "4117 OVERLAND AVENUE", 
+    "city" : "CULVER CITY", 
+    "state" : "CA", 
+    "zipCode" : 90231.0, 
+    "phoneNumber" : "3102536941"
+}
+{ 
+    "_id" : ObjectId("5fbe6234168b7773e7578640"), 
+    "museumID" : [
+        8400602517.0
+    ], 
+    "museumName" : "DAVIS ART CENTER", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "PO BOX 4340", 
+    "city" : "DAVIS", 
+    "state" : "CA", 
+    "zipCode" : 95617.0, 
+    "phoneNumber" : "5307564100"
+}
+{ 
+    "_id" : ObjectId("5fbe6234168b7773e7578641"), 
+    "museumID" : [
+        8400601941.0
+    ], 
+    "museumName" : "DEETJENS", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "48865 CALIFORNIA 1", 
+    "city" : "BIG SUR", 
+    "state" : "CA", 
+    "zipCode" : 93942.0, 
+    "phoneNumber" : "8316672377"
+}
+{ 
+    "_id" : ObjectId("5fbe6235168b7773e7578642"), 
+    "museumID" : [
+        8400602959.0
+    ], 
+    "museumName" : "DENNIS K WALKER GREENHOUSE", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "BIOLOGICAL SCIENCE DEPT HUMBOLDT STATE UNIVERSITY 1 HARPST STREET", 
+    "city" : "ARCATA", 
+    "state" : "CA", 
+    "zipCode" : 95524.0, 
+    "phoneNumber" : "7078263678"
+}
+{ 
+    "_id" : ObjectId("5fbe6235168b7773e7578643"), 
+    "museumID" : [
+        8409502085.0
+    ], 
+    "museumName" : "DESCANSO GARDENS", 
+    "museumType" : "ARBORETUM, BOTANICAL GARDEN, OR NATURE CENTER", 
+    "streetAddress" : "1418 DESCANSO DRIVE", 
+    "city" : "LA CANADA FLINTRIDGE", 
+    "state" : "CA", 
+    "zipCode" : 91011.0, 
+    "phoneNumber" : "8189494290"
+}
+{ 
+    "_id" : ObjectId("5fbe6236168b7773e7578644"), 
+    "museumID" : [
+        8400602612.0
+    ], 
+    "museumName" : "DESERT HOT SPRINGS", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "65950 PIERSON BOULEVARD", 
+    "city" : "DESERT HOT SPRINGS", 
+    "state" : "CA", 
+    "zipCode" : 92240.0, 
+    "phoneNumber" : "7603296411"
+}
+{ 
+    "_id" : ObjectId("5fbe6236168b7773e7578645"), 
+    "museumID" : [
+        8400602492.0
+    ], 
+    "museumName" : "DI ROSA PRESERVE", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "5200 CARNEROS HWY", 
+    "city" : "NAPA", 
+    "state" : "CA", 
+    "zipCode" : 94559.0, 
+    "phoneNumber" : "7072265991"
+}
+{ 
+    "_id" : ObjectId("5fbe6237168b7773e7578646"), 
+    "museumID" : [
+        8400600845.0
+    ], 
+    "museumName" : "DOWNEY HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "2540 RIVES AVE", 
+    "city" : "DOWNEY", 
+    "state" : "CA", 
+    "zipCode" : 90242.0, 
+    "phoneNumber" : "5628622777"
+}
+{ 
+    "_id" : ObjectId("5fbe6238168b7773e7578647"), 
+    "museumID" : [
+        8400602032.0
+    ], 
+    "museumName" : "DUNES DISCOVERY CENTER", 
+    "museumType" : "ARBORETUM, BOTANICAL GARDEN, OR NATURE CENTER", 
+    "streetAddress" : "1065 GUADALUPE ST", 
+    "city" : "GUADALUPE", 
+    "state" : "CA", 
+    "zipCode" : 93434.0, 
+    "phoneNumber" : "8053432455"
+}
+{ 
+    "_id" : ObjectId("5fbe6238168b7773e7578648"), 
+    "museumID" : [
+        8400601818.0
+    ], 
+    "museumName" : "DUTCH FLAT COMMUNITY CENTER", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "933 STOCKTON STREET", 
+    "city" : "DUTCH FLAT", 
+    "state" : "CA", 
+    "zipCode" : 95714.0, 
+    "phoneNumber" : "5303898310"
+}
+{ 
+    "_id" : ObjectId("5fbe6239168b7773e7578649"), 
+    "museumID" : [
+        8400601034.0
+    ], 
+    "museumName" : "DUTRA MUSEUM FOUNDATION", 
+    "museumType" : "NATURAL HISTORY MUSEUM", 
+    "streetAddress" : "345 ST GERTRUDE AVENUE", 
+    "city" : "RIO VISTA", 
+    "state" : "CA", 
+    "zipCode" : 94901.0, 
+    "phoneNumber" : "6502076489"
+}
+{ 
+    "_id" : ObjectId("5fbe6239168b7773e757864a"), 
+    "museumID" : [
+        8400601534.0
+    ], 
+    "museumName" : "DYNAMIC RAIL PRESERVATION", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "PO BOX 91975", 
+    "city" : "CITY OF INDUSTRY", 
+    "state" : "CA", 
+    "zipCode" : 91715.0, 
+    "phoneNumber" : "2135965798"
+}
+{ 
+    "_id" : ObjectId("5fbe623a168b7773e757864b"), 
+    "museumID" : [
+        8400601652.0
+    ], 
+    "museumName" : "EAST CONTIA COSTA HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "3890 SELLERS AVE", 
+    "city" : "BRENTWOOD", 
+    "state" : "CA", 
+    "zipCode" : 94513.0, 
+    "phoneNumber" : "9256348651"
+}
+{ 
+    "_id" : ObjectId("5fbe623a168b7773e757864c"), 
+    "museumID" : [
+        8400602743.0
+    ], 
+    "museumName" : "EAST HIGHLANDS AREA HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "PO BOX 353", 
+    "city" : "HIGHLAND", 
+    "state" : "CA", 
+    "zipCode" : 92346.0, 
+    "phoneNumber" : "9098628104"
+}
+{ 
+    "_id" : ObjectId("5fbe623b168b7773e757864d"), 
+    "museumID" : [
+        8400600954.0
+    ], 
+    "museumName" : "EL CAJON HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "280 NORTH MAGNOLIA AVENUE", 
+    "city" : "EL CAJON", 
+    "state" : "CA", 
+    "zipCode" : 92022.0, 
+    "phoneNumber" : "6194443800"
+}
+{ 
+    "_id" : ObjectId("5fbe623c168b7773e757864e"), 
+    "museumID" : [
+        8400600660.0
+    ], 
+    "museumName" : "EL CAMINO REAL PRESERVATION TRUST", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "1500 W EL CAMINO AVENUE SUITE 253", 
+    "city" : "SACRAMENTO", 
+    "state" : "CA", 
+    "zipCode" : 95831.0, 
+    "phoneNumber" : "9164699330"
+}
+{ 
+    "_id" : ObjectId("5fbe623c168b7773e757864f"), 
+    "museumID" : [
+        8400601802.0
+    ], 
+    "museumName" : "EL CAMPANIL THEATRE PRESERVATION FOUNDATION", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "602 W 2ND STREET", 
+    "city" : "ANTIOCH", 
+    "state" : "CA", 
+    "zipCode" : 94509.0, 
+    "phoneNumber" : "9257579500"
+}
+{ 
+    "_id" : ObjectId("5fbe623d168b7773e7578650"), 
+    "museumID" : [
+        8400601892.0
+    ], 
+    "museumName" : "EL PASO DE ROBLES AREA HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "800 12TH STREET", 
+    "city" : "PASO ROBLES", 
+    "state" : "CA", 
+    "zipCode" : 93447.0, 
+    "phoneNumber" : "8052384996"
+}
+{ 
+    "_id" : ObjectId("5fbe623d168b7773e7578651"), 
+    "museumID" : [
+        8400602548.0
+    ], 
+    "museumName" : "ELVERTA HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "8840 EL VERANO AVENUE", 
+    "city" : "ELVERTA", 
+    "state" : "CA", 
+    "zipCode" : 95747.0, 
+    "phoneNumber" : "9169910338"
+}
+{ 
+    "_id" : ObjectId("5fbe623e168b7773e7578652"), 
+    "museumID" : [
+        8400600468.0
+    ], 
+    "museumName" : "EMERALD BAY STATE PARK", 
+    "museumType" : "ARBORETUM, BOTANICAL GARDEN, OR NATURE CENTER", 
+    "streetAddress" : "11001 CALIFORNIA 89", 
+    "city" : "SOUTH LAKE TAHOE", 
+    "state" : "CA", 
+    "zipCode" : 96142.0, 
+    "phoneNumber" : "5305253345"
+}
+{ 
+    "_id" : ObjectId("5fbe623e168b7773e7578653"), 
+    "museumID" : [
+        8400601079.0
+    ], 
+    "museumName" : "EMERYVILLE CENTER FOR THE ARTS", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "5710 HOLLIS ST", 
+    "city" : "EMERYVILLE", 
+    "state" : "CA", 
+    "zipCode" : 94662.0, 
+    "phoneNumber" : "5106010520"
+}
+{ 
+    "_id" : ObjectId("5fbe623f168b7773e7578654"), 
+    "museumID" : [
+        8400602745.0
+    ], 
+    "museumName" : "ENCINITAS HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "PO BOX 232293", 
+    "city" : "ENCINITAS", 
+    "state" : "CA", 
+    "zipCode" : 92023.0, 
+    "phoneNumber" : "7609429066"
+}
+{ 
+    "_id" : ObjectId("5fbe6240168b7773e7578655"), 
+    "museumID" : [
+        8400602965.0
+    ], 
+    "museumName" : "ENVIRONMENTAL NATURE CENTER", 
+    "museumType" : "ARBORETUM, BOTANICAL GARDEN, OR NATURE CENTER", 
+    "streetAddress" : "1601 E 16TH ST", 
+    "city" : "NEWPORT BEACH", 
+    "state" : "CA", 
+    "zipCode" : 92663.0, 
+    "phoneNumber" : "9496458489"
+}
+{ 
+    "_id" : ObjectId("5fbe6240168b7773e7578656"), 
+    "museumID" : [
+        8400600934.0
+    ], 
+    "museumName" : "ESCONDIDO HISTORY CENTER", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "PO BOX 263", 
+    "city" : "ESCONDIDO", 
+    "state" : "CA", 
+    "zipCode" : 92033.0, 
+    "phoneNumber" : "6197438207"
+}
+{ 
+    "_id" : ObjectId("5fbe6241168b7773e7578657"), 
+    "museumID" : [
+        8400601179.0
+    ], 
+    "museumName" : "ETIWANDA HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "7150 ETIWANDA AVENUE", 
+    "city" : "RANCHO CUCAMONGA", 
+    "state" : "CA", 
+    "zipCode" : 91739.0, 
+    "phoneNumber" : "9098998432"
+}
+{ 
+    "_id" : ObjectId("5fbe6241168b7773e7578658"), 
+    "museumID" : [
+        8400601649.0
+    ], 
+    "museumName" : "EXPLORIT SCIENCE CENTER", 
+    "museumType" : "SCIENCE & TECHNOLOGY MUSEUM OR PLANETARIUM", 
+    "streetAddress" : "PO BOX 1288", 
+    "city" : "DAVIS", 
+    "state" : "CA", 
+    "zipCode" : 95617.0, 
+    "phoneNumber" : "5307560191"
+}
+{ 
+    "_id" : ObjectId("5fbe6242168b7773e7578659"), 
+    "museumID" : [
+        8400600508.0
+    ], 
+    "museumName" : "FALKIRK CULTURAL CENTER", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "1408 MISSION AVENUE AT E STREET", 
+    "city" : "SAN RAFAEL", 
+    "state" : "CA", 
+    "zipCode" : 94915.0, 
+    "phoneNumber" : "4154853328"
+}
+{ 
+    "_id" : ObjectId("5fbe6242168b7773e757865a"), 
+    "museumID" : [
+        8400600492.0
+    ], 
+    "museumName" : "FALLBROOK GEM AND MINERAL MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "123 W ALVARADO ST", 
+    "city" : "FALLBROOK", 
+    "state" : "CA", 
+    "zipCode" : 92028.0, 
+    "phoneNumber" : "7607281130"
+}
+{ 
+    "_id" : ObjectId("5fbe6243168b7773e757865b"), 
+    "museumID" : [
+        8400601571.0
+    ], 
+    "museumName" : "FALLBROOK HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "260 ROCKY CREST ROAD", 
+    "city" : "FALLBROOK", 
+    "state" : "CA", 
+    "zipCode" : 92088.0, 
+    "phoneNumber" : "7607234125"
+}
+{ 
+    "_id" : ObjectId("5fbe6243168b7773e757865c"), 
+    "museumID" : [
+        8400602634.0
+    ], 
+    "museumName" : "FILLMORE HISTORICAL MUSEUM", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "350 MAIN STREE", 
+    "city" : "FILLMORE", 
+    "state" : "CA", 
+    "zipCode" : 93016.0, 
+    "phoneNumber" : "8055240948"
+}
+{ 
+    "_id" : ObjectId("5fbe6244168b7773e757865d"), 
+    "museumID" : [
+        8400601848.0
+    ], 
+    "museumName" : "FILM NOIR FOUNDATION", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "NO STREET OR MAILING ADDRESS", 
+    "city" : "KENSINGTON", 
+    "state" : "CA", 
+    "zipCode" : 94707.0, 
+    "phoneNumber" : "5105588880"
+}
+{ 
+    "_id" : ObjectId("5fbe6244168b7773e757865e"), 
+    "museumID" : [
+        8409400930.0
+    ], 
+    "museumName" : "FINGERPRINTS YOUTH MUSEUM", 
+    "museumType" : "CHILDREN'S MUSEUM", 
+    "streetAddress" : "123 SOUTH CARMALITA STREET", 
+    "city" : "HEMET", 
+    "state" : "CA", 
+    "zipCode" : 92543.0, 
+    "phoneNumber" : "9517651223"
+}
+{ 
+    "_id" : ObjectId("5fbe6245168b7773e757865f"), 
+    "museumID" : [
+        8400601331.0
+    ], 
+    "museumName" : "FIRE MEMORIES MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "5261 W WILSON STREET", 
+    "city" : "BANNING", 
+    "state" : "CA", 
+    "zipCode" : 92223.0, 
+    "phoneNumber" : "9518459500"
+}
+{ 
+    "_id" : ObjectId("5fbe6245168b7773e7578660"), 
+    "museumID" : [
+        8400602354.0
+    ], 
+    "museumName" : "FOLSOM CITY ZOO AND SANCTUARY", 
+    "museumType" : "ZOO, AQUARIUM, OR WILDLIFE CONSERVATION", 
+    "streetAddress" : "403 STAFFORD ST", 
+    "city" : "FOLSOM", 
+    "state" : "CA", 
+    "zipCode" : 95763.0, 
+    "phoneNumber" : "9162265445"
+}
+{ 
+    "_id" : ObjectId("5fbe6246168b7773e7578661"), 
+    "museumID" : [
+        8400600438.0
+    ], 
+    "museumName" : "FORESTHILL DIVIDE MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "24601 HARRISON ST", 
+    "city" : "FORESTHILL", 
+    "state" : "CA", 
+    "zipCode" : 95631.0, 
+    "phoneNumber" : "5303673988"
+}
+{ 
+    "_id" : ObjectId("5fbe6246168b7773e7578662"), 
+    "museumID" : [
+        8400601788.0
+    ], 
+    "museumName" : "FORT BRAGG MENDOCINO COAST HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "343 N MAIN ST", 
+    "city" : "FORT BRAGG", 
+    "state" : "CA", 
+    "zipCode" : 95437.0, 
+    "phoneNumber" : "7079648968"
+}
+{ 
+    "_id" : ObjectId("5fbe6247168b7773e7578663"), 
+    "museumID" : [
+        8400602523.0
+    ], 
+    "museumName" : "FORT CROOK HISTORICAL SOCIETY & MUSEUM", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "PO BOX 397", 
+    "city" : "FALL RIVER MILLS", 
+    "state" : "CA", 
+    "zipCode" : 96028.0, 
+    "phoneNumber" : "5303365110"
+}
+{ 
+    "_id" : ObjectId("5fbe6247168b7773e7578664"), 
+    "museumID" : [
+        8400602800.0
+    ], 
+    "museumName" : "FORT MACARTHUR MILITARY MUSEUM", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "3601 S GAFFEY STREET", 
+    "city" : "SAN PEDRO", 
+    "state" : "CA", 
+    "zipCode" : 90733.0, 
+    "phoneNumber" : "3102410846"
+}
+{ 
+    "_id" : ObjectId("5fbe6248168b7773e7578665"), 
+    "museumID" : [
+        8400601863.0
+    ], 
+    "museumName" : "FORT TEJON HISTORICAL ASSOCIATION", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "2330 E AVENUE J-8 SPC 48", 
+    "city" : "LEBEC", 
+    "state" : "CA", 
+    "zipCode" : 93535.0, 
+    "phoneNumber" : "6612486692"
+}
+{ 
+    "_id" : ObjectId("5fbe6249168b7773e7578666"), 
+    "museumID" : [
+        8409500069.0
+    ], 
+    "museumName" : "FRESNO CHAFFEE ZOO", 
+    "museumType" : "ZOO, AQUARIUM, OR WILDLIFE CONSERVATION", 
+    "streetAddress" : "894 W BELMONT AVENUE", 
+    "city" : "FRESNO", 
+    "state" : "CA", 
+    "zipCode" : 93728.0, 
+    "phoneNumber" : "5594985910"
+}
+{ 
+    "_id" : ObjectId("5fbe6249168b7773e7578667"), 
+    "museumID" : [
+        8400601297.0
+    ], 
+    "museumName" : "FULLHART-CARNEGIE MUSEUM TRUST", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "PO BOX 19599", 
+    "city" : "IRVINE", 
+    "state" : "CA", 
+    "zipCode" : 92623.0, 
+    "phoneNumber" : "5154652518"
+}
+{ 
+    "_id" : ObjectId("5fbe624a168b7773e7578668"), 
+    "museumID" : [
+        8400601675.0
+    ], 
+    "museumName" : "GALLERY ROUTE ONE", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "11101 CALFIORNIA 1", 
+    "city" : "POINT REYES STATION", 
+    "state" : "CA", 
+    "zipCode" : 94956.0, 
+    "phoneNumber" : "4156631347"
+}
+{ 
+    "_id" : ObjectId("5fbe624a168b7773e7578669"), 
+    "museumID" : [
+        8400601685.0
+    ], 
+    "museumName" : "GALT AREA HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "204 OAK AVE", 
+    "city" : "GALT", 
+    "state" : "CA", 
+    "zipCode" : 95632.0, 
+    "phoneNumber" : "2097450951"
+}
+{ 
+    "_id" : ObjectId("5fbe624b168b7773e757866a"), 
+    "museumID" : [
+        8400600859.0
+    ], 
+    "museumName" : "GARDEN GROVE HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "PO BOX 4297", 
+    "city" : "GARDEN GROVE", 
+    "state" : "CA", 
+    "zipCode" : 92842.0, 
+    "phoneNumber" : "7145308871"
+}
+{ 
+    "_id" : ObjectId("5fbe624b168b7773e757866b"), 
+    "museumID" : [
+        8409500467.0
+    ], 
+    "museumName" : "GATEWAY SCIENCE MUSEUM", 
+    "museumType" : "SCIENCE & TECHNOLOGY MUSEUM OR PLANETARIUM", 
+    "streetAddress" : "625 THE ESPLANADE", 
+    "city" : "CHICO", 
+    "state" : "CA", 
+    "zipCode" : 95926.0, 
+    "phoneNumber" : "5308984121"
+}
+{ 
+    "_id" : ObjectId("5fbe624c168b7773e757866c"), 
+    "museumID" : [
+        8400601285.0
+    ], 
+    "museumName" : "GENEALOGICAL SOCIETY OF HISPANIC AMERICA - SOUTHERN CALIFORNIA", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "417 IRVING DR", 
+    "city" : "BURBANK", 
+    "state" : "CA", 
+    "zipCode" : 90670.0, 
+    "phoneNumber" : "8188437247"
+}
+{ 
+    "_id" : ObjectId("5fbe624d168b7773e757866d"), 
+    "museumID" : [
+        8400600428.0
+    ], 
+    "museumName" : "GILMAN RANCH MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "GILMAN HISTORIC RANCH AND WAGON MUSEUM", 
+    "city" : "BANNING", 
+    "state" : "CA", 
+    "zipCode" : 92220.0, 
+    "phoneNumber" : "9519229200"
+}
+{ 
+    "_id" : ObjectId("5fbe624f168b7773e757866e"), 
+    "museumID" : [
+        8400601752.0
+    ], 
+    "museumName" : "GLEN ELLEN HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "14301 ARNOLD DR", 
+    "city" : "GLEN ELLEN", 
+    "state" : "CA", 
+    "zipCode" : 95442.0, 
+    "phoneNumber" : "7079353663"
+}
+{ 
+    "_id" : ObjectId("5fbe624f168b7773e757866f"), 
+    "museumID" : [
+        8400600456.0
+    ], 
+    "museumName" : "GOLD NUGGET MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "502 PEARSON RD", 
+    "city" : "PARADISE", 
+    "state" : "CA", 
+    "zipCode" : 95967.0, 
+    "phoneNumber" : "5308728722"
+}
+{ 
+    "_id" : ObjectId("5fbe6250168b7773e7578670"), 
+    "museumID" : [
+        8400601673.0
+    ], 
+    "museumName" : "GOLDEN STATE MODEL RAILROAD MUSEUM", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "900 DORNAN DR", 
+    "city" : "RICHMOND", 
+    "state" : "CA", 
+    "zipCode" : 94807.0, 
+    "phoneNumber" : "5102344884"
+}
+{ 
+    "_id" : ObjectId("5fbe6250168b7773e7578671"), 
+    "museumID" : [
+        8400600431.0
+    ], 
+    "museumName" : "GOLDEN STATE MUSEUM", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "900 DORNAN DRIVE", 
+    "city" : "PT RICHMOND", 
+    "state" : "CA", 
+    "zipCode" : 95814.0, 
+    "phoneNumber" : "5102344884"
+}
+{ 
+    "_id" : ObjectId("5fbe6251168b7773e7578672"), 
+    "museumID" : [
+        8400600413.0
+    ], 
+    "museumName" : "GREAT VALLEY MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "2201 BLUE GUM AVENUE", 
+    "city" : "MODESTO", 
+    "state" : "CA", 
+    "zipCode" : 95350.0, 
+    "phoneNumber" : "2095756196"
+}
+{ 
+    "_id" : ObjectId("5fbe6252168b7773e7578673"), 
+    "museumID" : [
+        8400600401.0
+    ], 
+    "museumName" : "GREAT VALLEY SERPENTARIUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "2379 MAGGIO CIR", 
+    "city" : "LODI", 
+    "state" : "CA", 
+    "zipCode" : 95240.0, 
+    "phoneNumber" : "2093697737"
+}
+{ 
+    "_id" : ObjectId("5fbe6252168b7773e7578674"), 
+    "museumID" : [
+        8400600399.0
+    ], 
+    "museumName" : "GREAT WESTERN RAILROAD MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "5848 STATE GH Y 12", 
+    "city" : "SUISUN", 
+    "state" : "CA", 
+    "zipCode" : 94585.0, 
+    "phoneNumber" : "7073742978"
+}
+{ 
+    "_id" : ObjectId("5fbe6253168b7773e7578675"), 
+    "museumID" : [
+        8400601133.0
+    ], 
+    "museumName" : "GREENVILLE CY HALL MEMORIAL MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "408 MAIN ST", 
+    "city" : "GREENVILLE", 
+    "state" : "CA", 
+    "zipCode" : 95947.0, 
+    "phoneNumber" : "5302846633"
+}
+{ 
+    "_id" : ObjectId("5fbe6253168b7773e7578676"), 
+    "museumID" : [
+        8400600409.0
+    ], 
+    "museumName" : "GRIFFITH OBSERVATORY", 
+    "museumType" : "SCIENCE & TECHNOLOGY MUSEUM OR PLANETARIUM", 
+    "streetAddress" : "2800 E OBSERVATORY RD", 
+    "city" : "LOS ANGELES", 
+    "state" : "CA", 
+    "zipCode" : 90027.0, 
+    "phoneNumber" : "2134730800"
+}
+{ 
+    "_id" : ObjectId("5fbe6331168b7773e75787e7"), 
+    "museumID" : [
+        8403200030.0
+    ], 
+    "museumName" : "GUINNESS WORLD OF RECORDS MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "6764 HOLLYWOOD BLVD", 
+    "city" : "LOS ANGELES", 
+    "state" : "CA", 
+    "zipCode" : 89109.0, 
+    "phoneNumber" : "3234636433"
+}
+{ 
+    "_id" : ObjectId("5fbe6254168b7773e7578677"), 
+    "museumID" : [
+        8409400942.0
+    ], 
+    "museumName" : "GULL WINGS CHILDREN'S MUSEUM", 
+    "museumType" : "CHILDREN'S MUSEUM", 
+    "streetAddress" : "418 WEST FOURTH STREET", 
+    "city" : "OXNARD", 
+    "state" : "CA", 
+    "zipCode" : 93030.0, 
+    "phoneNumber" : "8054833005"
+}
+{ 
+    "_id" : ObjectId("5fbe6254168b7773e7578678"), 
+    "museumID" : [
+        8400600639.0
+    ], 
+    "museumName" : "HAMILTON MUSEUM AND RANCH FOUNDATION", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "39420 CONTRERAS RD", 
+    "city" : "ANZA", 
+    "state" : "CA", 
+    "zipCode" : 92539.0, 
+    "phoneNumber" : "9517631350"
+}
+{ 
+    "_id" : ObjectId("5fbe6255168b7773e7578679"), 
+    "museumID" : [
+        8409500502.0
+    ], 
+    "museumName" : "HAPPY HOLLOW PARK & ZOO", 
+    "museumType" : "SCIENCE & TECHNOLOGY MUSEUM OR PLANETARIUM", 
+    "streetAddress" : "1300 SENTER ROAD", 
+    "city" : "SAN JOSE", 
+    "state" : "CA", 
+    "zipCode" : 95112.0, 
+    "phoneNumber" : "4087946403"
+}
+{ 
+    "_id" : ObjectId("5fbe6255168b7773e757867a"), 
+    "museumID" : [
+        8400602217.0
+    ], 
+    "museumName" : "HAYWARD AREA HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "22380 FOOTHILL BLVD", 
+    "city" : "HAYWARD", 
+    "state" : "CA", 
+    "zipCode" : 94541.0, 
+    "phoneNumber" : "5105810223"
+}
+{ 
+    "_id" : ObjectId("5fbe6256168b7773e757867b"), 
+    "museumID" : [
+        8400602361.0
+    ], 
+    "museumName" : "HEADLANDS CENTER FOR THE ARTS", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "944 SIMMONDS RD", 
+    "city" : "SAUSALITO", 
+    "state" : "CA", 
+    "zipCode" : 94965.0, 
+    "phoneNumber" : "4153312787"
+}
+{ 
+    "_id" : ObjectId("5fbe6257168b7773e757867c"), 
+    "museumID" : [
+        8400602271.0
+    ], 
+    "museumName" : "HEALDSBURG MUSEUM AND HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "221 MATHESON ST", 
+    "city" : "HEALDSBURG", 
+    "state" : "CA", 
+    "zipCode" : 95448.0, 
+    "phoneNumber" : "7074313325"
+}
+{ 
+    "_id" : ObjectId("5fbe6257168b7773e757867d"), 
+    "museumID" : [
+        8400600701.0
+    ], 
+    "museumName" : "HEMET-SAN JACINTO VALLEY HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "100 W FLORIDA AVENUE", 
+    "city" : "HEMET", 
+    "state" : "CA", 
+    "zipCode" : 92546.0, 
+    "phoneNumber" : "9519294409"
+}
+{ 
+    "_id" : ObjectId("5fbe6258168b7773e757867e"), 
+    "museumID" : [
+        8400602255.0
+    ], 
+    "museumName" : "HERITAGE MUSEUM OF SAN FRANCISCO", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "608 COMMERCIAL STREET", 
+    "city" : "SAN FRANCISCO", 
+    "state" : "CA", 
+    "zipCode" : 94123.0, 
+    "phoneNumber" : "4153991124"
+}
+{ 
+    "_id" : ObjectId("5fbe6258168b7773e757867f"), 
+    "museumID" : [
+        8400601218.0
+    ], 
+    "museumName" : "HERITAGE OF THE AMERICANS MUSEUM", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "12110 CUYAMACA COLLEGE DRIVE WEST", 
+    "city" : "EL CAJON", 
+    "state" : "CA", 
+    "zipCode" : 92019.0, 
+    "phoneNumber" : "6196705194"
+}
+{ 
+    "_id" : ObjectId("5fbe6259168b7773e7578680"), 
+    "museumID" : [
+        8400601202.0
+    ], 
+    "museumName" : "HERITAGE PARK VILLAGE & MUSEUM", 
+    "museumType" : "ARBORETUM, BOTANICAL GARDEN, OR NATURE CENTER", 
+    "streetAddress" : "PO BOX 4663", 
+    "city" : "OCEANSIDE", 
+    "state" : "CA", 
+    "zipCode" : 92056.0, 
+    "phoneNumber" : "7609664545"
+}
+{ 
+    "_id" : ObjectId("5fbe6259168b7773e7578681"), 
+    "museumID" : [
+        8400602258.0
+    ], 
+    "museumName" : "HERITAGE SOCIETY OF PACIFIC GROVE", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "605 LAUREL AVE", 
+    "city" : "PACIFIC GROVE", 
+    "state" : "CA", 
+    "zipCode" : 93950.0, 
+    "phoneNumber" : "8313722898"
+}
+{ 
+    "_id" : ObjectId("5fbe625a168b7773e7578682"), 
+    "museumID" : [
+        8400600418.0
+    ], 
+    "museumName" : "HERITAGE SQUARE MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "3800 HOMER STREET", 
+    "city" : "LOS ANGELES", 
+    "state" : "CA", 
+    "zipCode" : 91101.0, 
+    "phoneNumber" : "3232252700"
+}
+{ 
+    "_id" : ObjectId("5fbe625a168b7773e7578683"), 
+    "museumID" : [
+        8400601181.0
+    ], 
+    "museumName" : "HISTORIC FRENCH PARK ASSOCIATION", 
+    "museumType" : "ARBORETUM, BOTANICAL GARDEN, OR NATURE CENTER", 
+    "streetAddress" : "901 N FRENCH ST", 
+    "city" : "SANTA ANA", 
+    "state" : "CA", 
+    "zipCode" : 92701.0, 
+    "phoneNumber" : "7147853234"
+}
+{ 
+    "_id" : ObjectId("5fbe625a168b7773e7578684"), 
+    "museumID" : [
+        8400601912.0
+    ], 
+    "museumName" : "HISTORIC PRESERVATION SOCIETY OF SANTA CLARA", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "HISTORIC PRESERVATION SOCIETY OF SANTA CLARA", 
+    "city" : "SANTA CLARA", 
+    "state" : "CA", 
+    "zipCode" : 95055.0, 
+    "phoneNumber" : "4082497905"
+}
+{ 
+    "_id" : ObjectId("5fbe625b168b7773e7578685"), 
+    "museumID" : [
+        8400601790.0
+    ], 
+    "museumName" : "HISTORIC RAILROAD SQUARE ASSOCIATION", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "PO BOX 4114", 
+    "city" : "SANTA ROSA", 
+    "state" : "CA", 
+    "zipCode" : 95402.0, 
+    "phoneNumber" : "7075788478"
+}
+{ 
+    "_id" : ObjectId("5fbe625c168b7773e7578686"), 
+    "museumID" : [
+        8400602125.0
+    ], 
+    "museumName" : "HISTORIC SHIPS MEMORIAL AT PACIFIC SQUARE", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "375 G STREET", 
+    "city" : "VALLEJO", 
+    "state" : "CA", 
+    "zipCode" : 94590.0, 
+    "phoneNumber" : "7076434692"
+}
+{ 
+    "_id" : ObjectId("5fbe625c168b7773e7578687"), 
+    "museumID" : [
+        8400602094.0
+    ], 
+    "museumName" : "HISTORIC TUGBOAT EDUCATION & RESTORATION SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "3020 BRIDGEWAY #315", 
+    "city" : "SAUSALITO", 
+    "state" : "CA", 
+    "zipCode" : 94965.0, 
+    "phoneNumber" : "8183702203"
+}
+{ 
+    "_id" : ObjectId("5fbe625d168b7773e7578688"), 
+    "museumID" : [
+        8400601704.0
+    ], 
+    "museumName" : "HISTORIC UPTOWN SUSANVILLE", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "PO BOX 1826", 
+    "city" : "SUSANVILLE", 
+    "state" : "CA", 
+    "zipCode" : 96130.0, 
+    "phoneNumber" : "5302576506"
+}
+{ 
+    "_id" : ObjectId("5fbe625d168b7773e7578689"), 
+    "museumID" : [
+        8400602233.0
+    ], 
+    "museumName" : "HISTORICAL SOCIETY MADERA COUNTY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "210 W YOSEMITE AVENUE", 
+    "city" : "MADERA", 
+    "state" : "CA", 
+    "zipCode" : 93639.0, 
+    "phoneNumber" : "5596730291"
+}
+{ 
+    "_id" : ObjectId("5fbe6260168b7773e757868a"), 
+    "museumID" : [
+        8400602918.0
+    ], 
+    "museumName" : "HISTORICAL SOCIETY OF CENTINELA VALLEY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "7634 MIDFIELD AVE", 
+    "city" : "LOS ANGELES", 
+    "state" : "CA", 
+    "zipCode" : 90045.0, 
+    "phoneNumber" : "3106496272"
+}
+{ 
+    "_id" : ObjectId("5fbe6261168b7773e757868b"), 
+    "museumID" : [
+        8400602664.0
+    ], 
+    "museumName" : "HISTORICAL SOCIETY OF LAGUNA WOODS", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "24351 EL TORO ROAD", 
+    "city" : "LAGUNA WOODS", 
+    "state" : "CA", 
+    "zipCode" : 92654.0, 
+    "phoneNumber" : "9495974200"
+}
+{ 
+    "_id" : ObjectId("5fbe6262168b7773e757868c"), 
+    "museumID" : [
+        8400600327.0
+    ], 
+    "museumName" : "HISTORICAL SOCIETY OF LONG BEACH", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "4260 ATLANTIC AVE", 
+    "city" : "LONG BEACH", 
+    "state" : "CA", 
+    "zipCode" : 90801.0, 
+    "phoneNumber" : "5624242220"
+}
+{ 
+    "_id" : ObjectId("5fbe6262168b7773e757868d"), 
+    "museumID" : [
+        8400602063.0
+    ], 
+    "museumName" : "HISTORICAL SOCIETY OF MORRO BAY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "695 HARBOR STREET", 
+    "city" : "MORRO BAY", 
+    "state" : "CA", 
+    "zipCode" : 93443.0, 
+    "phoneNumber" : "8052251570"
+}
+{ 
+    "_id" : ObjectId("5fbe6263168b7773e757868e"), 
+    "museumID" : [
+        8400602680.0
+    ], 
+    "museumName" : "HISTORICAL SOCIETY OF PALM DESERT", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "72861 EL PASEO", 
+    "city" : "PALM DESERT", 
+    "state" : "CA", 
+    "zipCode" : 92261.0, 
+    "phoneNumber" : "7603466588"
+}
+{ 
+    "_id" : ObjectId("5fbe6264168b7773e757868f"), 
+    "museumID" : [
+        8400602336.0
+    ], 
+    "museumName" : "HISTORICAL SOCIETY OF SOUTH SAN FRANCISCO", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "80 CHESTNUT AVENUE", 
+    "city" : "SOUTH SAN FRANCISCO", 
+    "state" : "CA", 
+    "zipCode" : 94083.0, 
+    "phoneNumber" : "6508293825"
+}
+{ 
+    "_id" : ObjectId("5fbe6264168b7773e7578690"), 
+    "museumID" : [
+        8400602902.0
+    ], 
+    "museumName" : "HISTORICAL SOCIETY OF SOUTHERN CALIFORNIA", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "200 E AVENUE 43", 
+    "city" : "LOS ANGELES", 
+    "state" : "CA", 
+    "zipCode" : 91109.0, 
+    "phoneNumber" : "3234605632"
+}
+{ 
+    "_id" : ObjectId("5fbe6265168b7773e7578691"), 
+    "museumID" : [
+        8400602778.0
+    ], 
+    "museumName" : "HISTORICAL SOCIETY OF TEMPLE CITY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "5954 KAUFFMAN AVENUE", 
+    "city" : "TEMPLE CITY", 
+    "state" : "CA", 
+    "zipCode" : 91780.0, 
+    "phoneNumber" : "6264510833"
+}
+{ 
+    "_id" : ObjectId("5fbe6266168b7773e7578692"), 
+    "museumID" : [
+        8400601300.0
+    ], 
+    "museumName" : "HISTORICAL SOCIETY OF THE UPPER MOJAVE DESERT", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "230 W RIDGECREST BLVD", 
+    "city" : "RIDGECREST", 
+    "state" : "CA", 
+    "zipCode" : 93556.0, 
+    "phoneNumber" : "7603758456"
+}
+{ 
+    "_id" : ObjectId("5fbe6266168b7773e7578693"), 
+    "museumID" : [
+        8400602736.0
+    ], 
+    "museumName" : "HISTORICAL SOCIETY WEST COVINA", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "3510 E CAMERON AVE", 
+    "city" : "WEST COVINA", 
+    "state" : "CA", 
+    "zipCode" : 91791.0, 
+    "phoneNumber" : "6269192580"
+}
+{ 
+    "_id" : ObjectId("5fbe6267168b7773e7578694"), 
+    "museumID" : [
+        8400602702.0
+    ], 
+    "museumName" : "HOLLYWOOD HERITAGE", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "2100 NORTH HIGHLAND AVENUE", 
+    "city" : "HOLLYWOOD", 
+    "state" : "CA", 
+    "zipCode" : 90078.0, 
+    "phoneNumber" : "3238742276"
+}
+{ 
+    "_id" : ObjectId("5fbe6267168b7773e7578695"), 
+    "museumID" : [
+        8400601713.0
+    ], 
+    "museumName" : "HUMBOLDT BOTANICAL GARDENS", 
+    "museumType" : "ARBORETUM, BOTANICAL GARDEN, OR NATURE CENTER", 
+    "streetAddress" : "350 EAST STREET SUITE 206", 
+    "city" : "EUREKA", 
+    "state" : "CA", 
+    "zipCode" : 95502.0, 
+    "phoneNumber" : "7074425139"
+}
+{ 
+    "_id" : ObjectId("5fbe6268168b7773e7578696"), 
+    "museumID" : [
+        8400600927.0
+    ], 
+    "museumName" : "HUMBOLDT COUNTY HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "703 8TH ST", 
+    "city" : "EUREKA", 
+    "state" : "CA", 
+    "zipCode" : 95501.0, 
+    "phoneNumber" : "7074454342"
+}
+{ 
+    "_id" : ObjectId("5fbe6268168b7773e7578697"), 
+    "museumID" : [
+        8400602955.0
+    ], 
+    "museumName" : "HUMBOLDT STATE UNIV. NATURAL HISTORY MUSEUM", 
+    "museumType" : "NATURAL HISTORY MUSEUM", 
+    "streetAddress" : "1242 G STREET", 
+    "city" : "ARCATA", 
+    "state" : "CA", 
+    "zipCode" : 95521.0, 
+    "phoneNumber" : "7078264479"
+}
+{ 
+    "_id" : ObjectId("5fbe6269168b7773e7578698"), 
+    "museumID" : [
+        8400602156.0
+    ], 
+    "museumName" : "IDYLWILD AREA HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "54470 N CIRCLE DR", 
+    "city" : "IDYLLWILD", 
+    "state" : "CA", 
+    "zipCode" : 92549.0, 
+    "phoneNumber" : "9516592717"
+}
+{ 
+    "_id" : ObjectId("5fbe6269168b7773e7578699"), 
+    "museumID" : [
+        8400600334.0
+    ], 
+    "museumName" : "IMMIGRATION MUSEUM", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "2825 DEWEY ROAD SUITE 102", 
+    "city" : "SAN DIEGO", 
+    "state" : "CA", 
+    "zipCode" : 92101.0, 
+    "phoneNumber" : "6192258908"
+}
+{ 
+    "_id" : ObjectId("5fbe626a168b7773e757869a"), 
+    "museumID" : [
+        8400600935.0
+    ], 
+    "museumName" : "IMPERIAL VALLEY DESERT MUSEUM SOCIETY", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "PO BOX 2455", 
+    "city" : "OCOTILLO", 
+    "state" : "CA", 
+    "zipCode" : 92259.0, 
+    "phoneNumber" : "7603587016"
+}
+{ 
+    "_id" : ObjectId("5fbe626a168b7773e757869b"), 
+    "museumID" : [
+        8409500017.0
+    ], 
+    "museumName" : "INSTITUTION OF OCEANOGRAPHY", 
+    "museumType" : "ZOO, AQUARIUM, OR WILDLIFE CONSERVATION", 
+    "streetAddress" : "2300 EXPEDITION WAY", 
+    "city" : "LA JOLLA", 
+    "state" : "CA", 
+    "zipCode" : 92037.0, 
+    "phoneNumber" : "8585344109"
+}
+{ 
+    "_id" : ObjectId("5fbe626b168b7773e757869c"), 
+    "museumID" : [
+        8400601631.0
+    ], 
+    "museumName" : "INTERNATIONAL ART MUSEUM OF AMERICA", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "1025 MARKET STREET", 
+    "city" : "SAN FRANCISCO", 
+    "state" : "CA", 
+    "zipCode" : 94103.0, 
+    "phoneNumber" : "4153766344"
+}
+{ 
+    "_id" : ObjectId("5fbe626b168b7773e757869d"), 
+    "museumID" : [
+        8400601885.0
+    ], 
+    "museumName" : "INTERNATIONAL MUSEUM OF WOMEN", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "101 HOWARD ST STE 480", 
+    "city" : "SAN FRANCISCO", 
+    "state" : "CA", 
+    "zipCode" : 94104.0, 
+    "phoneNumber" : "4155434669"
+}
+{ 
+    "_id" : ObjectId("5fbe626c168b7773e757869e"), 
+    "museumID" : [
+        8400601742.0
+    ], 
+    "museumName" : "ISLETON-BRANNAN-ANDRUS HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "17 MAIN STREET", 
+    "city" : "ISLETON", 
+    "state" : "CA", 
+    "zipCode" : 95641.0, 
+    "phoneNumber" : "9166235775"
+}
+{ 
+    "_id" : ObjectId("5fbe626c168b7773e757869f"), 
+    "museumID" : [
+        8409502238.0
+    ], 
+    "museumName" : "J. PAUL GETTY MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "1200 GETTY CENTER DRIVE SUITE 100", 
+    "city" : "LOS ANGELES", 
+    "state" : "CA", 
+    "zipCode" : 90049.0, 
+    "phoneNumber" : "3104407300"
+}
+{ 
+    "_id" : ObjectId("5fbe626d168b7773e75786a0"), 
+    "museumID" : [
+        8400600344.0
+    ], 
+    "museumName" : "JACK LONDON STATE HISTORIC PARK", 
+    "museumType" : "ARBORETUM, BOTANICAL GARDEN, OR NATURE CENTER", 
+    "streetAddress" : "2400 LONDON RANCH ROAD", 
+    "city" : "GLEN ELLEN", 
+    "state" : "CA", 
+    "zipCode" : 95442.0, 
+    "phoneNumber" : "7079385216"
+}
+{ 
+    "_id" : ObjectId("5fbe626e168b7773e75786a1"), 
+    "museumID" : [
+        8400600361.0
+    ], 
+    "museumName" : "JACQUELINE LAVENU", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "2400 KETTNER BLVD", 
+    "city" : "SAN DIEGO", 
+    "state" : "CA", 
+    "zipCode" : 92101.0, 
+    "phoneNumber" : "6197026270"
+}
+{ 
+    "_id" : ObjectId("5fbe626e168b7773e75786a2"), 
+    "museumID" : [
+        8400602718.0
+    ], 
+    "museumName" : "JAPAN AMERICA SOCIETY OF SOUTHERN CALIFORNIA", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "1411 W 190TH STREET SUITE 380", 
+    "city" : "GARDENA", 
+    "state" : "CA", 
+    "zipCode" : 90510.0, 
+    "phoneNumber" : "3109659050"
+}
+{ 
+    "_id" : ObjectId("5fbe626f168b7773e75786a3"), 
+    "museumID" : [
+        8400601263.0
+    ], 
+    "museumName" : "JAPANESE AMERICAN HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "8170 RONSON RD", 
+    "city" : "SAN DIEGO", 
+    "state" : "CA", 
+    "zipCode" : 92192.0, 
+    "phoneNumber" : "8585059020"
+}
+{ 
+    "_id" : ObjectId("5fbe626f168b7773e75786a4"), 
+    "museumID" : [
+        8400600323.0
+    ], 
+    "museumName" : "JENSEN AND WALKER", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "8802 ASHCROFT AVE", 
+    "city" : "LOS ANGELES", 
+    "state" : "CA", 
+    "zipCode" : 90048.0, 
+    "phoneNumber" : "3102738696"
+}
+{ 
+    "_id" : ObjectId("5fbe6270168b7773e75786a5"), 
+    "museumID" : [
+        8400600347.0
+    ], 
+    "museumName" : "JEWISH FEDERATION COUNCIL OF GREATER LOS ANGELES", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "6505 WILSHIRE BOULEVARD SUITE 100", 
+    "city" : "LOS ANGELES", 
+    "state" : "CA", 
+    "zipCode" : 90048.0, 
+    "phoneNumber" : "3237618984"
+}
+{ 
+    "_id" : ObjectId("5fbe6270168b7773e75786a6"), 
+    "museumID" : [
+        8400602384.0
+    ], 
+    "museumName" : "JOSE MOYA DEL PINO LIBRARY - ROSS HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "30 SIR FRANCIS DRAKE BLVD", 
+    "city" : "ROSS", 
+    "state" : "CA", 
+    "zipCode" : 94957.0, 
+    "phoneNumber" : "4152589595"
+}
+{ 
+    "_id" : ObjectId("5fbe6271168b7773e75786a7"), 
+    "museumID" : [
+        8400600348.0
+    ], 
+    "museumName" : "JOSS HOUSE MUSEUM", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "200 SACRAMENTO ST", 
+    "city" : "AUBURN", 
+    "state" : "CA", 
+    "zipCode" : 95603.0, 
+    "phoneNumber" : "5308230373"
+}
+{ 
+    "_id" : ObjectId("5fbe6271168b7773e75786a8"), 
+    "museumID" : [
+        8400602127.0
+    ], 
+    "museumName" : "JOSS HOUSE MUSEUM & CHINESE HISTORY CENTER", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "200 SACRAMENTO STREET", 
+    "city" : "AUBURN", 
+    "state" : "CA", 
+    "zipCode" : 95604.0, 
+    "phoneNumber" : "5303467121"
+}
+{ 
+    "_id" : ObjectId("5fbe6272168b7773e75786a9"), 
+    "museumID" : [
+        8400601227.0
+    ], 
+    "museumName" : "JULIAN HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "2133 4TH", 
+    "city" : "JULIAN", 
+    "state" : "CA", 
+    "zipCode" : 92036.0, 
+    "phoneNumber" : "7607650683"
+}
+{ 
+    "_id" : ObjectId("5fbe6272168b7773e75786aa"), 
+    "museumID" : [
+        8400601305.0
+    ], 
+    "museumName" : "JULIAN PIONEER MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "2811 WASHINGTON ST", 
+    "city" : "JULIAN", 
+    "state" : "CA", 
+    "zipCode" : 92036.0, 
+    "phoneNumber" : "7607650227"
+}
+{ 
+    "_id" : ObjectId("5fbe6273168b7773e75786ab"), 
+    "museumID" : [
+        8400602252.0
+    ], 
+    "museumName" : "KELLEY HOUSE MUSEUM", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "45007 ALBION ST", 
+    "city" : "MENDOCINO", 
+    "state" : "CA", 
+    "zipCode" : 95460.0, 
+    "phoneNumber" : "7079375791"
+}
+{ 
+    "_id" : ObjectId("5fbe6274168b7773e75786ac"), 
+    "museumID" : [
+        8400602543.0
+    ], 
+    "museumName" : "KELLY-GRIGGS HOUSE MUSEUM", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "311 WASHINGTON STREET", 
+    "city" : "RED BLUFF", 
+    "state" : "CA", 
+    "zipCode" : 96080.0, 
+    "phoneNumber" : "5305271129"
+}
+{ 
+    "_id" : ObjectId("5fbe6274168b7773e75786ad"), 
+    "museumID" : [
+        8400602731.0
+    ], 
+    "museumName" : "KERN RIVER VALLEY HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "49 BIG BLUE ROAD", 
+    "city" : "KERNVILLE", 
+    "state" : "CA", 
+    "zipCode" : 93238.0, 
+    "phoneNumber" : "7603766683"
+}
+{ 
+    "_id" : ObjectId("5fbe6275168b7773e75786ae"), 
+    "museumID" : [
+        8400600341.0
+    ], 
+    "museumName" : "KIMBERLY CREST HOUSE AND GARDENS", 
+    "museumType" : "ARBORETUM, BOTANICAL GARDEN, OR NATURE CENTER", 
+    "streetAddress" : "1325 PROSPECT DRIVE", 
+    "city" : "REDLANDS", 
+    "state" : "CA", 
+    "zipCode" : 92373.0, 
+    "phoneNumber" : "9097922111"
+}
+{ 
+    "_id" : ObjectId("5fbe6275168b7773e75786af"), 
+    "museumID" : [
+        8400601927.0
+    ], 
+    "museumName" : "KINGS ART CENTER FOUNDATION", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "605 NORTH DOUTY", 
+    "city" : "HANFORD", 
+    "state" : "CA", 
+    "zipCode" : 93230.0, 
+    "phoneNumber" : "5595841065"
+}
+{ 
+    "_id" : ObjectId("5fbe6276168b7773e75786b0"), 
+    "museumID" : [
+        8400601803.0
+    ], 
+    "museumName" : "KNIGHT FOUNDRY CORPORATION", 
+    "museumType" : "SCIENCE & TECHNOLOGY MUSEUM OR PLANETARIUM", 
+    "streetAddress" : "81 EUREKA STREET", 
+    "city" : "SUTTER CREEK", 
+    "state" : "CA", 
+    "zipCode" : 95685.0, 
+    "phoneNumber" : "2092670201"
+}
+{ 
+    "_id" : ObjectId("5fbe6277168b7773e75786b1"), 
+    "museumID" : [
+        8400600811.0
+    ], 
+    "museumName" : "L S T BOTHERS LIBRARY & MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "2525 N GRAND AVE STE S", 
+    "city" : "SANTA ANA", 
+    "state" : "CA", 
+    "zipCode" : 92705.0, 
+    "phoneNumber" : "7146393646"
+}
+{ 
+    "_id" : ObjectId("5fbe6277168b7773e75786b2"), 
+    "museumID" : [
+        8400602926.0
+    ], 
+    "museumName" : "LA JOLLA HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "7846 EADS AVE", 
+    "city" : "LA JOLLA", 
+    "state" : "CA", 
+    "zipCode" : 92038.0, 
+    "phoneNumber" : "8584595335"
+}
+{ 
+    "_id" : ObjectId("5fbe6278168b7773e75786b3"), 
+    "museumID" : [
+        8400602639.0
+    ], 
+    "museumName" : "LA MESA HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "8369 UNIVERSITY AVE", 
+    "city" : "LA MESA", 
+    "state" : "CA", 
+    "zipCode" : 91944.0, 
+    "phoneNumber" : "6194660197"
+}
+{ 
+    "_id" : ObjectId("5fbe6278168b7773e75786b4"), 
+    "museumID" : [
+        8409502265.0
+    ], 
+    "museumName" : "LA PLAZA DE CULTURA Y ARTES", 
+    "museumType" : "ARBORETUM, BOTANICAL GARDEN, OR NATURE CENTER", 
+    "streetAddress" : "501 N MAIN ST", 
+    "city" : "LOS ANGELES", 
+    "state" : "CA", 
+    "zipCode" : 90012.0, 
+    "phoneNumber" : "2135426200"
+}
+{ 
+    "_id" : ObjectId("5fbe6279168b7773e75786b5"), 
+    "museumID" : [
+        8400601208.0
+    ], 
+    "museumName" : "LA QUINTA HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "PO BOX 1283", 
+    "city" : "LA QUINTA", 
+    "state" : "CA", 
+    "zipCode" : 92247.0, 
+    "phoneNumber" : "7605641283"
+}
+{ 
+    "_id" : ObjectId("5fbe6279168b7773e75786b6"), 
+    "museumID" : [
+        8400600777.0
+    ], 
+    "museumName" : "LA SENORA RESEARCH INSTITUTE", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "565 DRYAD RD", 
+    "city" : "SANTA MONICA", 
+    "state" : "CA", 
+    "zipCode" : 90402.0, 
+    "phoneNumber" : "3104540706"
+}
+{ 
+    "_id" : ObjectId("5fbe627a168b7773e75786b7"), 
+    "museumID" : [
+        8400602565.0
+    ], 
+    "museumName" : "LAFAYETTE HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "3491 MT DIABLO BLVD", 
+    "city" : "LAFAYETTE", 
+    "state" : "CA", 
+    "zipCode" : 94549.0, 
+    "phoneNumber" : "9252831848"
+}
+{ 
+    "_id" : ObjectId("5fbe627a168b7773e75786b8"), 
+    "museumID" : [
+        8400601310.0
+    ], 
+    "museumName" : "LAKE ELISINORE HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "183 N MAIN ST", 
+    "city" : "LAKE ELSINORE", 
+    "state" : "CA", 
+    "zipCode" : 92531.0, 
+    "phoneNumber" : "9516781537"
+}
+{ 
+    "_id" : ObjectId("5fbe627b168b7773e75786b9"), 
+    "museumID" : [
+        8400602237.0
+    ], 
+    "museumName" : "LAKE TAHOE HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "3058 LAKE TAHOE BOULEVARD", 
+    "city" : "S LAKE TAHOE", 
+    "state" : "CA", 
+    "zipCode" : 96151.0, 
+    "phoneNumber" : "5305415458"
+}
+{ 
+    "_id" : ObjectId("5fbe627c168b7773e75786ba"), 
+    "museumID" : [
+        8400600345.0
+    ], 
+    "museumName" : "LAKE TAHOE HISTORICAL SOCIETY MUSEUM", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "3058 LAKE TAHOE BOULEVARD", 
+    "city" : "SOUTH LAKE TAHOE", 
+    "state" : "CA", 
+    "zipCode" : 96150.0, 
+    "phoneNumber" : "5305415458"
+}
+{ 
+    "_id" : ObjectId("5fbe627c168b7773e75786bb"), 
+    "museumID" : [
+        8400601249.0
+    ], 
+    "museumName" : "LAMBDA ARCHIVES OF SAN DIEGO", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "4545 PARK BLVD SUITE 104", 
+    "city" : "SAN DIEGO", 
+    "state" : "CA", 
+    "zipCode" : 92163.0, 
+    "phoneNumber" : "6192601522"
+}
+{ 
+    "_id" : ObjectId("5fbe627d168b7773e75786bc"), 
+    "museumID" : [
+        8400601812.0
+    ], 
+    "museumName" : "LAMORINDA ARTS ALLIANCE", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "3506A MOUNT DIABLO BOULEVARD", 
+    "city" : "LAFAYETTE", 
+    "state" : "CA", 
+    "zipCode" : 94570.0, 
+    "phoneNumber" : "9253765407"
+}
+{ 
+    "_id" : ObjectId("5fbe627d168b7773e75786bd"), 
+    "museumID" : [
+        8400602395.0
+    ], 
+    "museumName" : "LAWSON GALLERIES", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "315 POTRERO AVE", 
+    "city" : "SAN FRANCISCO", 
+    "state" : "CA", 
+    "zipCode" : 94103.0, 
+    "phoneNumber" : "4157034400"
+}
+{ 
+    "_id" : ObjectId("5fbe627e168b7773e75786be"), 
+    "museumID" : [
+        8400600759.0
+    ], 
+    "museumName" : "LAXART", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "2640 S LA CIENEGA BLVD", 
+    "city" : "HOLLYWOOD", 
+    "state" : "CA", 
+    "zipCode" : 90034.0, 
+    "phoneNumber" : "3238714140"
+}
+{ 
+    "_id" : ObjectId("5fbe627f168b7773e75786bf"), 
+    "museumID" : [
+        8400602692.0
+    ], 
+    "museumName" : "LEMON GROVE HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "3185 OLIVE STREET", 
+    "city" : "LEMON GROVE", 
+    "state" : "CA", 
+    "zipCode" : 91946.0, 
+    "phoneNumber" : "6194604353"
+}
+{ 
+    "_id" : ObjectId("5fbe627f168b7773e75786c0"), 
+    "museumID" : [
+        8400602934.0
+    ], 
+    "museumName" : "LEONIS ADOBE ASSOCIATION", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "23537 CALABASAS RD", 
+    "city" : "CALABASAS", 
+    "state" : "CA", 
+    "zipCode" : 91302.0, 
+    "phoneNumber" : "8182226511"
+}
+{ 
+    "_id" : ObjectId("5fbe6280168b7773e75786c1"), 
+    "museumID" : [
+        8400601098.0
+    ], 
+    "museumName" : "LINCOLN AREA ARCHIVES MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "640 5TH ST", 
+    "city" : "LINCOLN", 
+    "state" : "CA", 
+    "zipCode" : 95648.0, 
+    "phoneNumber" : "9166453800"
+}
+{ 
+    "_id" : ObjectId("5fbe6280168b7773e75786c2"), 
+    "museumID" : [
+        8400600933.0
+    ], 
+    "museumName" : "LIVERMORE HERITAGE GUILD", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "2155 THIRD STREET", 
+    "city" : "LIVERMORE", 
+    "state" : "CA", 
+    "zipCode" : 94551.0, 
+    "phoneNumber" : "9254499927"
+}
+{ 
+    "_id" : ObjectId("5fbe6282168b7773e75786c3"), 
+    "museumID" : [
+        8400601697.0
+    ], 
+    "museumName" : "LODI HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "826 S CHURCH ST", 
+    "city" : "LODI", 
+    "state" : "CA", 
+    "zipCode" : 95241.0, 
+    "phoneNumber" : "2093696073"
+}
+{ 
+    "_id" : ObjectId("5fbe6282168b7773e75786c4"), 
+    "museumID" : [
+        8400602447.0
+    ], 
+    "museumName" : "LOGGING MUSEUM", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "2148 DUNBAR ROAD", 
+    "city" : "ARNOLD", 
+    "state" : "CA", 
+    "zipCode" : 95223.0, 
+    "phoneNumber" : "2097956782"
+}
+{ 
+    "_id" : ObjectId("5fbe6283168b7773e75786c5"), 
+    "museumID" : [
+        8400602927.0
+    ], 
+    "museumName" : "LOMPOC VALLEY HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "207 N L ST", 
+    "city" : "LOMPOC", 
+    "state" : "CA", 
+    "zipCode" : 93438.0, 
+    "phoneNumber" : "8057354626"
+}
+{ 
+    "_id" : ObjectId("5fbe6283168b7773e75786c6"), 
+    "museumID" : [
+        8400600336.0
+    ], 
+    "museumName" : "LONG BEACH FIREFIGHTER'S MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "1465 NORTH PETERSON AVENUE", 
+    "city" : "LONG BEACH", 
+    "state" : "CA", 
+    "zipCode" : 90813.0, 
+    "phoneNumber" : "5625993985"
+}
+{ 
+    "_id" : ObjectId("5fbe6284168b7773e75786c7"), 
+    "museumID" : [
+        8400602739.0
+    ], 
+    "museumName" : "LONG BEACH HERITAGE COALITION", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "953 PARK CIR LONG BEACH", 
+    "city" : "LONG BEACH", 
+    "state" : "CA", 
+    "zipCode" : 90809.0, 
+    "phoneNumber" : "5624937019"
+}
+{ 
+    "_id" : ObjectId("5fbe6285168b7773e75786c8"), 
+    "museumID" : [
+        8400601321.0
+    ], 
+    "museumName" : "LONG BEACH POLICE DEPARTMENT HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "2865 TEMPLE AVE LONG BEACH CA 90755", 
+    "city" : "LONG BEACH", 
+    "state" : "CA", 
+    "zipCode" : 90806.0, 
+    "phoneNumber" : "5624261201"
+}
+{ 
+    "_id" : ObjectId("5fbe6286168b7773e75786c9"), 
+    "museumID" : [
+        8400602645.0
+    ], 
+    "museumName" : "LOS ALAMITOS MUSEUM ASSOCIATION", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "11062 LOS ALAMITOS BLVD", 
+    "city" : "LOS ALAMITOS", 
+    "state" : "CA", 
+    "zipCode" : 90720.0, 
+    "phoneNumber" : "5624318836"
+}
+{ 
+    "_id" : ObjectId("5fbe6287168b7773e75786ca"), 
+    "museumID" : [
+        8400602729.0
+    ], 
+    "museumName" : "LOS ANGELES MARITIME MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "84 BERTH", 
+    "city" : "SAN PEDRO", 
+    "state" : "CA", 
+    "zipCode" : 90731.0, 
+    "phoneNumber" : "3105487618"
+}
+{ 
+    "_id" : ObjectId("5fbe6287168b7773e75786cb"), 
+    "museumID" : [
+        8400600375.0
+    ], 
+    "museumName" : "LOS ANGELES MUSEUM OF HOLOCAUST", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "100 S THE GROVE DR", 
+    "city" : "LOS ANGELES", 
+    "state" : "CA", 
+    "zipCode" : 90048.0, 
+    "phoneNumber" : "3236513704"
+}
+{ 
+    "_id" : ObjectId("5fbe6288168b7773e75786cc"), 
+    "museumID" : [
+        8400601519.0
+    ], 
+    "museumName" : "LOS ANGELES MUSEUM OF THE HOLOCAUST", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "100 SOUTH THE GROVE DRIVE", 
+    "city" : "LOS ANGELES", 
+    "state" : "CA", 
+    "zipCode" : 90036.0, 
+    "phoneNumber" : "3236513704"
+}
+{ 
+    "_id" : ObjectId("5fbe6288168b7773e75786cd"), 
+    "museumID" : [
+        8400600332.0
+    ], 
+    "museumName" : "LOS ANGELES SCOTTISH RITE", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "6310 SAN VICENTE BOULEVARD", 
+    "city" : "LOS ANGELES", 
+    "state" : "CA", 
+    "zipCode" : 90010.0, 
+    "phoneNumber" : "3239372566"
+}
+{ 
+    "_id" : ObjectId("5fbe6289168b7773e75786ce"), 
+    "museumID" : [
+        8409500108.0
+    ], 
+    "museumName" : "LOS ANGELES ZOO AND BOTANICAL GARDENS", 
+    "museumType" : "ZOO, AQUARIUM, OR WILDLIFE CONSERVATION", 
+    "streetAddress" : "5333 ZOO DRIVE", 
+    "city" : "LOS ANGELES", 
+    "state" : "CA", 
+    "zipCode" : 90027.0, 
+    "phoneNumber" : "3236444200"
+}
+{ 
+    "_id" : ObjectId("5fbe6289168b7773e75786cf"), 
+    "museumID" : [
+        8400601198.0
+    ], 
+    "museumName" : "LUCERNE VALLEY MUSEUM ASSOCIATION", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "32385 HIGHWAY 18", 
+    "city" : "LUCERNE VALLEY", 
+    "state" : "CA", 
+    "zipCode" : 92356.0, 
+    "phoneNumber" : "7602487878"
+}
+{ 
+    "_id" : ObjectId("5fbe628a168b7773e75786d0"), 
+    "museumID" : [
+        8400600308.0
+    ], 
+    "museumName" : "LUTHER BURBANK HOME & GARDENS", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "204 SANTA ROSA AVE", 
+    "city" : "SANTA ROSA", 
+    "state" : "CA", 
+    "zipCode" : 95402.0, 
+    "phoneNumber" : "7075245445"
+}
+{ 
+    "_id" : ObjectId("5fbe628a168b7773e75786d1"), 
+    "museumID" : [
+        8400600250.0
+    ], 
+    "museumName" : "MAK CENTER MACKEY HOUSE", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "835 N KINGS ROAD", 
+    "city" : "WEST HOLLYWOOD", 
+    "state" : "CA", 
+    "zipCode" : 90019.0, 
+    "phoneNumber" : "3236511510"
+}
+{ 
+    "_id" : ObjectId("5fbe628b168b7773e75786d2"), 
+    "museumID" : [
+        8400602846.0
+    ], 
+    "museumName" : "MANHATTAN BEACH BOTANICAL GARDEN", 
+    "museumType" : "ARBORETUM, BOTANICAL GARDEN, OR NATURE CENTER", 
+    "streetAddress" : "1236 N PECK AVE", 
+    "city" : "MANHATTAN BEACH", 
+    "state" : "CA", 
+    "zipCode" : 90267.0, 
+    "phoneNumber" : "3105461354"
+}
+{ 
+    "_id" : ObjectId("5fbe628b168b7773e75786d3"), 
+    "museumID" : [
+        8400602790.0
+    ], 
+    "museumName" : "MANHATTAN BEACH HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "1601 MANHATTAN BEACH BLVD", 
+    "city" : "MANHATTAN BEACH", 
+    "state" : "CA", 
+    "zipCode" : 90266.0, 
+    "phoneNumber" : "3103747575"
+}
+{ 
+    "_id" : ObjectId("5fbe628c168b7773e75786d4"), 
+    "museumID" : [
+        8400602466.0
+    ], 
+    "museumName" : "MANILATOWN HERITAGE FOUNDATION", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "868 KEARNY STREET", 
+    "city" : "SAN FRANCISCO", 
+    "state" : "CA", 
+    "zipCode" : 94103.0, 
+    "phoneNumber" : "4152910175"
+}
+{ 
+    "_id" : ObjectId("5fbe628c168b7773e75786d5"), 
+    "museumID" : [
+        8400601415.0
+    ], 
+    "museumName" : "MARIN STABLES & TRAILS", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "139 WOOD LN", 
+    "city" : "FAIRFAX", 
+    "state" : "CA", 
+    "zipCode" : 94978.0, 
+    "phoneNumber" : "4154599455"
+}
+{ 
+    "_id" : ObjectId("5fbe628d168b7773e75786d6"), 
+    "museumID" : [
+        8400601699.0
+    ], 
+    "museumName" : "MARIN WOMENS HALL OF FAME", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "940 POWELL STREET", 
+    "city" : "SAN FRANCISCO", 
+    "state" : "CA", 
+    "zipCode" : 94913.0, 
+    "phoneNumber" : "4153976886"
+}
+{ 
+    "_id" : ObjectId("5fbe628e168b7773e75786d7"), 
+    "museumID" : [
+        8400600232.0
+    ], 
+    "museumName" : "MARITIME MUSEUM-SAN FRANCISCO", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "2 MARINA BOULEVARD BUILDING E", 
+    "city" : "SAN FRANCISCO", 
+    "state" : "CA", 
+    "zipCode" : 94123.0, 
+    "phoneNumber" : "4155616662"
+}
+{ 
+    "_id" : ObjectId("5fbe628e168b7773e75786d8"), 
+    "museumID" : [
+        8400602246.0
+    ], 
+    "museumName" : "MARKHAM ARBORETUM", 
+    "museumType" : "ARBORETUM, BOTANICAL GARDEN, OR NATURE CENTER", 
+    "streetAddress" : "1202 LA VISTA AVE", 
+    "city" : "CONCORD", 
+    "state" : "CA", 
+    "zipCode" : 94521.0, 
+    "phoneNumber" : "9256812968"
+}
+{ 
+    "_id" : ObjectId("5fbe628f168b7773e75786d9"), 
+    "museumID" : [
+        8400602262.0
+    ], 
+    "museumName" : "MARTINEZ HISTORY SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "1005 ESCOBAR STREET", 
+    "city" : "MARTINEZ", 
+    "state" : "CA", 
+    "zipCode" : 94553.0, 
+    "phoneNumber" : "9252288160"
+}
+{ 
+    "_id" : ObjectId("5fbe628f168b7773e75786da"), 
+    "museumID" : [
+        8400601142.0
+    ], 
+    "museumName" : "MARYSVILLE BOK KAI TEMPLE", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "620 B NINTH STREET", 
+    "city" : "MARYSVILLE", 
+    "state" : "CA", 
+    "zipCode" : 95901.0, 
+    "phoneNumber" : "9167157719"
+}
+{ 
+    "_id" : ObjectId("5fbe6290168b7773e75786db"), 
+    "museumID" : [
+        8400600255.0
+    ], 
+    "museumName" : "MAXIMUS GALLERY", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "2559 PUESTA DEL SOL ROAD", 
+    "city" : "SANTA BARBARA", 
+    "state" : "CA", 
+    "zipCode" : 93105.0, 
+    "phoneNumber" : "8056824711"
+}
+{ 
+    "_id" : ObjectId("5fbe6290168b7773e75786dc"), 
+    "museumID" : [
+        8400601051.0
+    ], 
+    "museumName" : "MCCLOUD BUILDING & LAND PRESERVATION ASSOCIATION", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "378 MAYFIELD DR", 
+    "city" : "SANTA ROSA", 
+    "state" : "CA", 
+    "zipCode" : 96057.0, 
+    "phoneNumber" : "4155976700"
+}
+{ 
+    "_id" : ObjectId("5fbe6291168b7773e75786dd"), 
+    "museumID" : [
+        8400600274.0
+    ], 
+    "museumName" : "MCCONNELL ARBORETUM", 
+    "museumType" : "ARBORETUM, BOTANICAL GARDEN, OR NATURE CENTER", 
+    "streetAddress" : "1335 ARBORETUM DR", 
+    "city" : "REDDING", 
+    "state" : "CA", 
+    "zipCode" : 96001.0, 
+    "phoneNumber" : "8008878532"
+}
+{ 
+    "_id" : ObjectId("5fbe6292168b7773e75786de"), 
+    "museumID" : [
+        8400600914.0
+    ], 
+    "museumName" : "MENLO PARK HISTORICAL ASSOCIATION", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "PO BOX 1002", 
+    "city" : "MENLO PARK", 
+    "state" : "CA", 
+    "zipCode" : 94026.0, 
+    "phoneNumber" : "6503302522"
+}
+{ 
+    "_id" : ObjectId("5fbe6293168b7773e75786df"), 
+    "museumID" : [
+        8400600920.0
+    ], 
+    "museumName" : "MEXICAN MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "2 MARINA BOULEVARD BUILDING D", 
+    "city" : "SAN FRANCISCO", 
+    "state" : "CA", 
+    "zipCode" : 94123.0, 
+    "phoneNumber" : "4152029700"
+}
+{ 
+    "_id" : ObjectId("5fbe6293168b7773e75786e0"), 
+    "museumID" : [
+        8400602048.0
+    ], 
+    "museumName" : "MILLIKEN MUSEUM SOCIETY", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "905 PACHECO BLVD", 
+    "city" : "LOS BANOS", 
+    "state" : "CA", 
+    "zipCode" : 93635.0, 
+    "phoneNumber" : "2098265505"
+}
+{ 
+    "_id" : ObjectId("5fbe6294168b7773e75786e1"), 
+    "museumID" : [
+        8400602674.0
+    ], 
+    "museumName" : "MISSION INN", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "3696 MAIN STREET", 
+    "city" : "RIVERSIDE", 
+    "state" : "CA", 
+    "zipCode" : 92502.0, 
+    "phoneNumber" : "9517818241"
+}
+{ 
+    "_id" : ObjectId("5fbe6294168b7773e75786e2"), 
+    "museumID" : [
+        8400600758.0
+    ], 
+    "museumName" : "MODESTO ART MUSEUM", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "404 PATRICK LANE", 
+    "city" : "MODESTO", 
+    "state" : "CA", 
+    "zipCode" : 95350.0, 
+    "phoneNumber" : "2092361333"
+}
+{ 
+    "_id" : ObjectId("5fbe6295168b7773e75786e3"), 
+    "museumID" : [
+        8400601960.0
+    ], 
+    "museumName" : "MOFFETT FIELD HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "SEVERYNS AVENUE BUILDING 126 P O BOX 16", 
+    "city" : "MOFFETT FIELD", 
+    "state" : "CA", 
+    "zipCode" : 94035.0, 
+    "phoneNumber" : "6509644024"
+}
+{ 
+    "_id" : ObjectId("5fbe6296168b7773e75786e4"), 
+    "museumID" : [
+        8400601178.0
+    ], 
+    "museumName" : "MOJAVE RIVER NATURAL HISTORY ASSOCIATION", 
+    "museumType" : "ARBORETUM, BOTANICAL GARDEN, OR NATURE CENTER", 
+    "streetAddress" : "14651 CEDAR CIRCLE", 
+    "city" : "HESPERIA", 
+    "state" : "CA", 
+    "zipCode" : 92345.0, 
+    "phoneNumber" : "7603892303"
+}
+{ 
+    "_id" : ObjectId("5fbe6296168b7773e75786e5"), 
+    "museumID" : [
+        8400601686.0
+    ], 
+    "museumName" : "MOKELUMNE HILL HISTORY SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "8328 MAIN STREET", 
+    "city" : "MOKELUMNE HILL", 
+    "state" : "CA", 
+    "zipCode" : 95245.0, 
+    "phoneNumber" : "2092860507"
+}
+{ 
+    "_id" : ObjectId("5fbe6297168b7773e75786e6"), 
+    "museumID" : [
+        8400602764.0
+    ], 
+    "museumName" : "MONROVIA HISTORICAL MUSEUM", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "PO BOX 2359", 
+    "city" : "MONROVIA", 
+    "state" : "CA", 
+    "zipCode" : 91017.0, 
+    "phoneNumber" : "6263579537"
+}
+{ 
+    "_id" : ObjectId("5fbe6297168b7773e75786e7"), 
+    "museumID" : [
+        8400600287.0
+    ], 
+    "museumName" : "MONTAGUE DEPOT MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "230 N 11TH ST", 
+    "city" : "MONTAGUE", 
+    "state" : "CA", 
+    "zipCode" : 96064.0, 
+    "phoneNumber" : "5304593385"
+}
+{ 
+    "_id" : ObjectId("5fbe6298168b7773e75786e8"), 
+    "museumID" : [
+        8400601862.0
+    ], 
+    "museumName" : "MONTEBELLO HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "946 N ADOBE AVE", 
+    "city" : "MONTEBELLO", 
+    "state" : "CA", 
+    "zipCode" : 90640.0, 
+    "phoneNumber" : "3238874592"
+}
+{ 
+    "_id" : ObjectId("5fbe6298168b7773e75786e9"), 
+    "museumID" : [
+        8400601978.0
+    ], 
+    "museumName" : "MONTEREY & SALINAS VALLEY RAILROAD MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "5164 EAST TELEGRAPH ROAD", 
+    "city" : "PIRU", 
+    "state" : "CA", 
+    "zipCode" : 93040.0, 
+    "phoneNumber" : "8055211501"
+}
+{ 
+    "_id" : ObjectId("5fbe6299168b7773e75786ea"), 
+    "museumID" : [
+        8400602289.0
+    ], 
+    "museumName" : "MONTEREY COUNTY AGRICULTURAL & RURAL LIFE MUSEUM", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "1160 BROADWAY STREET", 
+    "city" : "KING CITY", 
+    "state" : "CA", 
+    "zipCode" : 93930.0, 
+    "phoneNumber" : "8313858020"
+}
+{ 
+    "_id" : ObjectId("5fbe6299168b7773e75786eb"), 
+    "museumID" : [
+        8400602225.0
+    ], 
+    "museumName" : "MONTEREY COUNTY HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "333 BORONDA ROAD", 
+    "city" : "SALINAS", 
+    "state" : "CA", 
+    "zipCode" : 93912.0, 
+    "phoneNumber" : "8317578085"
+}
+{ 
+    "_id" : ObjectId("5fbe629a168b7773e75786ec"), 
+    "museumID" : [
+        8400601954.0
+    ], 
+    "museumName" : "MONTEREY DUNES NATURAL HISTORY ASSOCIATION", 
+    "museumType" : "NATURAL HISTORY MUSEUM", 
+    "streetAddress" : "61 RESERVATION RD", 
+    "city" : "MARINA", 
+    "state" : "CA", 
+    "zipCode" : 93933.0, 
+    "phoneNumber" : "8313847695"
+}
+{ 
+    "_id" : ObjectId("5fbe629a168b7773e75786ed"), 
+    "museumID" : [
+        8400602555.0
+    ], 
+    "museumName" : "MORAGA HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "1500 ST MARYS RD", 
+    "city" : "MORAGA", 
+    "state" : "CA", 
+    "zipCode" : 94556.0, 
+    "phoneNumber" : "9253778734"
+}
+{ 
+    "_id" : ObjectId("5fbe629b168b7773e75786ee"), 
+    "museumID" : [
+        8400602304.0
+    ], 
+    "museumName" : "MORGAN HILL HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "600 W MAIN AVE", 
+    "city" : "MORGAN HILL", 
+    "state" : "CA", 
+    "zipCode" : 95038.0, 
+    "phoneNumber" : "4087795755"
+}
+{ 
+    "_id" : ObjectId("5fbe629b168b7773e75786ef"), 
+    "museumID" : [
+        8400600247.0
+    ], 
+    "museumName" : "MOUNT WILSON OBSERVATORY", 
+    "museumType" : "SCIENCE & TECHNOLOGY MUSEUM OR PLANETARIUM", 
+    "streetAddress" : "466 FOOTHILL BLVD #327", 
+    "city" : "LA CANADA", 
+    "state" : "CA", 
+    "zipCode" : 91024.0, 
+    "phoneNumber" : "6264409016"
+}
+{ 
+    "_id" : ObjectId("5fbe632c168b7773e75787de"), 
+    "museumID" : [
+        8400800051.0
+    ], 
+    "museumName" : "MOUNTAIN BIKE HALL OF FAME", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "1966 SIR FRANCIS DRAKE BLVD", 
+    "city" : "FAIRFAX", 
+    "state" : "CA", 
+    "zipCode" : 81224.0, 
+    "phoneNumber" : "4154508000"
+}
+{ 
+    "_id" : ObjectId("5fbe629c168b7773e75786f0"), 
+    "museumID" : [
+        8409401005.0
+    ], 
+    "museumName" : "MOXI - THE WOLF MUSEUM OF EXPLORATION AND INNOVATION", 
+    "museumType" : "CHILDREN'S MUSEUM", 
+    "streetAddress" : "P.O. BOX 4808", 
+    "city" : "SANTA BARBARA", 
+    "state" : "CA", 
+    "zipCode" : 93140.0, 
+    "phoneNumber" : "8056807235"
+}
+{ 
+    "_id" : ObjectId("5fbe629d168b7773e75786f1"), 
+    "museumID" : [
+        8400600309.0
+    ], 
+    "museumName" : "MURPHY AUTO MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "2230 STATHAM BLVD", 
+    "city" : "OXNARD", 
+    "state" : "CA", 
+    "zipCode" : 93003.0, 
+    "phoneNumber" : "8054874333"
+}
+{ 
+    "_id" : ObjectId("5fbe629d168b7773e75786f2"), 
+    "museumID" : [
+        8400600306.0
+    ], 
+    "museumName" : "MUSEE MECANIQUE", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "PIER 45 AT THE END OF TAYLOR STREET FISHERMANS WHARF", 
+    "city" : "SAN FRANCISCO", 
+    "state" : "CA", 
+    "zipCode" : 94102.0, 
+    "phoneNumber" : "4153462000"
+}
+{ 
+    "_id" : ObjectId("5fbe629e168b7773e75786f3"), 
+    "museumID" : [
+        8400600280.0
+    ], 
+    "museumName" : "MUSEO ITALO AMERICANO", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "2 MARINA BLVD BUILDING C", 
+    "city" : "SAN FRANCISCO", 
+    "state" : "CA", 
+    "zipCode" : 94123.0, 
+    "phoneNumber" : "4156732200"
+}
+{ 
+    "_id" : ObjectId("5fbe629e168b7773e75786f4"), 
+    "museumID" : [
+        8400601576.0
+    ], 
+    "museumName" : "MUSEUM OF AFRICAN AMERICAN ART", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "4005 CRENSHAW BLVD", 
+    "city" : "LOS ANGELES", 
+    "state" : "CA", 
+    "zipCode" : 90008.0, 
+    "phoneNumber" : "3232947071"
+}
+{ 
+    "_id" : ObjectId("5fbe629f168b7773e75786f5"), 
+    "museumID" : [
+        8400600284.0
+    ], 
+    "museumName" : "MUSEUM OF AFRICAN DIASPORA", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "685 MISSION STREET", 
+    "city" : "SAN FRANCISCO", 
+    "state" : "CA", 
+    "zipCode" : 94105.0, 
+    "phoneNumber" : "4153587200"
+}
+{ 
+    "_id" : ObjectId("5fbe629f168b7773e75786f6"), 
+    "museumID" : [
+        8400602413.0
+    ], 
+    "museumName" : "MUSEUM OF CHILDREN'S ART", 
+    "museumType" : "CHILDREN'S MUSEUM", 
+    "streetAddress" : "1625 CLAY STREET", 
+    "city" : "OAKLAND", 
+    "state" : "CA", 
+    "zipCode" : 94612.0, 
+    "phoneNumber" : "5104658770"
+}
+{ 
+    "_id" : ObjectId("5fbe62a0168b7773e75786f7"), 
+    "museumID" : [
+        8400600296.0
+    ], 
+    "museumName" : "MUSEUM OF CONTEMPORY ART", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "700 PROSPECT STREET", 
+    "city" : "SAN DIEGO", 
+    "state" : "CA", 
+    "zipCode" : 92101.0, 
+    "phoneNumber" : "8584543541"
+}
+{ 
+    "_id" : ObjectId("5fbe62a0168b7773e75786f8"), 
+    "museumID" : [
+        8400600265.0
+    ], 
+    "museumName" : "MUSEUM OF HISTORY & ART", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "225 SOUTH EUCLID AVE", 
+    "city" : "ONTARIO", 
+    "state" : "CA", 
+    "zipCode" : 91761.0, 
+    "phoneNumber" : "9093952523"
+}
+{ 
+    "_id" : ObjectId("5fbe62a1168b7773e75786f9"), 
+    "museumID" : [
+        8400600254.0
+    ], 
+    "museumName" : "MUSEUM OF MAN", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "1350 EL PRADO", 
+    "city" : "SAN DIEGO", 
+    "state" : "CA", 
+    "zipCode" : 92101.0, 
+    "phoneNumber" : "6192392001"
+}
+{ 
+    "_id" : ObjectId("5fbe62a1168b7773e75786fa"), 
+    "museumID" : [
+        8400600292.0
+    ], 
+    "museumName" : "MUSEUM OF NEON ART", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "501 W OLYMPIC BLVD", 
+    "city" : "GLENDALE", 
+    "state" : "CA", 
+    "zipCode" : 90015.0, 
+    "phoneNumber" : "2134899918"
+}
+{ 
+    "_id" : ObjectId("5fbe62a2168b7773e75786fb"), 
+    "museumID" : [
+        8400601474.0
+    ], 
+    "museumName" : "MUSEUM OF NORTHERN CALIFORNIA ART", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "PO BOX 4654", 
+    "city" : "CHICO", 
+    "state" : "CA", 
+    "zipCode" : 95927.0, 
+    "phoneNumber" : "5308914304"
+}
+{ 
+    "_id" : ObjectId("5fbe62a3168b7773e75786fc"), 
+    "museumID" : [
+        8400601568.0
+    ], 
+    "museumName" : "MUSEUM OF PERFORMANCE & DESIGN", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "893 FOLSOM STREET", 
+    "city" : "SAN FRANCISCO", 
+    "state" : "CA", 
+    "zipCode" : 94102.0, 
+    "phoneNumber" : "4152554800"
+}
+{ 
+    "_id" : ObjectId("5fbe62a4168b7773e75786fd"), 
+    "museumID" : [
+        8400602530.0
+    ], 
+    "museumName" : "MUSEUM OF RUSSIAN CULTURE", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "2450 SUTTER STREET", 
+    "city" : "SAN FRANCISCO", 
+    "state" : "CA", 
+    "zipCode" : 94115.0, 
+    "phoneNumber" : "4159214082"
+}
+{ 
+    "_id" : ObjectId("5fbe62a5168b7773e75786fe"), 
+    "museumID" : [
+        8400601660.0
+    ], 
+    "museumName" : "MUSEUM OF THE SAN RAMON VALLEY", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "205 RAILROAD AVE", 
+    "city" : "DANVILLE", 
+    "state" : "CA", 
+    "zipCode" : 94526.0, 
+    "phoneNumber" : "9258373750"
+}
+{ 
+    "_id" : ObjectId("5fbe62a6168b7773e75786ff"), 
+    "museumID" : [
+        8400600831.0
+    ], 
+    "museumName" : "MUZEO MUSEUM AND CULTURAL CENTER", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "241 S ANAHEIM BLVD", 
+    "city" : "ANAHEIM", 
+    "state" : "CA", 
+    "zipCode" : 92805.0, 
+    "phoneNumber" : "7149568936"
+}
+{ 
+    "_id" : ObjectId("5fbe62a6168b7773e7578700"), 
+    "museumID" : [
+        8400602332.0
+    ], 
+    "museumName" : "NAPA COUNTY HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "GOODMAN LIBRARY 1219 FIRST STREET", 
+    "city" : "NAPA", 
+    "state" : "CA", 
+    "zipCode" : 94559.0, 
+    "phoneNumber" : "7072241739"
+}
+{ 
+    "_id" : ObjectId("5fbe62a7168b7773e7578701"), 
+    "museumID" : [
+        8400600943.0
+    ], 
+    "museumName" : "NAPA COUNTY LANDMARKS", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "1754 SECOND STREET SUITE E", 
+    "city" : "NAPA", 
+    "state" : "CA", 
+    "zipCode" : 94559.0, 
+    "phoneNumber" : "7072551836"
+}
+{ 
+    "_id" : ObjectId("5fbe62a7168b7773e7578702"), 
+    "museumID" : [
+        8400602231.0
+    ], 
+    "museumName" : "NAPA VALLEY MODEL RAILROADERS", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "575 3RD STREET", 
+    "city" : "NAPA", 
+    "state" : "CA", 
+    "zipCode" : 94558.0, 
+    "phoneNumber" : "7072538428"
+}
+{ 
+    "_id" : ObjectId("5fbe62a8168b7773e7578703"), 
+    "museumID" : [
+        8400600886.0
+    ], 
+    "museumName" : "NAPA VALLEY MUSEUM", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "55 PRESIDENTS CIRCLE", 
+    "city" : "YOUNTVILLE", 
+    "state" : "CA", 
+    "zipCode" : 94599.0, 
+    "phoneNumber" : "7079440500"
+}
+{ 
+    "_id" : ObjectId("5fbe62a8168b7773e7578704"), 
+    "museumID" : [
+        8409503768.0
+    ], 
+    "museumName" : "NATALIE AND JAMES THOMPSON ART GALLERY", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "DEPARTMENT OF ART AND ART HISTORY SAN JOSE STATE UNIVERSITY ONE WASHINGTON SQUARE", 
+    "city" : "SAN JOSE", 
+    "state" : "CA", 
+    "zipCode" : 95192.0, 
+    "phoneNumber" : "4089244327"
+}
+{ 
+    "_id" : ObjectId("5fbe62a9168b7773e7578705"), 
+    "museumID" : [
+        8400602011.0
+    ], 
+    "museumName" : "NATIONAL AG SCIENCE CENTER", 
+    "museumType" : "SCIENCE & TECHNOLOGY MUSEUM OR PLANETARIUM", 
+    "streetAddress" : "1416 D ST MODESTO", 
+    "city" : "MODESTO", 
+    "state" : "CA", 
+    "zipCode" : 95352.0, 
+    "phoneNumber" : "2095212902"
+}
+{ 
+    "_id" : ObjectId("5fbe62a9168b7773e7578706"), 
+    "museumID" : [
+        8400602293.0
+    ], 
+    "museumName" : "NATIONAL LIBERTY SHIP MEMORIAL", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "PIER 45 FISHERMANS WHARF", 
+    "city" : "SAN FRANCISCO", 
+    "state" : "CA", 
+    "zipCode" : 94133.0, 
+    "phoneNumber" : "4155440100"
+}
+{ 
+    "_id" : ObjectId("5fbe62aa168b7773e7578707"), 
+    "museumID" : [
+        8400602966.0
+    ], 
+    "museumName" : "NATUREBRIDGE", 
+    "museumType" : "ARBORETUM, BOTANICAL GARDEN, OR NATURE CENTER", 
+    "streetAddress" : "28 GEARY STREET SUITE 650", 
+    "city" : "SAN FRANCISCO", 
+    "state" : "CA", 
+    "zipCode" : 94108.0, 
+    "phoneNumber" : "4159924789"
+}
+{ 
+    "_id" : ObjectId("5fbe62aa168b7773e7578708"), 
+    "museumID" : [
+        8400601959.0
+    ], 
+    "museumName" : "NAVAL MUSEUM OF ARMAMENT & TECHNOLOGY", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "PO BOX 217", 
+    "city" : "RIDGECREST", 
+    "state" : "CA", 
+    "zipCode" : 93556.0, 
+    "phoneNumber" : "7609393530"
+}
+{ 
+    "_id" : ObjectId("5fbe62ab168b7773e7578709"), 
+    "museumID" : [
+        8400601695.0
+    ], 
+    "museumName" : "NEVADA COUNTY CULTURAL PRESERVATION TRUST", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "325 SPRING ST", 
+    "city" : "NEVADA CITY", 
+    "state" : "CA", 
+    "zipCode" : 95959.0, 
+    "phoneNumber" : "5302655040"
+}
+{ 
+    "_id" : ObjectId("5fbe62ab168b7773e757870a"), 
+    "museumID" : [
+        8400601710.0
+    ], 
+    "museumName" : "NEVADA COUNTY GENEALOGICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "214 CHURCH STREET", 
+    "city" : "CEDAR RIDGE", 
+    "state" : "CA", 
+    "zipCode" : 95924.0, 
+    "phoneNumber" : "9162722119"
+}
+{ 
+    "_id" : ObjectId("5fbe62ac168b7773e757870b"), 
+    "museumID" : [
+        8409401013.0
+    ], 
+    "museumName" : "NOAH'S ARK AT THE SKIRBALL", 
+    "museumType" : "CHILDREN'S MUSEUM", 
+    "streetAddress" : "2701 NORTH SEPULVEDA BOULEVARD", 
+    "city" : "LOS ANGELES", 
+    "state" : "CA", 
+    "zipCode" : 90049.0, 
+    "phoneNumber" : "3104404526"
+}
+{ 
+    "_id" : ObjectId("5fbe62ad168b7773e757870c"), 
+    "museumID" : [
+        8400601247.0
+    ], 
+    "museumName" : "NORCO HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "3954 OLD HAMNER RD", 
+    "city" : "NORCO", 
+    "state" : "CA", 
+    "zipCode" : 92860.0, 
+    "phoneNumber" : "9517349739"
+}
+{ 
+    "_id" : ObjectId("5fbe62ad168b7773e757870d"), 
+    "museumID" : [
+        8400601416.0
+    ], 
+    "museumName" : "NORTH STAR HISTORIC CONSERVANCY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "10275 AUBURN RD", 
+    "city" : "GRASS VALLEY", 
+    "state" : "CA", 
+    "zipCode" : 95949.0, 
+    "phoneNumber" : "5302721873"
+}
+{ 
+    "_id" : ObjectId("5fbe62ae168b7773e757870e"), 
+    "museumID" : [
+        8400602499.0
+    ], 
+    "museumName" : "NORTHEAST SAN FRANCISCO CONSERVANCY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "470 CHARLESTOWN ROAD", 
+    "city" : "SAN FRANCISCO", 
+    "state" : "CA", 
+    "zipCode" : 94133.0, 
+    "phoneNumber" : "8028283051"
+}
+{ 
+    "_id" : ObjectId("5fbe62af168b7773e757870f"), 
+    "museumID" : [
+        8400602967.0
+    ], 
+    "museumName" : "OAK GROVE NATURE CENTER", 
+    "museumType" : "ARBORETUM, BOTANICAL GARDEN, OR NATURE CENTER", 
+    "streetAddress" : "4520 EIGHT MILE ROAD", 
+    "city" : "STOCKTON", 
+    "state" : "CA", 
+    "zipCode" : 95209.0, 
+    "phoneNumber" : "2099538814"
+}
+{ 
+    "_id" : ObjectId("5fbe62af168b7773e7578710"), 
+    "museumID" : [
+        8400601152.0
+    ], 
+    "museumName" : "OAK RUN HISTORY GROUP", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "12608 OAK RUN RD", 
+    "city" : "OAK RUN", 
+    "state" : "CA", 
+    "zipCode" : 96069.0, 
+    "phoneNumber" : "5304723241"
+}
+{ 
+    "_id" : ObjectId("5fbe62b0168b7773e7578711"), 
+    "museumID" : [
+        8400602026.0
+    ], 
+    "museumName" : "OAKDALE COWBOY MUSEUM", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "355 E F ST", 
+    "city" : "OAKDALE", 
+    "state" : "CA", 
+    "zipCode" : 95361.0, 
+    "phoneNumber" : "2098477049"
+}
+{ 
+    "_id" : ObjectId("5fbe62b0168b7773e7578712"), 
+    "museumID" : [
+        8400602078.0
+    ], 
+    "museumName" : "OAKDALE HERITAGE", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "212 W F STREET", 
+    "city" : "OAKDALE", 
+    "state" : "CA", 
+    "zipCode" : 95361.0, 
+    "phoneNumber" : "2098479229"
+}
+{ 
+    "_id" : ObjectId("5fbe62b1168b7773e7578713"), 
+    "museumID" : [
+        8400600176.0
+    ], 
+    "museumName" : "OAKLAND MUSEUM-CALIFORNIA", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "1000 OAK ST", 
+    "city" : "OAKLAND", 
+    "state" : "CA", 
+    "zipCode" : 94607.0, 
+    "phoneNumber" : "5103188400"
+}
+{ 
+    "_id" : ObjectId("5fbe62b1168b7773e7578714"), 
+    "museumID" : [
+        8409500138.0
+    ], 
+    "museumName" : "OAKLAND ZOO", 
+    "museumType" : "ZOO, AQUARIUM, OR WILDLIFE CONSERVATION", 
+    "streetAddress" : "9777 GOLF LINKS ROAD", 
+    "city" : "OAKLAND", 
+    "state" : "CA", 
+    "zipCode" : 94605.0, 
+    "phoneNumber" : "5106329525"
+}
+{ 
+    "_id" : ObjectId("5fbe62b2168b7773e7578715"), 
+    "museumID" : [
+        8400602686.0
+    ], 
+    "museumName" : "OBSERVATORY", 
+    "museumType" : "SCIENCE & TECHNOLOGY MUSEUM OR PLANETARIUM", 
+    "streetAddress" : "2800 EAST OBSERVATORY ROAD", 
+    "city" : "LOS ANGELES", 
+    "state" : "CA", 
+    "zipCode" : 90025.0, 
+    "phoneNumber" : "2134730879"
+}
+{ 
+    "_id" : ObjectId("5fbe62b2168b7773e7578716"), 
+    "museumID" : [
+        8400601214.0
+    ], 
+    "museumName" : "OCEANSIDE HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "PO BOX 125", 
+    "city" : "OCEANSIDE", 
+    "state" : "CA", 
+    "zipCode" : 92049.0, 
+    "phoneNumber" : "7607224786"
+}
+{ 
+    "_id" : ObjectId("5fbe62b3168b7773e7578717"), 
+    "museumID" : [
+        8400601329.0
+    ], 
+    "museumName" : "OLAF WIEGHORST MUSEUM", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "131 REA AVE", 
+    "city" : "EL CAJON", 
+    "state" : "CA", 
+    "zipCode" : 92022.0, 
+    "phoneNumber" : "6195903431"
+}
+{ 
+    "_id" : ObjectId("5fbe62b3168b7773e7578718"), 
+    "museumID" : [
+        8400602039.0
+    ], 
+    "museumName" : "OLD MISSION SANTA BARBARA", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "2201 LAGUNA ST", 
+    "city" : "SANTA BARBARA", 
+    "state" : "CA", 
+    "zipCode" : 93105.0, 
+    "phoneNumber" : "8056824713"
+}
+{ 
+    "_id" : ObjectId("5fbe62b4168b7773e7578719"), 
+    "museumID" : [
+        8400601719.0
+    ], 
+    "museumName" : "OLD SACRAMENTO SCHOOLHOUSE MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "FRONT ST", 
+    "city" : "SACRAMENTO", 
+    "state" : "CA", 
+    "zipCode" : 95608.0, 
+    "phoneNumber" : "9164838818"
+}
+{ 
+    "_id" : ObjectId("5fbe62b4168b7773e757871a"), 
+    "museumID" : [
+        8400602251.0
+    ], 
+    "museumName" : "OLD TIMERS MUSEUM", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "470 MAIN ST", 
+    "city" : "MURPHYS", 
+    "state" : "CA", 
+    "zipCode" : 95247.0, 
+    "phoneNumber" : "2097281160"
+}
+{ 
+    "_id" : ObjectId("5fbe62b5168b7773e757871b"), 
+    "museumID" : [
+        8400601856.0
+    ], 
+    "museumName" : "OLD TOWN AUBURN PRESERVATION SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "219 MAPLE ST", 
+    "city" : "AUBURN", 
+    "state" : "CA", 
+    "zipCode" : 95604.0, 
+    "phoneNumber" : "5308871915"
+}
+{ 
+    "_id" : ObjectId("5fbe62b6168b7773e757871c"), 
+    "museumID" : [
+        8400602896.0
+    ], 
+    "museumName" : "OLINDA OIL MUSEUM AND TRAIL", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "4025 SANTA FE ROAD", 
+    "city" : "BREA", 
+    "state" : "CA", 
+    "zipCode" : 92821.0, 
+    "phoneNumber" : "7146714447"
+}
+{ 
+    "_id" : ObjectId("5fbe62b6168b7773e757871d"), 
+    "museumID" : [
+        8400601204.0
+    ], 
+    "museumName" : "ORANGE COUNTY MODEL ENGINEERS", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "2500 PLACENTIA AVE", 
+    "city" : "COSTA MESA", 
+    "state" : "CA", 
+    "zipCode" : 92628.0, 
+    "phoneNumber" : "9495487246"
+}
+{ 
+    "_id" : ObjectId("5fbe62b7168b7773e757871e"), 
+    "museumID" : [
+        8400602563.0
+    ], 
+    "museumName" : "ORINDA HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "24 ORINDA WAY", 
+    "city" : "ORINDA", 
+    "state" : "CA", 
+    "zipCode" : 94563.0, 
+    "phoneNumber" : "9252541353"
+}
+{ 
+    "_id" : ObjectId("5fbe62b7168b7773e757871f"), 
+    "museumID" : [
+        8400602673.0
+    ], 
+    "museumName" : "OWENS VALLEY PAIUTE-SHOSHONE CULTURAL CENTER", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "PO BOX 1281", 
+    "city" : "BISHOP", 
+    "state" : "CA", 
+    "zipCode" : 93515.0, 
+    "phoneNumber" : "7608738844"
+}
+{ 
+    "_id" : ObjectId("5fbe62b8168b7773e7578720"), 
+    "museumID" : [
+        8400601035.0
+    ], 
+    "museumName" : "PACIFIC BATTLESHIP CENTER", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "250 HARBOR BLVD BERTH 87", 
+    "city" : "SAN PEDRO", 
+    "state" : "CA", 
+    "zipCode" : 90731.0, 
+    "phoneNumber" : "8774469261"
+}
+{ 
+    "_id" : ObjectId("5fbe62b9168b7773e7578721"), 
+    "museumID" : [
+        8400600751.0
+    ], 
+    "museumName" : "PACIFIC PINBALL MUSEUM", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "1510 WEBSTER STREET", 
+    "city" : "ALAMEDA", 
+    "state" : "CA", 
+    "zipCode" : 94501.0, 
+    "phoneNumber" : "5107691349"
+}
+{ 
+    "_id" : ObjectId("5fbe62b9168b7773e7578722"), 
+    "museumID" : [
+        8400600142.0
+    ], 
+    "museumName" : "PACIFIC SCIENCE", 
+    "museumType" : "SCIENCE & TECHNOLOGY MUSEUM OR PLANETARIUM", 
+    "streetAddress" : "23923 CROSSON DR", 
+    "city" : "WOODLAND HILLS", 
+    "state" : "CA", 
+    "zipCode" : 91367.0, 
+    "phoneNumber" : "8188888631"
+}
+{ 
+    "_id" : ObjectId("5fbe62ba168b7773e7578723"), 
+    "museumID" : [
+        8400602232.0
+    ], 
+    "museumName" : "PAJARO VALLEY HISTORICAL ASSOCIATION", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "332 E BEACH STREET", 
+    "city" : "WATSONVILLE", 
+    "state" : "CA", 
+    "zipCode" : 95077.0, 
+    "phoneNumber" : "8317220305"
+}
+{ 
+    "_id" : ObjectId("5fbe62bb168b7773e7578725"), 
+    "museumID" : [
+        8400602699.0
+    ], 
+    "museumName" : "PALM SPRINGS DESERT MUSEUM TRUST", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "101 NORTH MUSEUM DRIVE", 
+    "city" : "PALM SPRINGS", 
+    "state" : "CA", 
+    "zipCode" : 90014.0, 
+    "phoneNumber" : "7603224800"
+}
+{ 
+    "_id" : ObjectId("5fbe62bb168b7773e7578726"), 
+    "museumID" : [
+        8400601444.0
+    ], 
+    "museumName" : "PALM SPRINGS HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "221 SOUTH PALM CANYON DRIVE", 
+    "city" : "PALM SPRINGS", 
+    "state" : "CA", 
+    "zipCode" : 92263.0, 
+    "phoneNumber" : "7603238297"
+}
+{ 
+    "_id" : ObjectId("5fbe62bc168b7773e7578727"), 
+    "museumID" : [
+        8400602066.0
+    ], 
+    "museumName" : "PALO ALTO HISTORY MUSEUM", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "300 HOMER AVENUE", 
+    "city" : "PALO ALTO", 
+    "state" : "CA", 
+    "zipCode" : 94302.0, 
+    "phoneNumber" : "6503223089"
+}
+{ 
+    "_id" : ObjectId("5fbe62bc168b7773e7578728"), 
+    "museumID" : [
+        8400602968.0
+    ], 
+    "museumName" : "PALOS VERDES PENINSULA LAND CONSERVANCY", 
+    "museumType" : "ARBORETUM, BOTANICAL GARDEN, OR NATURE CENTER", 
+    "streetAddress" : "916 SILVER SPUR ROAD #207", 
+    "city" : "ROLLING HILLS ESTATES", 
+    "state" : "CA", 
+    "zipCode" : 90274.0, 
+    "phoneNumber" : "3105417613"
+}
+{ 
+    "_id" : ObjectId("5fbe62bd168b7773e7578729"), 
+    "museumID" : [
+        8400600140.0
+    ], 
+    "museumName" : "PAPILLION INSTITUTE OF ART", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "4336 DEGNAN BOULEVARD", 
+    "city" : "LOS ANGELES", 
+    "state" : "CA", 
+    "zipCode" : 90015.0, 
+    "phoneNumber" : "3236428402"
+}
+{ 
+    "_id" : ObjectId("5fbe62bd168b7773e757872a"), 
+    "museumID" : [
+        8400600219.0
+    ], 
+    "museumName" : "PATRICK RANCH MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "10381 MIDWAY", 
+    "city" : "DURHAM", 
+    "state" : "CA", 
+    "zipCode" : 95938.0, 
+    "phoneNumber" : "5303424359"
+}
+{ 
+    "_id" : ObjectId("5fbe62be168b7773e757872b"), 
+    "museumID" : [
+        8400602476.0
+    ], 
+    "museumName" : "PERALTA HACIENDA HISTORICAL PARK", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "2465 34TH AVE", 
+    "city" : "OAKLAND", 
+    "state" : "CA", 
+    "zipCode" : 94601.0, 
+    "phoneNumber" : "5105329142"
+}
+{ 
+    "_id" : ObjectId("5fbe62be168b7773e757872c"), 
+    "museumID" : [
+        8400602749.0
+    ], 
+    "museumName" : "PERRIS VALLEY HISTORICAL & MUSEUM ASSOCIATION", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "120 W 4TH ST", 
+    "city" : "PERRIS", 
+    "state" : "CA", 
+    "zipCode" : 92572.0, 
+    "phoneNumber" : "9516570274"
+}
+{ 
+    "_id" : ObjectId("5fbe62bf168b7773e757872d"), 
+    "museumID" : [
+        8400600222.0
+    ], 
+    "museumName" : "PETTERSON MUSEUM OF INTERCULTURAL ARTS", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "730 PLYMOUTH RD", 
+    "city" : "CLAREMONT", 
+    "state" : "CA", 
+    "zipCode" : 91711.0, 
+    "phoneNumber" : "9093995544"
+}
+{ 
+    "_id" : ObjectId("5fbe62bf168b7773e757872e"), 
+    "museumID" : [
+        8400602488.0
+    ], 
+    "museumName" : "PHILIPPINE FOLKLIFE MUSEUM FOUNDATION", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "447 SUTTER STREET; 5TH FLOOR SOCIAL HALL", 
+    "city" : "SAN FRANCISCO", 
+    "state" : "CA", 
+    "zipCode" : 94598.0, 
+    "phoneNumber" : "9259334284"
+}
+{ 
+    "_id" : ObjectId("5fbe62c0168b7773e757872f"), 
+    "museumID" : [
+        8400602090.0
+    ], 
+    "museumName" : "PIEDMONT WAY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "2299 PIEDMONT AVENUE BOX 201", 
+    "city" : "BERKELEY", 
+    "state" : "CA", 
+    "zipCode" : 94720.0, 
+    "phoneNumber" : "5104862088"
+}
+{ 
+    "_id" : ObjectId("5fbe62c0168b7773e7578730"), 
+    "museumID" : [
+        8400602117.0
+    ], 
+    "museumName" : "PIEDRAS BLANCAS LIGHT STATION ASSOCIATION", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "15950 CABRILLO HWY", 
+    "city" : "SAN SIMEON", 
+    "state" : "CA", 
+    "zipCode" : 93452.0, 
+    "phoneNumber" : "8059277361"
+}
+{ 
+    "_id" : ObjectId("5fbe62c1168b7773e7578731"), 
+    "museumID" : [
+        8400602171.0
+    ], 
+    "museumName" : "PIO PICO", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "13215 EAST PENN STREET SUITE 540", 
+    "city" : "WHITTIER", 
+    "state" : "CA", 
+    "zipCode" : 90607.0, 
+    "phoneNumber" : "5626951217"
+}
+{ 
+    "_id" : ObjectId("5fbe62c1168b7773e7578732"), 
+    "museumID" : [
+        8400600913.0
+    ], 
+    "museumName" : "PITTSBURG HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "515 RAILROAD AVENUE", 
+    "city" : "PITTSBURG", 
+    "state" : "CA", 
+    "zipCode" : 94565.0, 
+    "phoneNumber" : "9254397501"
+}
+{ 
+    "_id" : ObjectId("5fbe62c2168b7773e7578733"), 
+    "museumID" : [
+        8400600915.0
+    ], 
+    "museumName" : "PLACER COUNTY HISTORICAL MUSEUM FOUNDATION", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "11526 C AVE", 
+    "city" : "AUBURN", 
+    "state" : "CA", 
+    "zipCode" : 95604.0, 
+    "phoneNumber" : "5308897789"
+}
+{ 
+    "_id" : ObjectId("5fbe62c3168b7773e7578734"), 
+    "museumID" : [
+        8400601822.0
+    ], 
+    "museumName" : "PLACER-SIERRA RAILROAD HERITAGE SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "1755 DEERHAVEN LANE", 
+    "city" : "COLFAX", 
+    "state" : "CA", 
+    "zipCode" : 95713.0, 
+    "phoneNumber" : "5303469607"
+}
+{ 
+    "_id" : ObjectId("5fbe62c3168b7773e7578735"), 
+    "museumID" : [
+        8400600672.0
+    ], 
+    "museumName" : "PLAYLAND-NOT-AT-THE-BEACH", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "10979 SAN PABLO AVE", 
+    "city" : "EL CERRITO", 
+    "state" : "CA", 
+    "zipCode" : 94530.0, 
+    "phoneNumber" : "5105923002"
+}
+{ 
+    "_id" : ObjectId("5fbe62c4168b7773e7578736"), 
+    "museumID" : [
+        8409401030.0
+    ], 
+    "museumName" : "PLAYZEUM", 
+    "museumType" : "CHILDREN'S MUSEUM", 
+    "streetAddress" : "910 OHLEYER ROAD", 
+    "city" : "YUBA CITY", 
+    "state" : "CA", 
+    "zipCode" : 95993.0, 
+    "phoneNumber" : "5307016962"
+}
+{ 
+    "_id" : ObjectId("5fbe62c4168b7773e7578737"), 
+    "museumID" : [
+        8400602272.0
+    ], 
+    "museumName" : "PLEASANT HILL HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "315 CORTSEN RD", 
+    "city" : "PLEASANT HILL", 
+    "state" : "CA", 
+    "zipCode" : 94523.0, 
+    "phoneNumber" : "9259373677"
+}
+{ 
+    "_id" : ObjectId("5fbe62c5168b7773e7578738"), 
+    "museumID" : [
+        8400601814.0
+    ], 
+    "museumName" : "POINT CABRILLO LIGHTHOUSE", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "45300 LIGHTHOUSE ROAD", 
+    "city" : "MENDOCINO", 
+    "state" : "CA", 
+    "zipCode" : 95460.0, 
+    "phoneNumber" : "7079376123"
+}
+{ 
+    "_id" : ObjectId("5fbe62c6168b7773e7578739"), 
+    "museumID" : [
+        8400601609.0
+    ], 
+    "museumName" : "POINT FERMIN LIGHTHOUSE SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "807 W PASEO DEL MAR", 
+    "city" : "LOS ANGELES", 
+    "state" : "CA", 
+    "zipCode" : 90733.0, 
+    "phoneNumber" : "3102410684"
+}
+{ 
+    "_id" : ObjectId("5fbe62c6168b7773e757873a"), 
+    "museumID" : [
+        8400601966.0
+    ], 
+    "museumName" : "PORTUGUESE HERITAGE SOCIETY OF CALIFORNIA", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "133 WILLIS AVENUE MINEOLA", 
+    "city" : "SAN JOSE", 
+    "state" : "CA", 
+    "zipCode" : 95158.0, 
+    "phoneNumber" : "4082721222"
+}
+{ 
+    "_id" : ObjectId("5fbe62c7168b7773e757873b"), 
+    "museumID" : [
+        8400602717.0
+    ], 
+    "museumName" : "POWAY HISTORICAL AND MEMORIAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "14114 MIDLAND ROAD", 
+    "city" : "POWAY", 
+    "state" : "CA", 
+    "zipCode" : 92074.0, 
+    "phoneNumber" : "8586798587"
+}
+{ 
+    "_id" : ObjectId("5fbe62c7168b7773e757873c"), 
+    "museumID" : [
+        8400601767.0
+    ], 
+    "museumName" : "PRESTON CASTLE", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "900 PALM DR", 
+    "city" : "IONE", 
+    "state" : "CA", 
+    "zipCode" : 95640.0, 
+    "phoneNumber" : "2092563623"
+}
+{ 
+    "_id" : ObjectId("5fbe62c8168b7773e757873d"), 
+    "museumID" : [
+        8400601887.0
+    ], 
+    "museumName" : "PRO ARTS CONSERVATORY", 
+    "museumType" : "ARBORETUM, BOTANICAL GARDEN, OR NATURE CENTER", 
+    "streetAddress" : "2311 GERONIMO DR", 
+    "city" : "OXNARD", 
+    "state" : "CA", 
+    "zipCode" : 93033.0, 
+    "phoneNumber" : "8054870249"
+}
+{ 
+    "_id" : ObjectId("5fbe62c8168b7773e757873e"), 
+    "museumID" : [
+        8400601200.0
+    ], 
+    "museumName" : "QUILT SAN DIEGO", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "2825 DEWEY RD #100", 
+    "city" : "SAN DIEGO", 
+    "state" : "CA", 
+    "zipCode" : 92106.0, 
+    "phoneNumber" : "6195464872"
+}
+{ 
+    "_id" : ObjectId("5fbe62c9168b7773e757873f"), 
+    "museumID" : [
+        8400601728.0
+    ], 
+    "museumName" : "RAILTOWN 1897 STATE HISTORIC PARK", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "18115 5TH AVENUE", 
+    "city" : "JAMESTOWN", 
+    "state" : "CA", 
+    "zipCode" : 95327.0, 
+    "phoneNumber" : "2099843953"
+}
+{ 
+    "_id" : ObjectId("5fbe62c9168b7773e7578740"), 
+    "museumID" : [
+        8400600870.0
+    ], 
+    "museumName" : "RAMONA PIONEER HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "645 MAIN STREET", 
+    "city" : "RAMONA", 
+    "state" : "CA", 
+    "zipCode" : 92065.0, 
+    "phoneNumber" : "7607897644"
+}
+{ 
+    "_id" : ObjectId("5fbe62ca168b7773e7578741"), 
+    "museumID" : [
+        8400601228.0
+    ], 
+    "museumName" : "RANCHO BERNARDO HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "13330 PASEO DEL VERANO NORTE", 
+    "city" : "SAN DIEGO", 
+    "state" : "CA", 
+    "zipCode" : 92198.0, 
+    "phoneNumber" : "8587755788"
+}
+{ 
+    "_id" : ObjectId("5fbe62cb168b7773e7578742"), 
+    "museumID" : [
+        8400601919.0
+    ], 
+    "museumName" : "RANCHO DE GUADALUPE HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "1005 GUADALUPE ST", 
+    "city" : "GUADALUPE", 
+    "state" : "CA", 
+    "zipCode" : 93434.0, 
+    "phoneNumber" : "8053435901"
+}
+{ 
+    "_id" : ObjectId("5fbe62cc168b7773e7578743"), 
+    "museumID" : [
+        8400600212.0
+    ], 
+    "museumName" : "RANCHO GUAJOME ADOBE", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "2210 N SANTA FE AVENUE", 
+    "city" : "VISTA", 
+    "state" : "CA", 
+    "zipCode" : 92054.0, 
+    "phoneNumber" : "7607244082"
+}
+{ 
+    "_id" : ObjectId("5fbe62cc168b7773e7578744"), 
+    "museumID" : [
+        8400602582.0
+    ], 
+    "museumName" : "RANCHO SANTA ANA BOTANIC GARDEN", 
+    "museumType" : "ARBORETUM, BOTANICAL GARDEN, OR NATURE CENTER", 
+    "streetAddress" : "1500 NORTH COLLEGE AVENUE", 
+    "city" : "CLAREMONT", 
+    "state" : "CA", 
+    "zipCode" : 91711.0, 
+    "phoneNumber" : "9096258767"
+}
+{ 
+    "_id" : ObjectId("5fbe62cd168b7773e7578745"), 
+    "museumID" : [
+        8400601193.0
+    ], 
+    "museumName" : "RANCHO SANTA FE HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "6036 LA FLECHA", 
+    "city" : "RCHO SANTA FE", 
+    "state" : "CA", 
+    "zipCode" : 92067.0, 
+    "phoneNumber" : "8587569291"
+}
+{ 
+    "_id" : ObjectId("5fbe62ce168b7773e7578746"), 
+    "museumID" : [
+        8400601036.0
+    ], 
+    "museumName" : "RAY CHARLES MEMORIAL LIBRARY", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "2107 W WASHINGTON BOULEVARD", 
+    "city" : "LOS ANGELES", 
+    "state" : "CA", 
+    "zipCode" : 90018.0, 
+    "phoneNumber" : "3237378000"
+}
+{ 
+    "_id" : ObjectId("5fbe62ce168b7773e7578747"), 
+    "museumID" : [
+        8400601739.0
+    ], 
+    "museumName" : "RED BLUFF ROUNDUP RODEO MUSEUM", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "670 ANTELOPE BLVD STE 3", 
+    "city" : "RED BLUFF", 
+    "state" : "CA", 
+    "zipCode" : 96080.0, 
+    "phoneNumber" : "5305281477"
+}
+{ 
+    "_id" : ObjectId("5fbe62cf168b7773e7578748"), 
+    "museumID" : [
+        8400602752.0
+    ], 
+    "museumName" : "REDONDO BEACH HISTORICAL SOCIETY & MUSEUM", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "298 FLAGLER LN", 
+    "city" : "REDONDO BEACH", 
+    "state" : "CA", 
+    "zipCode" : 90277.0, 
+    "phoneNumber" : "3104657149"
+}
+{ 
+    "_id" : ObjectId("5fbe62cf168b7773e7578749"), 
+    "museumID" : [
+        8400602254.0
+    ], 
+    "museumName" : "REEDLEY HISTORICAL SOCIETY & MUSEUM", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "1752 10TH ST", 
+    "city" : "REEDLEY", 
+    "state" : "CA", 
+    "zipCode" : 93654.0, 
+    "phoneNumber" : "5596381913"
+}
+{ 
+    "_id" : ObjectId("5fbe62d0168b7773e757874a"), 
+    "museumID" : [
+        8400600904.0
+    ], 
+    "museumName" : "RIALTO HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "205 N RIVERSIDE AVE", 
+    "city" : "RIALTO", 
+    "state" : "CA", 
+    "zipCode" : 92377.0, 
+    "phoneNumber" : "9098751750"
+}
+{ 
+    "_id" : ObjectId("5fbe62d0168b7773e757874b"), 
+    "museumID" : [
+        8400600166.0
+    ], 
+    "museumName" : "RICHMOND MUSEUM OF HISTORY", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "400 NEVIN AVENUE", 
+    "city" : "400 NEVIN AVE", 
+    "state" : "CA", 
+    "zipCode" : 94802.0, 
+    "phoneNumber" : "5102357387"
+}
+{ 
+    "_id" : ObjectId("5fbe62d1168b7773e757874c"), 
+    "museumID" : [
+        8400602006.0
+    ], 
+    "museumName" : "RIDGE ROUTE COMMUNITIES MUSEUM & HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "3515 PARK DRIVE", 
+    "city" : "FRAZIER PARK", 
+    "state" : "CA", 
+    "zipCode" : 93225.0, 
+    "phoneNumber" : "6612457747"
+}
+{ 
+    "_id" : ObjectId("5fbe62d2168b7773e757874d"), 
+    "museumID" : [
+        8400601666.0
+    ], 
+    "museumName" : "RIPON HISTROICAL SOCIETY RIPON HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "430 W MAIN STREET", 
+    "city" : "RIPON", 
+    "state" : "CA", 
+    "zipCode" : 95366.0, 
+    "phoneNumber" : "2095993421"
+}
+{ 
+    "_id" : ObjectId("5fbe62d2168b7773e757874e"), 
+    "museumID" : [
+        8400600141.0
+    ], 
+    "museumName" : "ROBERT LOUIS STEVENSON HOUSE", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "530 HOUSTON ST", 
+    "city" : "MONTEREY", 
+    "state" : "CA", 
+    "zipCode" : 93940.0, 
+    "phoneNumber" : "8316497118"
+}
+{ 
+    "_id" : ObjectId("5fbe62d3168b7773e757874f"), 
+    "museumID" : [
+        8400602287.0
+    ], 
+    "museumName" : "ROBINSON JEFFERS TOR HOUSE", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "26304 OCEAN VIEW AVENUE", 
+    "city" : "CARMEL", 
+    "state" : "CA", 
+    "zipCode" : 93921.0, 
+    "phoneNumber" : "8316241813"
+}
+{ 
+    "_id" : ObjectId("5fbe62d3168b7773e7578750"), 
+    "museumID" : [
+        8400601734.0
+    ], 
+    "museumName" : "ROCKLIN HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "3895 ROCKLIN ROAD", 
+    "city" : "ROCKLIN", 
+    "state" : "CA", 
+    "zipCode" : 95677.0, 
+    "phoneNumber" : "9166243464"
+}
+{ 
+    "_id" : ObjectId("5fbe62d4168b7773e7578751"), 
+    "museumID" : [
+        8409500846.0
+    ], 
+    "museumName" : "ROSEVILLE UTILITY EXPLORATION CENTER", 
+    "museumType" : "SCIENCE & TECHNOLOGY MUSEUM OR PLANETARIUM", 
+    "streetAddress" : "1501 PLEASANT GROVE BOULEVARD", 
+    "city" : "ROSEVILLE", 
+    "state" : "CA", 
+    "zipCode" : 95747.0, 
+    "phoneNumber" : "9167461550"
+}
+{ 
+    "_id" : ObjectId("5fbe62d4168b7773e7578752"), 
+    "museumID" : [
+        8400600199.0
+    ], 
+    "museumName" : "ROSICRUCIAN EGYPTIAN MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "1660 PARK AVE", 
+    "city" : "SAN JOSE", 
+    "state" : "CA", 
+    "zipCode" : 95191.0, 
+    "phoneNumber" : "4089473630"
+}
+{ 
+    "_id" : ObjectId("5fbe62d5168b7773e7578753"), 
+    "museumID" : [
+        8400601313.0
+    ], 
+    "museumName" : "S C R A P GALLERY", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "RIVERSIDE COUNTY FAIRGROUNDS 46350 ARABIA ST", 
+    "city" : "INDIO", 
+    "state" : "CA", 
+    "zipCode" : 93063.0, 
+    "phoneNumber" : "7608637777"
+}
+{ 
+    "_id" : ObjectId("5fbe62d5168b7773e7578754"), 
+    "museumID" : [
+        8400600171.0
+    ], 
+    "museumName" : "SACRAMENTO HISTORY MUSEUM", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "101 I STREET", 
+    "city" : "SACRAMENTO", 
+    "state" : "CA", 
+    "zipCode" : 95814.0, 
+    "phoneNumber" : "9168087059"
+}
+{ 
+    "_id" : ObjectId("5fbe62d6168b7773e7578755"), 
+    "museumID" : [
+        8400601773.0
+    ], 
+    "museumName" : "SACRAMENTO MEMORIAL AUDITORIUM", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "1515 J ST", 
+    "city" : "SACRAMENTO", 
+    "state" : "CA", 
+    "zipCode" : 95819.0, 
+    "phoneNumber" : "9168085291"
+}
+{ 
+    "_id" : ObjectId("5fbe62d6168b7773e7578756"), 
+    "museumID" : [
+        8400602558.0
+    ], 
+    "museumName" : "SACRAMENTO PIONEER ASSOCIATION", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "415 P ST", 
+    "city" : "SACRAMENTO", 
+    "state" : "CA", 
+    "zipCode" : 95811.0, 
+    "phoneNumber" : "9164424906"
+}
+{ 
+    "_id" : ObjectId("5fbe62de168b7773e7578757"), 
+    "museumID" : [
+        8400601668.0
+    ], 
+    "museumName" : "SACRAMENTO VALLEY LIVE STEAMER", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "2197 CHASE DRIVE", 
+    "city" : "RANCHO CORDOVA", 
+    "state" : "CA", 
+    "zipCode" : 95741.0, 
+    "phoneNumber" : "9163617140"
+}
+{ 
+    "_id" : ObjectId("5fbe62df168b7773e7578758"), 
+    "museumID" : [
+        8400600865.0
+    ], 
+    "museumName" : "SACRAMENTO VALLEY MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "1491 \"E\" STREET P O BOX 1437", 
+    "city" : "WILLIAMS", 
+    "state" : "CA", 
+    "zipCode" : 95987.0, 
+    "phoneNumber" : "5304732978"
+}
+{ 
+    "_id" : ObjectId("5fbe62df168b7773e7578759"), 
+    "museumID" : [
+        8400601096.0
+    ], 
+    "museumName" : "SALTON SEA HISTORY MUSEUM & VISITOR CENTER", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "99155 SEA VIEW DRIVE", 
+    "city" : "MECCA", 
+    "state" : "CA", 
+    "zipCode" : 92254.0, 
+    "phoneNumber" : "7605745471"
+}
+{ 
+    "_id" : ObjectId("5fbe62e0168b7773e757875a"), 
+    "museumID" : [
+        8400601495.0
+    ], 
+    "museumName" : "SALVATION MOUNTAIN", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "601 EAST BEAL ROAD", 
+    "city" : "NILAND", 
+    "state" : "CA", 
+    "zipCode" : 92233.0, 
+    "phoneNumber" : "7606248754"
+}
+{ 
+    "_id" : ObjectId("5fbe62e0168b7773e757875b"), 
+    "museumID" : [
+        8400601294.0
+    ], 
+    "museumName" : "SAM/ALFREDA MALOOF FOUNDATION", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "5131 CARNELIAN STREET", 
+    "city" : "RCH CUCAMONGA", 
+    "state" : "CA", 
+    "zipCode" : 91701.0, 
+    "phoneNumber" : "9094843465"
+}
+{ 
+    "_id" : ObjectId("5fbe62e1168b7773e757875c"), 
+    "museumID" : [
+        8400601998.0
+    ], 
+    "museumName" : "SAMUEL J PERRY NATURAL MUSEUM CORPORATION", 
+    "museumType" : "NATURAL HISTORY MUSEUM", 
+    "streetAddress" : "412 SOUTH MCCLELLAND", 
+    "city" : "SANTA MARIA", 
+    "state" : "CA", 
+    "zipCode" : 93456.0, 
+    "phoneNumber" : "8056140806"
+}
+{ 
+    "_id" : ObjectId("5fbe62e1168b7773e757875d"), 
+    "museumID" : [
+        8400602677.0
+    ], 
+    "museumName" : "SAN BERNARDINO HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "796 N D ST", 
+    "city" : "SAN BERNARDINO", 
+    "state" : "CA", 
+    "zipCode" : 92402.0, 
+    "phoneNumber" : "9098852204"
+}
+{ 
+    "_id" : ObjectId("5fbe62e2168b7773e757875e"), 
+    "museumID" : [
+        8409502461.0
+    ], 
+    "museumName" : "SAN DIEGO BOTANIC GARDEN", 
+    "museumType" : "ARBORETUM, BOTANICAL GARDEN, OR NATURE CENTER", 
+    "streetAddress" : "230 QUAIL GARDENS DRIVE", 
+    "city" : "ENCINITAS", 
+    "state" : "CA", 
+    "zipCode" : 92023.0, 
+    "phoneNumber" : "7604363036"
+}
+{ 
+    "_id" : ObjectId("5fbe62e3168b7773e757875f"), 
+    "museumID" : [
+        8409401037.0
+    ], 
+    "museumName" : "SAN DIEGO CHILDREN'S DISCOVERY MUSEUM", 
+    "museumType" : "CHILDREN'S MUSEUM", 
+    "streetAddress" : "320 NORTH BROADWAY", 
+    "city" : "ESCONDIDO", 
+    "state" : "CA", 
+    "zipCode" : 92025.0, 
+    "phoneNumber" : "7602337755"
+}
+{ 
+    "_id" : ObjectId("5fbe646b168b7773e75789e6"), 
+    "museumID" : [
+        8404000558.0
+    ], 
+    "museumName" : "SAN DIEGO COUNTY RAILROAD MODEL MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "1649 EL PRADO", 
+    "city" : "SAN DIEGO", 
+    "state" : "CA", 
+    "zipCode" : 74743.0, 
+    "phoneNumber" : "6196960199"
+}
+{ 
+    "_id" : ObjectId("5fbe62e3168b7773e7578760"), 
+    "museumID" : [
+        8409500171.0
+    ], 
+    "museumName" : "SAN DIEGO ZOO", 
+    "museumType" : "ZOO, AQUARIUM, OR WILDLIFE CONSERVATION", 
+    "streetAddress" : "2920 ZOO DRIVE", 
+    "city" : "SAN DIEGO", 
+    "state" : "CA", 
+    "zipCode" : 92101.0, 
+    "phoneNumber" : "6192311515"
+}
+{ 
+    "_id" : ObjectId("5fbe62e4168b7773e7578761"), 
+    "museumID" : [
+        8400600782.0
+    ], 
+    "museumName" : "SAN FERNANDO VALLEY HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "10940 SEPULVEDA BLVD", 
+    "city" : "MISSION HILLS", 
+    "state" : "CA", 
+    "zipCode" : 91346.0, 
+    "phoneNumber" : "8183657810"
+}
+{ 
+    "_id" : ObjectId("5fbe62e4168b7773e7578762"), 
+    "museumID" : [
+        8400602215.0
+    ], 
+    "museumName" : "SAN FRANCISCO AQUARIUM SOCIETY", 
+    "museumType" : "ZOO, AQUARIUM, OR WILDLIFE CONSERVATION", 
+    "streetAddress" : "38 FORT MASON", 
+    "city" : "SAN FRANCISCO", 
+    "state" : "CA", 
+    "zipCode" : 94128.0, 
+    "phoneNumber" : "4159351923"
+}
+{ 
+    "_id" : ObjectId("5fbe62e5168b7773e7578763"), 
+    "museumID" : [
+        8400601488.0
+    ], 
+    "museumName" : "SAN FRANCISCO BAY AREA GREEK COMMUNITY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "245 VALENCIA STREET", 
+    "city" : "SAN FRANCISCO", 
+    "state" : "CA", 
+    "zipCode" : 94116.0, 
+    "phoneNumber" : "4158648000"
+}
+{ 
+    "_id" : ObjectId("5fbe62e5168b7773e7578764"), 
+    "museumID" : [
+        8400600105.0
+    ], 
+    "museumName" : "SAN FRANCISCO JEWELRY MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "401 1ST ST #205", 
+    "city" : "RICHMOND", 
+    "state" : "CA", 
+    "zipCode" : 94103.0, 
+    "phoneNumber" : "5102378828"
+}
+{ 
+    "_id" : ObjectId("5fbe62e6168b7773e7578765"), 
+    "museumID" : [
+        8400601683.0
+    ], 
+    "museumName" : "SAN FRANCISCO MUSEUM & HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "88 5TH ST", 
+    "city" : "SAN FRANCISCO", 
+    "state" : "CA", 
+    "zipCode" : 94142.0, 
+    "phoneNumber" : "4155371105"
+}
+{ 
+    "_id" : ObjectId("5fbe62e6168b7773e7578766"), 
+    "museumID" : [
+        8409500173.0
+    ], 
+    "museumName" : "SAN FRANCISCO ZOOLOGICAL GARDENS", 
+    "museumType" : "ZOO, AQUARIUM, OR WILDLIFE CONSERVATION", 
+    "streetAddress" : "1 ZOO ROAD", 
+    "city" : "SAN FRANCISCO", 
+    "state" : "CA", 
+    "zipCode" : 94132.0, 
+    "phoneNumber" : "4157537080"
+}
+{ 
+    "_id" : ObjectId("5fbe62e7168b7773e7578767"), 
+    "museumID" : [
+        8400602227.0
+    ], 
+    "museumName" : "SAN JOAQUIN COUNTY HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "11793 N MICKE GROVE ROAD", 
+    "city" : "LODI", 
+    "state" : "CA", 
+    "zipCode" : 95241.0, 
+    "phoneNumber" : "2093317400"
+}
+{ 
+    "_id" : ObjectId("5fbe62e7168b7773e7578768"), 
+    "museumID" : [
+        8400602552.0
+    ], 
+    "museumName" : "SAN JUAN BAUTISTA HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "CORNER OF THIRD AND MONTEREY STREETS", 
+    "city" : "SAN JUAN BAUTISTA", 
+    "state" : "CA", 
+    "zipCode" : 95045.0, 
+    "phoneNumber" : "8316232001"
+}
+{ 
+    "_id" : ObjectId("5fbe62e8168b7773e7578769"), 
+    "museumID" : [
+        8409502466.0
+    ], 
+    "museumName" : "SAN LUIS OBISPO BOTANICAL GARDEN", 
+    "museumType" : "ARBORETUM, BOTANICAL GARDEN, OR NATURE CENTER", 
+    "streetAddress" : "3450 DAIRY CREEK ROAD", 
+    "city" : "SAN LUIS OBISPO", 
+    "state" : "CA", 
+    "zipCode" : 93403.0, 
+    "phoneNumber" : "8055411400"
+}
+{ 
+    "_id" : ObjectId("5fbe62e8168b7773e757876a"), 
+    "museumID" : [
+        8400600941.0
+    ], 
+    "museumName" : "SAN LUIS OBISPO COUNTY GENEALOGICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "520 DANA STREET", 
+    "city" : "SAN LUIS OBISPO", 
+    "state" : "CA", 
+    "zipCode" : 93423.0, 
+    "phoneNumber" : "8057850383"
+}
+{ 
+    "_id" : ObjectId("5fbe62e9168b7773e757876b"), 
+    "museumID" : [
+        8400601937.0
+    ], 
+    "museumName" : "SAN LUIS OBISPO RAILROAD MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "1940 SANTA BARBARA AVENUE", 
+    "city" : "SAN LUIS OBISPO", 
+    "state" : "CA", 
+    "zipCode" : 93406.0, 
+    "phoneNumber" : "8055481894"
+}
+{ 
+    "_id" : ObjectId("5fbe62ea168b7773e757876c"), 
+    "museumID" : [
+        8400600939.0
+    ], 
+    "museumName" : "SAN MARCOS HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "1952 SYCAMORE DR", 
+    "city" : "SAN MARCOS", 
+    "state" : "CA", 
+    "zipCode" : 92069.0, 
+    "phoneNumber" : "7607449025"
+}
+{ 
+    "_id" : ObjectId("5fbe62ea168b7773e757876d"), 
+    "museumID" : [
+        8400600957.0
+    ], 
+    "museumName" : "SAN MARINO HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "1475 VIRGINIA RD", 
+    "city" : "SAN MARINO", 
+    "state" : "CA", 
+    "zipCode" : 91108.0, 
+    "phoneNumber" : "6263049375"
+}
+{ 
+    "_id" : ObjectId("5fbe62eb168b7773e757876e"), 
+    "museumID" : [
+        8400600118.0
+    ], 
+    "museumName" : "SAN MATEO COUNTY HISTORICAL MUSEUM", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "2200 BROADWAY ST REDWOOD CITY", 
+    "city" : "REDWOOD CITY", 
+    "state" : "CA", 
+    "zipCode" : 94402.0, 
+    "phoneNumber" : "6502990104"
+}
+{ 
+    "_id" : ObjectId("5fbe62eb168b7773e757876f"), 
+    "museumID" : [
+        8400602835.0
+    ], 
+    "museumName" : "SAN PEDRO ART ASSOCIATION", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "77 BERTH", 
+    "city" : "SAN PEDRO", 
+    "state" : "CA", 
+    "zipCode" : 90731.0, 
+    "phoneNumber" : "3108312928"
+}
+{ 
+    "_id" : ObjectId("5fbe62ec168b7773e7578770"), 
+    "museumID" : [
+        8400602474.0
+    ], 
+    "museumName" : "SANCHEZ ART CENTER", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "1220-B LINDA MAR BLVD", 
+    "city" : "PACIFICA", 
+    "state" : "CA", 
+    "zipCode" : 94044.0, 
+    "phoneNumber" : "6503551894"
+}
+{ 
+    "_id" : ObjectId("5fbe62ed168b7773e7578771"), 
+    "museumID" : [
+        8400600815.0
+    ], 
+    "museumName" : "SANTA ANA BLACK HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "1601 WEST 2ND STREET", 
+    "city" : "SANTA ANA", 
+    "state" : "CA", 
+    "zipCode" : 92703.0, 
+    "phoneNumber" : "7145856635"
+}
+{ 
+    "_id" : ObjectId("5fbe62ed168b7773e7578772"), 
+    "museumID" : [
+        8400601270.0
+    ], 
+    "museumName" : "SANTA ANA CANYON HISTORICAL COUNCIL", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "120 CIVIC CENTER DR WEST", 
+    "city" : "SANTA ANA", 
+    "state" : "CA", 
+    "zipCode" : 92885.0, 
+    "phoneNumber" : "7145479645"
+}
+{ 
+    "_id" : ObjectId("5fbe62ee168b7773e7578773"), 
+    "museumID" : [
+        8400600866.0
+    ], 
+    "museumName" : "SANTA BARBARA ART ASSOCIATION", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "1114 STATE STREET 26", 
+    "city" : "SANTA BARBARA", 
+    "state" : "CA", 
+    "zipCode" : 93160.0, 
+    "phoneNumber" : "8058841938"
+}
+{ 
+    "_id" : ObjectId("5fbe62ee168b7773e7578774"), 
+    "museumID" : [
+        8400601983.0
+    ], 
+    "museumName" : "SANTA BARBARA MARITIME MUSEUM", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "113 HARBOR WAY", 
+    "city" : "SANTA BARBARA", 
+    "state" : "CA", 
+    "zipCode" : 93109.0, 
+    "phoneNumber" : "8059628404"
+}
+{ 
+    "_id" : ObjectId("5fbe62ef168b7773e7578775"), 
+    "museumID" : [
+        8400602925.0
+    ], 
+    "museumName" : "SANTA BARBARA TRUST FOR HISTORIC PRESERVATION", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "123 E CANON PERDIDO STREET", 
+    "city" : "SANTA BARBARA", 
+    "state" : "CA", 
+    "zipCode" : 93101.0, 
+    "phoneNumber" : "8059650093"
+}
+{ 
+    "_id" : ObjectId("5fbe62ef168b7773e7578776"), 
+    "museumID" : [
+        8409500175.0
+    ], 
+    "museumName" : "SANTA BARBARA ZOOLOGICAL GARDENS", 
+    "museumType" : "ZOO, AQUARIUM, OR WILDLIFE CONSERVATION", 
+    "streetAddress" : "500 NINOS DRIVE", 
+    "city" : "SANTA BARBARA", 
+    "state" : "CA", 
+    "zipCode" : 93103.0, 
+    "phoneNumber" : "8059625339"
+}
+{ 
+    "_id" : ObjectId("5fbe62f0168b7773e7578777"), 
+    "museumID" : [
+        8400601958.0
+    ], 
+    "museumName" : "SANTA CLARA RIVER VALLEY: RAILROAD HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "455 MAIN ST", 
+    "city" : "FILLMORE", 
+    "state" : "CA", 
+    "zipCode" : 93016.0, 
+    "phoneNumber" : "8055242254"
+}
+{ 
+    "_id" : ObjectId("5fbe62f0168b7773e7578778"), 
+    "museumID" : [
+        8400602641.0
+    ], 
+    "museumName" : "SANTA CLARITA VALLEY HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "PO BOX 221925", 
+    "city" : "NEWHALL", 
+    "state" : "CA", 
+    "zipCode" : 91322.0, 
+    "phoneNumber" : "6612541275"
+}
+{ 
+    "_id" : ObjectId("5fbe62f2168b7773e7578779"), 
+    "museumID" : [
+        8409401039.0
+    ], 
+    "museumName" : "SANTA CRUZ CHILDREN'S MUSEUM OF DISCOVERY", 
+    "museumType" : "CHILDREN'S MUSEUM", 
+    "streetAddress" : "141 VAN NESS AVENUE", 
+    "city" : "SANTA CRUZ", 
+    "state" : "CA", 
+    "zipCode" : 95060.0, 
+    "phoneNumber" : "8312344014"
+}
+{ 
+    "_id" : ObjectId("5fbe646c168b7773e75789e7"), 
+    "museumID" : [
+        8404000541.0
+    ], 
+    "museumName" : "SANTA MARIA MUSEUM ART CENTER", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "412 S MCCLELLAND ST", 
+    "city" : "SANTA MARIA", 
+    "state" : "CA", 
+    "zipCode" : 74743.0, 
+    "phoneNumber" : "8056140806"
+}
+{ 
+    "_id" : ObjectId("5fbe62f3168b7773e757877a"), 
+    "museumID" : [
+        8409401041.0
+    ], 
+    "museumName" : "SANTA MARIA VALLEY DISCOVERY MUSEUM", 
+    "museumType" : "CHILDREN'S MUSEUM", 
+    "streetAddress" : "705 S MCCLELLAND STREET", 
+    "city" : "SANTA MARIA", 
+    "state" : "CA", 
+    "zipCode" : 93454.0, 
+    "phoneNumber" : "8059288414"
+}
+{ 
+    "_id" : ObjectId("5fbe62f4168b7773e757877b"), 
+    "museumID" : [
+        8400602049.0
+    ], 
+    "museumName" : "SANTA MARIA VALLEY RAILWAY HISTORICAL MUSEUM", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "708 S MILLER STREET", 
+    "city" : "SANTA MARIA", 
+    "state" : "CA", 
+    "zipCode" : 93456.0, 
+    "phoneNumber" : "8058636645"
+}
+{ 
+    "_id" : ObjectId("5fbe62f5168b7773e757877c"), 
+    "museumID" : [
+        8400600093.0
+    ], 
+    "museumName" : "SANTA MONICA AUCTIONS", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "2525 MICHIGAN AVE SUITE A5", 
+    "city" : "SANTA MONICA", 
+    "state" : "CA", 
+    "zipCode" : 90404.0, 
+    "phoneNumber" : "3103151937"
+}
+{ 
+    "_id" : ObjectId("5fbe62f5168b7773e757877d"), 
+    "museumID" : [
+        8400602643.0
+    ], 
+    "museumName" : "SANTA MONICA HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "1350 7TH STREET", 
+    "city" : "SANTA MONICA", 
+    "state" : "CA", 
+    "zipCode" : 90408.0, 
+    "phoneNumber" : "3103952290"
+}
+{ 
+    "_id" : ObjectId("5fbe62f6168b7773e757877e"), 
+    "museumID" : [
+        8400602770.0
+    ], 
+    "museumName" : "SANTA MONICA MUSEUM OF ART", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "2525 MICHIGAN G-1", 
+    "city" : "SANTA MONICA", 
+    "state" : "CA", 
+    "zipCode" : 90404.0, 
+    "phoneNumber" : "3105866488"
+}
+{ 
+    "_id" : ObjectId("5fbe62f6168b7773e757877f"), 
+    "museumID" : [
+        8400602929.0
+    ], 
+    "museumName" : "SANTA YNEZ VALLEY HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "3596 SAGUNTO STREET", 
+    "city" : "SANTA YNEZ", 
+    "state" : "CA", 
+    "zipCode" : 93460.0, 
+    "phoneNumber" : "8056887889"
+}
+{ 
+    "_id" : ObjectId("5fbe62f7168b7773e7578780"), 
+    "museumID" : [
+        8400602666.0
+    ], 
+    "museumName" : "SANTEE HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "9200 MAGNOLIA AVE", 
+    "city" : "SANTEE", 
+    "state" : "CA", 
+    "zipCode" : 92072.0, 
+    "phoneNumber" : "6194492024"
+}
+{ 
+    "_id" : ObjectId("5fbe62f7168b7773e7578781"), 
+    "museumID" : [
+        8400600688.0
+    ], 
+    "museumName" : "SCREENWRITING MUSEUM PROJECT", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "2525 MICHIGAN AVE STE I", 
+    "city" : "SANTA MONICA", 
+    "state" : "CA", 
+    "zipCode" : 90404.0, 
+    "phoneNumber" : "3109988322"
+}
+{ 
+    "_id" : ObjectId("5fbe62f8168b7773e7578782"), 
+    "museumID" : [
+        8409500184.0
+    ], 
+    "museumName" : "SEAWORLD SAN DIEGO", 
+    "museumType" : "ZOO, AQUARIUM, OR WILDLIFE CONSERVATION", 
+    "streetAddress" : "500 SEAWORLD DRIVE", 
+    "city" : "SAN DIEGO", 
+    "state" : "CA", 
+    "zipCode" : 92109.0, 
+    "phoneNumber" : "6192226363"
+}
+{ 
+    "_id" : ObjectId("5fbe62f8168b7773e7578783"), 
+    "museumID" : [
+        8400602187.0
+    ], 
+    "museumName" : "SECESSION GALLERY", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "3361 MISSION ST", 
+    "city" : "SAN FRANCISCO", 
+    "state" : "CA", 
+    "zipCode" : 94110.0, 
+    "phoneNumber" : "4152793058"
+}
+{ 
+    "_id" : ObjectId("5fbe62f9168b7773e7578784"), 
+    "museumID" : [
+        8409500187.0
+    ], 
+    "museumName" : "SEQUOIA PARK ZOO", 
+    "museumType" : "ZOO, AQUARIUM, OR WILDLIFE CONSERVATION", 
+    "streetAddress" : "3414 W STREET", 
+    "city" : "EUREKA", 
+    "state" : "CA", 
+    "zipCode" : 95503.0, 
+    "phoneNumber" : "7074414263"
+}
+{ 
+    "_id" : ObjectId("5fbe62fa168b7773e7578785"), 
+    "museumID" : [
+        8400600068.0
+    ], 
+    "museumName" : "SHADELANDS RANCH HISTORICAL MUSEUM", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "2660 YGNACIO VALLEY RD", 
+    "city" : "WALNUT CREEK", 
+    "state" : "CA", 
+    "zipCode" : 94598.0, 
+    "phoneNumber" : "9259357871"
+}
+{ 
+    "_id" : ObjectId("5fbe62fa168b7773e7578786"), 
+    "museumID" : [
+        8400601156.0
+    ], 
+    "museumName" : "SHASTA CASCADE RAIL PRESERVATION SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "15015 FAWNDALE ROAD #601", 
+    "city" : "REDDING", 
+    "state" : "CA", 
+    "zipCode" : 96073.0, 
+    "phoneNumber" : "5302247287"
+}
+{ 
+    "_id" : ObjectId("5fbe62fb168b7773e7578787"), 
+    "museumID" : [
+        8400601233.0
+    ], 
+    "museumName" : "SHOSHONE MUSEUM ASSOCIATION STATE HWY 127", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "118 CALIFORNIA 127", 
+    "city" : "SHOSHONE", 
+    "state" : "CA", 
+    "zipCode" : 92384.0, 
+    "phoneNumber" : "7608524524"
+}
+{ 
+    "_id" : ObjectId("5fbe62fc168b7773e7578788"), 
+    "museumID" : [
+        8400600842.0
+    ], 
+    "museumName" : "SIERRA COUNTY HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "100 KENTUCKY MINE RD", 
+    "city" : "SIERRA CITY", 
+    "state" : "CA", 
+    "zipCode" : 96124.0, 
+    "phoneNumber" : "5308621310"
+}
+{ 
+    "_id" : ObjectId("5fbe62fc168b7773e7578789"), 
+    "museumID" : [
+        8400602946.0
+    ], 
+    "museumName" : "SIERRA MADRE HISTORICAL PRESERVATION SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "ï¿½167 E MIRA MONTE AVE", 
+    "city" : "SIERRA MADRE", 
+    "state" : "CA", 
+    "zipCode" : 91025.0, 
+    "phoneNumber" : "6263557991"
+}
+{ 
+    "_id" : ObjectId("5fbe62fd168b7773e757878a"), 
+    "museumID" : [
+        8400602930.0
+    ], 
+    "museumName" : "SIMI VALLEY HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "137 STRATHEARN PL", 
+    "city" : "SIMI VALLEY", 
+    "state" : "CA", 
+    "zipCode" : 93094.0, 
+    "phoneNumber" : "8055266453"
+}
+{ 
+    "_id" : ObjectId("5fbe62fd168b7773e757878b"), 
+    "museumID" : [
+        8400602768.0
+    ], 
+    "museumName" : "SIMON WIESENTHAL CENTER", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "1399 ROXBURY DRIVE", 
+    "city" : "LOS ANGELES", 
+    "state" : "CA", 
+    "zipCode" : 90035.0, 
+    "phoneNumber" : "3105539036"
+}
+{ 
+    "_id" : ObjectId("5fbe62fe168b7773e757878c"), 
+    "museumID" : [
+        8400602599.0
+    ], 
+    "museumName" : "SOLANA BEACH CIVIC AND HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "T 715 VALLEY AVENUE", 
+    "city" : "SOLANA BEACH", 
+    "state" : "CA", 
+    "zipCode" : 92075.0, 
+    "phoneNumber" : "8582597657"
+}
+{ 
+    "_id" : ObjectId("5fbe62fe168b7773e757878d"), 
+    "museumID" : [
+        8400600734.0
+    ], 
+    "museumName" : "SOLEDAD HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "137 SOLEDAD STREET", 
+    "city" : "SOLEDAD", 
+    "state" : "CA", 
+    "zipCode" : 93960.0, 
+    "phoneNumber" : "8316782780"
+}
+{ 
+    "_id" : ObjectId("5fbe62ff168b7773e757878e"), 
+    "museumID" : [
+        8400601929.0
+    ], 
+    "museumName" : "SOLVANG HERITAGE ASSOCIATES", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "1624 ELVERHOY WAY", 
+    "city" : "SOLVANG", 
+    "state" : "CA", 
+    "zipCode" : 93464.0, 
+    "phoneNumber" : "8056861211"
+}
+{ 
+    "_id" : ObjectId("5fbe62ff168b7773e757878f"), 
+    "museumID" : [
+        8400600930.0
+    ], 
+    "museumName" : "SONOMA LEAGUE FOR HISTORIC PRESERVATION", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "291 1ST STREET EAST", 
+    "city" : "SONOMA", 
+    "state" : "CA", 
+    "zipCode" : 95476.0, 
+    "phoneNumber" : "7079380169"
+}
+{ 
+    "_id" : ObjectId("5fbe6300168b7773e7578790"), 
+    "museumID" : [
+        8400600100.0
+    ], 
+    "museumName" : "SONOMA MUSEUM OF VISUAL ART", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "50 MARK WEST SPRINGS RD", 
+    "city" : "SONOMA", 
+    "state" : "CA", 
+    "zipCode" : 95476.0, 
+    "phoneNumber" : "7079397862"
+}
+{ 
+    "_id" : ObjectId("5fbe6300168b7773e7578791"), 
+    "museumID" : [
+        8400602278.0
+    ], 
+    "museumName" : "SONOMA VALLEY HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "270 1ST STREET WEST", 
+    "city" : "SONOMA", 
+    "state" : "CA", 
+    "zipCode" : 95476.0, 
+    "phoneNumber" : "7079381762"
+}
+{ 
+    "_id" : ObjectId("5fbe6301168b7773e7578792"), 
+    "museumID" : [
+        8400601770.0
+    ], 
+    "museumName" : "SONOMA VALLEY MUSEUM OF ART", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "551 BROADWA", 
+    "city" : "SONOMA", 
+    "state" : "CA", 
+    "zipCode" : 95476.0, 
+    "phoneNumber" : "7079397862"
+}
+{ 
+    "_id" : ObjectId("5fbe6302168b7773e7578793"), 
+    "museumID" : [
+        8400600818.0
+    ], 
+    "museumName" : "SONOMA VETERANS MEMORIAL PARK ASSOCIATION", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "126 1ST STREET W", 
+    "city" : "SONOMA", 
+    "state" : "CA", 
+    "zipCode" : 95433.0, 
+    "phoneNumber" : "7079384105"
+}
+{ 
+    "_id" : ObjectId("5fbe6302168b7773e7578794"), 
+    "museumID" : [
+        8409401049.0
+    ], 
+    "museumName" : "SOUTHERN CALIFORNIA CHILDREN'S MUSEUM", 
+    "museumType" : "CHILDREN'S MUSEUM", 
+    "streetAddress" : "455 SOUTH LAKE AVENUE SUITE 103", 
+    "city" : "PASADENA", 
+    "state" : "CA", 
+    "zipCode" : 91101.0, 
+    "phoneNumber" : "6266570357"
+}
+{ 
+    "_id" : ObjectId("5fbe6303168b7773e7578795"), 
+    "museumID" : [
+        8400602629.0
+    ], 
+    "museumName" : "SOUTHERN CALIFORNIA INSTITUTE OF ARCHITECTURE", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "MERRICK STREET", 
+    "city" : "LOS ANGELES", 
+    "state" : "CA", 
+    "zipCode" : 90013.0, 
+    "phoneNumber" : "2136132200"
+}
+{ 
+    "_id" : ObjectId("5fbe6303168b7773e7578796"), 
+    "museumID" : [
+        8400602765.0
+    ], 
+    "museumName" : "SOUTHERN CALIFORNIA JEWISH HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "6505 WILSHIRE BLVD STE 370", 
+    "city" : "LOS ANGELES", 
+    "state" : "CA", 
+    "zipCode" : 91406.0, 
+    "phoneNumber" : "3237618950"
+}
+{ 
+    "_id" : ObjectId("5fbe6304168b7773e7578797"), 
+    "museumID" : [
+        8400602921.0
+    ], 
+    "museumName" : "SOUTHERN CALIFORNIA RAILWAY MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "2201 S \"A\" ST", 
+    "city" : "PERRIS", 
+    "state" : "CA", 
+    "zipCode" : 92572.0, 
+    "phoneNumber" : "9519433020"
+}
+{ 
+    "_id" : ObjectId("5fbe6304168b7773e7578798"), 
+    "museumID" : [
+        8400601323.0
+    ], 
+    "museumName" : "SOUTHERN CALIFORNIA RAILWAY PLAZA ASSOCIATION", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "1661 E CHAPMAN AVENUE", 
+    "city" : "FULLERTON", 
+    "state" : "CA", 
+    "zipCode" : 92835.0, 
+    "phoneNumber" : "7142780648"
+}
+{ 
+    "_id" : ObjectId("5fbe6305168b7773e7578799"), 
+    "museumID" : [
+        8400601880.0
+    ], 
+    "museumName" : "SOUTHERN MONO HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "5489 SHERWIN CREEK ROAD", 
+    "city" : "MAMMOTH LAKES", 
+    "state" : "CA", 
+    "zipCode" : 93546.0, 
+    "phoneNumber" : "7609346918"
+}
+{ 
+    "_id" : ObjectId("5fbe6305168b7773e757879a"), 
+    "museumID" : [
+        8400600069.0
+    ], 
+    "museumName" : "SOUTHWEST MUSEUM-AMERICAN INDIAN", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "4700 WESTERN HERITAGE WAY", 
+    "city" : "LOS ANGELES", 
+    "state" : "CA", 
+    "zipCode" : 90065.0, 
+    "phoneNumber" : "3236672000"
+}
+{ 
+    "_id" : ObjectId("5fbe6306168b7773e757879b"), 
+    "museumID" : [
+        8400600853.0
+    ], 
+    "museumName" : "SPANISHTOWN HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "PO BOX 314", 
+    "city" : "HALF MOON BAY", 
+    "state" : "CA", 
+    "zipCode" : 94019.0, 
+    "phoneNumber" : "6507267084"
+}
+{ 
+    "_id" : ObjectId("5fbe6307168b7773e757879c"), 
+    "museumID" : [
+        8400601590.0
+    ], 
+    "museumName" : "SPECTRUM GALLERY", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "PO BOX 4776", 
+    "city" : "FRESNO", 
+    "state" : "CA", 
+    "zipCode" : 93744.0, 
+    "phoneNumber" : "5592660691"
+}
+{ 
+    "_id" : ObjectId("5fbe6309168b7773e757879d"), 
+    "museumID" : [
+        8400600921.0
+    ], 
+    "museumName" : "SPRING VALLEY HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "9050 MEMORY LANE", 
+    "city" : "SPRING VALLEY", 
+    "state" : "CA", 
+    "zipCode" : 91976.0, 
+    "phoneNumber" : "6194691480"
+}
+{ 
+    "_id" : ObjectId("5fbe630a168b7773e757879e"), 
+    "museumID" : [
+        8400601026.0
+    ], 
+    "museumName" : "SQUAW VALLEY SKI MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "PO BOX 2697", 
+    "city" : "OLYMPIC VALLEY", 
+    "state" : "CA", 
+    "zipCode" : 96146.0, 
+    "phoneNumber" : "5305818701"
+}
+{ 
+    "_id" : ObjectId("5fbe630a168b7773e757879f"), 
+    "museumID" : [
+        8400601143.0
+    ], 
+    "museumName" : "ST HELENA HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "1492 LIBRARY LN", 
+    "city" : "SAINT HELENA", 
+    "state" : "CA", 
+    "zipCode" : 94574.0, 
+    "phoneNumber" : "7079675502"
+}
+{ 
+    "_id" : ObjectId("5fbe630b168b7773e75787a0"), 
+    "museumID" : [
+        8409500194.0
+    ], 
+    "museumName" : "STEINHART AQUARIUM", 
+    "museumType" : "ZOO, AQUARIUM, OR WILDLIFE CONSERVATION", 
+    "streetAddress" : "55 MUSIC CONCOURSE DRIVE", 
+    "city" : "SAN FRANCISCO", 
+    "state" : "CA", 
+    "zipCode" : 94118.0, 
+    "phoneNumber" : "4153795445"
+}
+{ 
+    "_id" : ObjectId("5fbe630b168b7773e75787a1"), 
+    "museumID" : [
+        8400601779.0
+    ], 
+    "museumName" : "STINSON BEACH HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "PO BOX 413", 
+    "city" : "STINSON BEACH", 
+    "state" : "CA", 
+    "zipCode" : 94970.0, 
+    "phoneNumber" : "4158681504"
+}
+{ 
+    "_id" : ObjectId("5fbe630c168b7773e75787a2"), 
+    "museumID" : [
+        8400601090.0
+    ], 
+    "museumName" : "STOCKTON HISTORICAL MARITIME MUSEUM", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "4290 CHEROKEE ROAD", 
+    "city" : "STOCKTON", 
+    "state" : "CA", 
+    "zipCode" : 95215.0, 
+    "phoneNumber" : "8772858243"
+}
+{ 
+    "_id" : ObjectId("5fbe630c168b7773e75787a3"), 
+    "museumID" : [
+        8400601130.0
+    ], 
+    "museumName" : "STONE CELLAR HOMESTEADCAMP", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "1076 HARRIS ROAD", 
+    "city" : "PLACERVILLE", 
+    "state" : "CA", 
+    "zipCode" : 95619.0, 
+    "phoneNumber" : "5306212538"
+}
+{ 
+    "_id" : ObjectId("5fbe630d168b7773e75787a4"), 
+    "museumID" : [
+        8400602295.0
+    ], 
+    "museumName" : "SUNHOUSE GUILD ASSOCIATION", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "431 SOUTH MAIN STREET", 
+    "city" : "UKIAH", 
+    "state" : "CA", 
+    "zipCode" : 95482.0, 
+    "phoneNumber" : "7074672836"
+}
+{ 
+    "_id" : ObjectId("5fbe630d168b7773e75787a5"), 
+    "museumID" : [
+        8400602299.0
+    ], 
+    "museumName" : "SUNNYVALE HERITAGE PARK MUSEUM", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "570 EAST REMINGTON DRIVE", 
+    "city" : "SUNNYVALE", 
+    "state" : "CA", 
+    "zipCode" : 94087.0, 
+    "phoneNumber" : "4087490220"
+}
+{ 
+    "_id" : ObjectId("5fbe630e168b7773e75787a6"), 
+    "museumID" : [
+        8400600794.0
+    ], 
+    "museumName" : "SURPRISE VALLEY COMMUNITY AND VISITOR CENTER", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "581 MAIN ST", 
+    "city" : "CEDARVILLE", 
+    "state" : "CA", 
+    "zipCode" : 96104.0, 
+    "phoneNumber" : "5302796111"
+}
+{ 
+    "_id" : ObjectId("5fbe630e168b7773e75787a7"), 
+    "museumID" : [
+        8400602892.0
+    ], 
+    "museumName" : "T H PENDERGAST CALIFORNIA PAROLE MUSEUM", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "21015 PATHFINDER ROAD 2ND FLOOR", 
+    "city" : "DIAMOND BAR", 
+    "state" : "CA", 
+    "zipCode" : 91765.0, 
+    "phoneNumber" : "9515452635"
+}
+{ 
+    "_id" : ObjectId("5fbe630f168b7773e75787a8"), 
+    "museumID" : [
+        8400602411.0
+    ], 
+    "museumName" : "TAHOE MARITIME MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "5205 W LAKE BOULEVARD", 
+    "city" : "HOMEWOOD", 
+    "state" : "CA", 
+    "zipCode" : 96141.0, 
+    "phoneNumber" : "5305259253"
+}
+{ 
+    "_id" : ObjectId("5fbe6310168b7773e75787a9"), 
+    "museumID" : [
+        8400601654.0
+    ], 
+    "museumName" : "TAHOE TALLAC ASSOCIATION", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "1 VALHALLA ROAD", 
+    "city" : "SOUTH LAKE TAHOE", 
+    "state" : "CA", 
+    "zipCode" : 96151.0, 
+    "phoneNumber" : "5305414975"
+}
+{ 
+    "_id" : ObjectId("5fbe6310168b7773e75787aa"), 
+    "museumID" : [
+        8400600054.0
+    ], 
+    "museumName" : "TALLAC MUSEUM AND HISTORIC SITE", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "2435 VENICE DRIVE ROOM #108", 
+    "city" : "SOUTH LAKE TAHOE", 
+    "state" : "CA", 
+    "zipCode" : 96150.0, 
+    "phoneNumber" : "5305415227"
+}
+{ 
+    "_id" : ObjectId("5fbe6311168b7773e75787ab"), 
+    "museumID" : [
+        8400601613.0
+    ], 
+    "museumName" : "TAYLOR OBSERVATORY-NORTON PLANETARIUM", 
+    "museumType" : "SCIENCE & TECHNOLOGY MUSEUM OR PLANETARIUM", 
+    "streetAddress" : "5725 OAK HILLS LN", 
+    "city" : "KELSEYVILLE", 
+    "state" : "CA", 
+    "zipCode" : 95451.0, 
+    "phoneNumber" : "7072798372"
+}
+{ 
+    "_id" : ObjectId("5fbe6311168b7773e75787ac"), 
+    "museumID" : [
+        8400602663.0
+    ], 
+    "museumName" : "TEHACHAPI HERITAGE LEAGUE", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "310 S GREEN ST", 
+    "city" : "TEHACHAPI", 
+    "state" : "CA", 
+    "zipCode" : 93581.0, 
+    "phoneNumber" : "6618228152"
+}
+{ 
+    "_id" : ObjectId("5fbe6312168b7773e75787ad"), 
+    "museumID" : [
+        8400601058.0
+    ], 
+    "museumName" : "TEHACHAPI WIND MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "PO BOX 222", 
+    "city" : "TEHACHAPI", 
+    "state" : "CA", 
+    "zipCode" : 93581.0, 
+    "phoneNumber" : "6618227099"
+}
+{ 
+    "_id" : ObjectId("5fbe6313168b7773e75787ae"), 
+    "museumID" : [
+        8400601756.0
+    ], 
+    "museumName" : "TELEPHONE MUSEUM", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "106 VERNON STREET", 
+    "city" : "ROSEVILLE", 
+    "state" : "CA", 
+    "zipCode" : 95678.0, 
+    "phoneNumber" : "9167861621"
+}
+{ 
+    "_id" : ObjectId("5fbe6313168b7773e75787af"), 
+    "museumID" : [
+        8400601207.0
+    ], 
+    "museumName" : "TEMECULA VALLEY MUSEUM", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "28314 MERCEDES ST", 
+    "city" : "TEMECULA", 
+    "state" : "CA", 
+    "zipCode" : 92593.0, 
+    "phoneNumber" : "9516946450"
+}
+{ 
+    "_id" : ObjectId("5fbe6314168b7773e75787b0"), 
+    "museumID" : [
+        8400601926.0
+    ], 
+    "museumName" : "TEMPLETON HISTORICAL MUSEUM SOCIETY", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "309 S MAIN ST", 
+    "city" : "TEMPLETON", 
+    "state" : "CA", 
+    "zipCode" : 93465.0, 
+    "phoneNumber" : "8054340807"
+}
+{ 
+    "_id" : ObjectId("5fbe6314168b7773e75787b1"), 
+    "museumID" : [
+        8400602849.0
+    ], 
+    "museumName" : "THELITTLE LANDERS HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "10110 COMMERCE AVENUE", 
+    "city" : "TUJUNGA", 
+    "state" : "CA", 
+    "zipCode" : 91043.0, 
+    "phoneNumber" : "8183523420"
+}
+{ 
+    "_id" : ObjectId("5fbe6315168b7773e75787b2"), 
+    "museumID" : [
+        8400602803.0
+    ], 
+    "museumName" : "TOPANGA HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "120 S TOPANGA CANYON BLVD UNIT 206", 
+    "city" : "TOPANGA", 
+    "state" : "CA", 
+    "zipCode" : 90290.0, 
+    "phoneNumber" : "3104551969"
+}
+{ 
+    "_id" : ObjectId("5fbe6315168b7773e75787b3"), 
+    "museumID" : [
+        8400602184.0
+    ], 
+    "museumName" : "TORRANCE AERONAUTICAL", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "23900 MADISON ST", 
+    "city" : "TORRANCE", 
+    "state" : "CA", 
+    "zipCode" : 90505.0, 
+    "phoneNumber" : "3103757441"
+}
+{ 
+    "_id" : ObjectId("5fbe6316168b7773e75787b4"), 
+    "museumID" : [
+        8400601292.0
+    ], 
+    "museumName" : "TORRANCE CULTURAL ARTS CENTER FOUNDATION", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "25500 HAWTHORNE BLVD", 
+    "city" : "TORRANCE", 
+    "state" : "CA", 
+    "zipCode" : 90505.0, 
+    "phoneNumber" : "3103788100"
+}
+{ 
+    "_id" : ObjectId("5fbe6316168b7773e75787b5"), 
+    "museumID" : [
+        8400601155.0
+    ], 
+    "museumName" : "TRACY HISTORICAL MUSEUM", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "1141 ADAM ST", 
+    "city" : "TRACY", 
+    "state" : "CA", 
+    "zipCode" : 95378.0, 
+    "phoneNumber" : "2098327278"
+}
+{ 
+    "_id" : ObjectId("5fbe6317168b7773e75787b6"), 
+    "museumID" : [
+        8400602380.0
+    ], 
+    "museumName" : "TRAVIS AIR FORCE BASE HERITAGE CENTER", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "429 LA CRESTA DR", 
+    "city" : "FAIRFIELD", 
+    "state" : "CA", 
+    "zipCode" : 94533.0, 
+    "phoneNumber" : "7073171134"
+}
+{ 
+    "_id" : ObjectId("5fbe6317168b7773e75787b7"), 
+    "museumID" : [
+        8400601570.0
+    ], 
+    "museumName" : "TREASURE ISLAND MUSEUM ASSOCIATION", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "ONE AVENUE OF THE PALMS RM 111", 
+    "city" : "SAN FRANCISCO", 
+    "state" : "CA", 
+    "zipCode" : 94104.0, 
+    "phoneNumber" : "4154138462"
+}
+{ 
+    "_id" : ObjectId("5fbe6318168b7773e75787b8"), 
+    "museumID" : [
+        8400600851.0
+    ], 
+    "museumName" : "TRINITY COUNTY HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "780 MAIN STREET", 
+    "city" : "WEAVERVILLE", 
+    "state" : "CA", 
+    "zipCode" : 96093.0, 
+    "phoneNumber" : "5306235211"
+}
+{ 
+    "_id" : ObjectId("5fbe6319168b7773e75787b9"), 
+    "museumID" : [
+        8400600881.0
+    ], 
+    "museumName" : "TRUCKEE-DONNER HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "10115 DONNER TRAIL RD", 
+    "city" : "TRUCKEE", 
+    "state" : "CA", 
+    "zipCode" : 96160.0, 
+    "phoneNumber" : "5305820893"
+}
+{ 
+    "_id" : ObjectId("5fbe6319168b7773e75787ba"), 
+    "museumID" : [
+        8400601805.0
+    ], 
+    "museumName" : "TSURAI ANCESTRAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "791 8TH STREET SUITE 8", 
+    "city" : "TRINIDAD", 
+    "state" : "CA", 
+    "zipCode" : 95570.0, 
+    "phoneNumber" : "7078267000"
+}
+{ 
+    "_id" : ObjectId("5fbe631a168b7773e75787bb"), 
+    "museumID" : [
+        8400602344.0
+    ], 
+    "museumName" : "TULARE CITY HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "PO BOX 248", 
+    "city" : "TULARE", 
+    "state" : "CA", 
+    "zipCode" : 93275.0, 
+    "phoneNumber" : "5596862074"
+}
+{ 
+    "_id" : ObjectId("5fbe631a168b7773e75787bc"), 
+    "museumID" : [
+        8400602371.0
+    ], 
+    "museumName" : "TULE RIVER HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "34902 HIGHWAY 190", 
+    "city" : "SPRINGVILLE", 
+    "state" : "CA", 
+    "zipCode" : 93265.0, 
+    "phoneNumber" : "5597842487"
+}
+{ 
+    "_id" : ObjectId("5fbe631b168b7773e75787bd"), 
+    "museumID" : 1234567890.0, 
+    "museumName" : "TUOLUMNE CITY MEMORIAL MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "18663 CARTER ST", 
+    "city" : "TUOLUMNE", 
+    "state" : "CA", 
+    "zipCode" : 95379.0, 
+    "phoneNumber" : "2099283516"
+}
+{ 
+    "_id" : ObjectId("5fbe631b168b7773e75787be"), 
+    "museumID" : [
+        8400600864.0
+    ], 
+    "museumName" : "TUOLUMNE COUNTY HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "158 BRADFORD STREET", 
+    "city" : "SONORA", 
+    "state" : "CA", 
+    "zipCode" : 95370.0, 
+    "phoneNumber" : "2095321317"
+}
+{ 
+    "_id" : ObjectId("5fbe631c168b7773e75787bf"), 
+    "museumID" : [
+        8400601997.0
+    ], 
+    "museumName" : "TURLOCK HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "108 SOUTH CENTER STREET", 
+    "city" : "TURLOCK", 
+    "state" : "CA", 
+    "zipCode" : 95381.0, 
+    "phoneNumber" : "2096687386"
+}
+{ 
+    "_id" : ObjectId("5fbe631c168b7773e75787c0"), 
+    "museumID" : [
+        8400602740.0
+    ], 
+    "museumName" : "TWENTYNINE PALMS HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "6760 NATIONAL PARK DRIVE", 
+    "city" : "TWENTYNINE", 
+    "state" : "CA", 
+    "zipCode" : 92277.0, 
+    "phoneNumber" : "7603672366"
+}
+{ 
+    "_id" : ObjectId("5fbe631c168b7773e75787c1"), 
+    "museumID" : [
+        8409400706.0
+    ], 
+    "museumName" : "U.S. NAVY SEABEE MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "1001 ADDOR ST", 
+    "city" : "PORT HUENEME", 
+    "state" : "CA", 
+    "zipCode" : 93043.0, 
+    "phoneNumber" : "8059825167"
+}
+{ 
+    "_id" : ObjectId("5fbe631d168b7773e75787c2"), 
+    "museumID" : [
+        8400600025.0
+    ], 
+    "museumName" : "UC BERKELEY ART MUSEUM", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "2626 BANCROFT WAY", 
+    "city" : "BERKELEY", 
+    "state" : "CA", 
+    "zipCode" : 94720.0, 
+    "phoneNumber" : "5106420808"
+}
+{ 
+    "_id" : ObjectId("5fbe631e168b7773e75787c3"), 
+    "museumID" : [
+        8400602514.0
+    ], 
+    "museumName" : "UC DAVIS BOTANICAL CONSERVATORY", 
+    "museumType" : "ARBORETUM, BOTANICAL GARDEN, OR NATURE CENTER", 
+    "streetAddress" : "1 SHIELDS AVE", 
+    "city" : "DAVIS", 
+    "state" : "CA", 
+    "zipCode" : 95616.0, 
+    "phoneNumber" : "5307520569"
+}
+{ 
+    "_id" : ObjectId("5fbe631e168b7773e75787c4"), 
+    "museumID" : [
+        8400602970.0
+    ], 
+    "museumName" : "UC DAVIS CN GORMAN MUSEUM", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "1316 HART HALL 1 SHIELD AVE", 
+    "city" : "DAVIS", 
+    "state" : "CA", 
+    "zipCode" : 95616.0, 
+    "phoneNumber" : "5307526567"
+}
+{ 
+    "_id" : ObjectId("5fbe631f168b7773e75787c5"), 
+    "museumID" : [
+        8400601740.0
+    ], 
+    "museumName" : "UNDERGROUND GOLD MINERS OF CALIFORNIA MUSEUM", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "356 MAIN ST", 
+    "city" : "ALLEGHANY", 
+    "state" : "CA", 
+    "zipCode" : 95910.0, 
+    "phoneNumber" : "5302873330"
+}
+{ 
+    "_id" : ObjectId("5fbe6330168b7773e75787e6"), 
+    "museumID" : [
+        8403400325.0
+    ], 
+    "museumName" : "UNITED STATES BICYCLING HALL OF FAME", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "303 3RD STREET", 
+    "city" : "DAVIS", 
+    "state" : "CA", 
+    "zipCode" : 8876.0, 
+    "phoneNumber" : "5303413263"
+}
+{ 
+    "_id" : ObjectId("5fbe631f168b7773e75787c6"), 
+    "museumID" : [
+        8400600770.0
+    ], 
+    "museumName" : "USS SAN FRANCISCO MEMORIAL FOUNDATION", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "401 VAN NESS AVE", 
+    "city" : "SAN FRANCISCO", 
+    "state" : "CA", 
+    "zipCode" : 94131.0, 
+    "phoneNumber" : "5735902152"
+}
+{ 
+    "_id" : ObjectId("5fbe6320168b7773e75787c7"), 
+    "museumID" : [
+        8400601523.0
+    ], 
+    "museumName" : "VALLEY RELICS", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "21630 MARILLA STREET", 
+    "city" : "CHATSWORTH", 
+    "state" : "CA", 
+    "zipCode" : 91605.0, 
+    "phoneNumber" : "8186784934"
+}
+{ 
+    "_id" : ObjectId("5fbe6320168b7773e75787c8"), 
+    "museumID" : [
+        8400600827.0
+    ], 
+    "museumName" : "VENTURA BOTANICAL GARDENS", 
+    "museumType" : "ARBORETUM, BOTANICAL GARDEN, OR NATURE CENTER", 
+    "streetAddress" : "4328 WESTMONT ST", 
+    "city" : "VENTURA", 
+    "state" : "CA", 
+    "zipCode" : 93006.0, 
+    "phoneNumber" : "8052323113"
+}
+{ 
+    "_id" : ObjectId("5fbe6321168b7773e75787c9"), 
+    "museumID" : [
+        8400600786.0
+    ], 
+    "museumName" : "VETERANS MEMORIAL MUSEUM", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "2425 FRESNO ST", 
+    "city" : "FRESNO", 
+    "state" : "CA", 
+    "zipCode" : 93721.0, 
+    "phoneNumber" : "5594980510"
+}
+{ 
+    "_id" : ObjectId("5fbe6321168b7773e75787ca"), 
+    "museumID" : [
+        8400600047.0
+    ], 
+    "museumName" : "VICTORIAN BRIDAL MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "2535 S SAN JACINTO AVE", 
+    "city" : "SAN JACINTO", 
+    "state" : "CA", 
+    "zipCode" : 92866.0, 
+    "phoneNumber" : "9514876088"
+}
+{ 
+    "_id" : ObjectId("5fbe6322168b7773e75787cb"), 
+    "museumID" : [
+        8400600821.0
+    ], 
+    "museumName" : "WAR HORSE & MILITARIA HERITAGE FOUNDATION", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "11416 ORCAS AVE", 
+    "city" : "SYLMAR", 
+    "state" : "CA", 
+    "zipCode" : 91342.0, 
+    "phoneNumber" : "8188968390"
+}
+{ 
+    "_id" : ObjectId("5fbe6322168b7773e75787cc"), 
+    "museumID" : [
+        8400600042.0
+    ], 
+    "museumName" : "WARBIRDS WEST AIR MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "1725 N MARSHALL AVE", 
+    "city" : "EL CAJON", 
+    "state" : "CA", 
+    "zipCode" : 92020.0, 
+    "phoneNumber" : "6194491504"
+}
+{ 
+    "_id" : ObjectId("5fbe6323168b7773e75787cd"), 
+    "museumID" : [
+        8400602654.0
+    ], 
+    "museumName" : "WASCO HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "918 6TH STREET", 
+    "city" : "WASCO", 
+    "state" : "CA", 
+    "zipCode" : 93280.0, 
+    "phoneNumber" : "6617588948"
+}
+{ 
+    "_id" : ObjectId("5fbe6323168b7773e75787ce"), 
+    "museumID" : [
+        8400600022.0
+    ], 
+    "museumName" : "WEAVERVILLE JOSS HOUSE STATE HISTORIC PARK", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "299 AND OREGON STREET", 
+    "city" : "WEAVERVILLE", 
+    "state" : "CA", 
+    "zipCode" : 96087.0, 
+    "phoneNumber" : "5306235284"
+}
+{ 
+    "_id" : ObjectId("5fbe6324168b7773e75787cf"), 
+    "museumID" : [
+        8400602761.0
+    ], 
+    "museumName" : "WEST ANTELOPE VALLEY HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "45026 11TH ST WEST", 
+    "city" : "LANCASTER", 
+    "state" : "CA", 
+    "zipCode" : 93539.0, 
+    "phoneNumber" : "6619455369"
+}
+{ 
+    "_id" : ObjectId("5fbe6325168b7773e75787d0"), 
+    "museumID" : [
+        8400600937.0
+    ], 
+    "museumName" : "WEST KERN OIL MUSEUM", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "1168 WOOD ST", 
+    "city" : "TAFT", 
+    "state" : "CA", 
+    "zipCode" : 93268.0, 
+    "phoneNumber" : "6617656664"
+}
+{ 
+    "_id" : ObjectId("5fbe6325168b7773e75787d1"), 
+    "museumID" : [
+        8400602198.0
+    ], 
+    "museumName" : "WEST POINT INN ASSOCIATION", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "100 OLD RAILROAD GRADE", 
+    "city" : "MILL VALLEY", 
+    "state" : "CA", 
+    "zipCode" : 94941.0, 
+    "phoneNumber" : "4153889955"
+}
+{ 
+    "_id" : ObjectId("5fbe6326168b7773e75787d2"), 
+    "museumID" : [
+        8400601737.0
+    ], 
+    "museumName" : "WEST SACRAMENTO CITY HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "664 CUMMINS WAY", 
+    "city" : "W SACRAMENTO", 
+    "state" : "CA", 
+    "zipCode" : 95691.0, 
+    "phoneNumber" : "9163741849"
+}
+{ 
+    "_id" : ObjectId("5fbe6326168b7773e75787d3"), 
+    "museumID" : [
+        8400601261.0
+    ], 
+    "museumName" : "WESTERN AMERICA RAILROAD MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "685 N 1ST AVE", 
+    "city" : "BARSTOW", 
+    "state" : "CA", 
+    "zipCode" : 92312.0, 
+    "phoneNumber" : "7602569276"
+}
+{ 
+    "_id" : ObjectId("5fbe6327168b7773e75787d4"), 
+    "museumID" : [
+        8400600928.0
+    ], 
+    "museumName" : "WESTMINISTER HISTORICAL SOCIETY & MUSEUM", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "8612 WESTMINSTER BOULEVARD", 
+    "city" : "WESTMINSTER", 
+    "state" : "CA", 
+    "zipCode" : 92683.0, 
+    "phoneNumber" : "7148912597"
+}
+{ 
+    "_id" : ObjectId("5fbe6327168b7773e75787d5"), 
+    "museumID" : [
+        8400601533.0
+    ], 
+    "museumName" : "WESTWOOD MUSEUM", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "21 ASH ST", 
+    "city" : "WESTWOOD", 
+    "state" : "CA", 
+    "zipCode" : 96137.0, 
+    "phoneNumber" : "5302562233"
+}
+{ 
+    "_id" : ObjectId("5fbe6328168b7773e75787d6"), 
+    "museumID" : [
+        8400600014.0
+    ], 
+    "museumName" : "WHALEY HOUSE", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "2476 SAN DIEGO AVE", 
+    "city" : "SAN DIEGO", 
+    "state" : "CA", 
+    "zipCode" : 92110.0, 
+    "phoneNumber" : "6192979327"
+}
+{ 
+    "_id" : ObjectId("5fbe6328168b7773e75787d7"), 
+    "museumID" : [
+        8400602022.0
+    ], 
+    "museumName" : "WILDLING MUSEUM", 
+    "museumType" : "ART MUSEUM", 
+    "streetAddress" : "1511 MISSION DR", 
+    "city" : "SOLVANG", 
+    "state" : "CA", 
+    "zipCode" : 93441.0, 
+    "phoneNumber" : "8056881082"
+}
+{ 
+    "_id" : ObjectId("5fbe6329168b7773e75787d8"), 
+    "museumID" : [
+        8400601753.0
+    ], 
+    "museumName" : "WINDSOR HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "96 PALISADO AVE", 
+    "city" : "WINDSOR", 
+    "state" : "CA", 
+    "zipCode" : 95492.0, 
+    "phoneNumber" : "8606883813"
+}
+{ 
+    "_id" : ObjectId("5fbe6329168b7773e75787d9"), 
+    "museumID" : [
+        8400602759.0
+    ], 
+    "museumName" : "WOMEN'S MUSEUM OF CALIFORNIA", 
+    "museumType" : "GENERAL MUSEUM", 
+    "streetAddress" : "2730 HISTORIC DECATUR ROAD SUITE 103", 
+    "city" : "SAN DIEGO", 
+    "state" : "CA", 
+    "zipCode" : 92102.0, 
+    "phoneNumber" : "6192337963"
+}
+{ 
+    "_id" : ObjectId("5fbe632a168b7773e75787da"), 
+    "museumID" : [
+        8400600033.0
+    ], 
+    "museumName" : "WOMENS HISTORY MUSEUM AND EDUCATION CENTER", 
+    "museumType" : "HISTORY MUSEUM", 
+    "streetAddress" : "2730 HISTORIC DECATUR ROAD SUITE 103", 
+    "city" : "SAN DIEGO", 
+    "state" : "CA", 
+    "zipCode" : 92102.0, 
+    "phoneNumber" : "6192337963"
+}
+{ 
+    "_id" : ObjectId("5fbe632b168b7773e75787db"), 
+    "museumID" : [
+        8400602129.0
+    ], 
+    "museumName" : "YORBA LINDA HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "5700 SUSANNA BRYANT DR", 
+    "city" : "YORBA LINDA", 
+    "state" : "CA", 
+    "zipCode" : 92885.0, 
+    "phoneNumber" : "7146940235"
+}
+{ 
+    "_id" : ObjectId("5fbe632b168b7773e75787dc"), 
+    "museumID" : [
+        8400600893.0
+    ], 
+    "museumName" : "YUBA FEATHER HISTORICAL ASSOCIATION", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "19096 NEW YORK FLAT RD", 
+    "city" : "FORBESTOWN", 
+    "state" : "CA", 
+    "zipCode" : 95919.0, 
+    "phoneNumber" : "5306751025"
+}
+{ 
+    "_id" : ObjectId("5fbe632c168b7773e75787dd"), 
+    "museumID" : [
+        8400601186.0
+    ], 
+    "museumName" : "YUCAIPA VALLEY HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "streetAddress" : "35308 PANORAMA DRIVE", 
+    "city" : "YUCAIPA", 
+    "state" : "CA", 
+    "zipCode" : 92399.0, 
+    "phoneNumber" : "9097904685"
+}

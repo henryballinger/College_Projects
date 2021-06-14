@@ -1,0 +1,76 @@
+body {
+    background: rgb(175, 133, 133);
+    text-align: center;
+    color: wheat;
+}
+
+.back {
+    position: absolute;
+    top: 0;
+}
+
+#info {
+    width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h2 {
+    font-size: 5vw;
+    padding: 3%;
+}
+
+p {
+    font-size: 1.5vw;
+}
+
+a {
+    text-decoration: underline;
+    color: wheat;
+}
+a:hover {
+    color: antiquewhite;
+}
+
+.row {
+    position: relative;
+    overflow: hidden;
+    margin-right: auto;
+    margin-left: auto;
+    width: 75%;
+}
+
+.col-3 {
+    height: 12vw;
+    border: 1px solid wheat;
+}
+
+.venuetitle {
+    font-size: 1.3vw;
+    text-align: center;
+    padding-top: 7%;
+}
+
+.aboutvenues {
+    position: absolute;
+    top: -9999px;
+    bottom: -9999px;
+    right: -9999px;
+    left: -9999px;
+    margin: auto;
+    max-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+}
+
+.score {
+    z-index: 10;
+    font-size: 1.2vw;
+    position: absolute;
+    right: 4%;
+    bottom: 0;
+    padding: 2% 0.8%;
+    background: wheat;
+    color: black;
+    border-radius: 50%;
+}

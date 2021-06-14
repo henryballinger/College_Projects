@@ -1,0 +1,61 @@
+body {
+    text-align: center;
+    background: rgb(53,118,167);
+    background-size: 100%;
+    color: wheat;
+    font-weight: bold;
+}
+
+.back {
+    position: absolute;
+    top: 0;
+    font-weight: normal;
+}
+
+h1 {
+    font-size: 5vw;
+    margin: 2%;
+    color: wheat;
+}
+
+#registrationForm, #loginForm {
+    display: inline-block;
+    min-width: 40%;
+    border-radius: 2%;
+}
+
+label {
+    font-size: 1.5rem;
+}
+
+.form-group {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.form-control {
+    border: 1px solid #8c8c8c;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.error {
+    color: orangered;
+    font-size: 1.2rem;
+}
+
+.errorMessages {
+    visibility: hidden;
+    font-size: 1.3rem;
+}
+
+#fileForm, #skipUpload {
+    display: none;
+}
+
+#uploadBtn, #registerBtn {
+    background: wheat;
+    color: black;
+}
+

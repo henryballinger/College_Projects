@@ -1,0 +1,21 @@
+@font-face{
+    font-family: Font;
+    src: url('Montserrat-Light.ttf');
+}
+
+body {
+    font-family: Font, verdana, serif;
+}
+
+.back:hover {
+    color: antiquewhite;
+    text-decoration: none;
+}
+.back {
+    text-decoration: none;
+    font-size: 5rem;
+    color: wheat;
+    position: fixed;
+    left: 6%;
+    top: 5%;
+}

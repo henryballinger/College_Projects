@@ -1,0 +1,89 @@
+:root {
+    --wheat: #f5deb3;
+}
+
+body {
+    background: rgb(133,133,143);
+    background: radial-gradient(circle, rgba(133,133,143,1) 0%, rgba(175,133,133,1) 100%);
+    background-size: 100%;
+}
+
+h1 {
+    font-style: normal;
+    margin: 3%;
+}
+
+#venuecontainer {
+    background: transparent;
+    width: 60%;
+    color: var(--wheat);
+}
+
+#venuecontainer, .row, .loader {
+    overflow: hidden;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.row {
+    position: relative;
+}
+
+.col-4 {
+    height: 12vw;
+    padding: 1%;
+    border: 1px solid var(--wheat);
+    cursor: pointer;
+}
+
+.venuetitle {
+    font-size: 1.8vw;
+    text-align: center;
+    padding-top: 7%;
+    cursor: pointer;
+}
+
+.venueimg {
+    position: absolute;
+    top: -9999px;
+    bottom: -9999px;
+    right: -9999px;
+    left: -9999px;
+    margin: auto;
+    max-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+}
+
+.score {
+    z-index: 10;
+    font-size: 1.2vw;
+    position: absolute;
+    right: 5%;
+    bottom: 0;
+    padding: 2% 0.8%;
+    background: var(--wheat);
+    color: black;
+    border-radius: 50%;
+}
+
+#loadingVenues {
+    text-align: center;
+    font-size: 2vw;
+    color: var(--wheat);
+    margin-bottom: 2%;
+}
+
+.loader {
+    border: 16px solid var(--wheat);
+    border-top: 16px solid grey;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg) }
+}

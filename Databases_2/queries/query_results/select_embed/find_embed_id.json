@@ -1,0 +1,570 @@
+{ 
+    "_id" : ObjectId("5fbe3b4c8bac42bf8e0c7146"), 
+    "museumID" : [
+        8400100083.0
+    ], 
+    "museumName" : "ALABAMA CONSTITUTION VILLAGE", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "location" : [
+        {
+            "streetAddress" : "109 GATES AVENUE SOUTHWEST", 
+            "city" : "HUNTSVILLE", 
+            "state" : "AL", 
+            "zipCode" : 35801.0, 
+            "latitude" : 34.72664, 
+            "longitude" : -86.57223
+        }
+    ], 
+    "phoneNumber" : "2565648100"
+}
+{ 
+    "_id" : ObjectId("5fbe3b4d8bac42bf8e0c7147"), 
+    "museumID" : [
+        8400100428.0
+    ], 
+    "museumName" : "ALABAMA DEPARTMENT OF ARCHIVES AND HISTORY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "location" : [
+        {
+            "streetAddress" : "624 WASHINGTON AVE", 
+            "city" : "MONTGOMERY", 
+            "state" : "AL", 
+            "zipCode" : 36130.0, 
+            "latitude" : 32.37771, 
+            "longitude" : -86.291
+        }
+    ], 
+    "phoneNumber" : "3343531936"
+}
+{ 
+    "_id" : ObjectId("5fbe3b4d8bac42bf8e0c7148"), 
+    "museumID" : [
+        8400100231.0
+    ], 
+    "museumName" : "ALABAMA HISTORICAL RADIO SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "location" : [
+        {
+            "streetAddress" : "600 N 18TH STREET", 
+            "city" : "BIRMINGHAM", 
+            "state" : "AL", 
+            "zipCode" : 35213.0, 
+            "latitude" : 33.51784, 
+            "longitude" : -86.81185
+        }
+    ], 
+    "phoneNumber" : "2059677000"
+}
+{ 
+    "_id" : ObjectId("5fbe3b578bac42bf8e0c7154"), 
+    "museumID" : [
+        8409501249.0
+    ], 
+    "museumName" : "ALTAR OF THE NEW TESTAMENT AND FOUNDERS HALL", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "location" : [
+        {
+            "streetAddress" : "300 N BEATY STï¿½", 
+            "city" : "ATHENS", 
+            "state" : "AL", 
+            "zipCode" : 35611.0, 
+            "latitude" : 34.80598, 
+            "longitude" : -86.96746
+        }
+    ], 
+    "phoneNumber" : "2562338215"
+}
+{ 
+    "_id" : ObjectId("5fbe3b588bac42bf8e0c7156"), 
+    "museumID" : [
+        8400100321.0
+    ], 
+    "museumName" : "ARAB HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "location" : [
+        {
+            "streetAddress" : "224 CITY PARK DRIVE NORTHEAST", 
+            "city" : "ARAB", 
+            "state" : "AL", 
+            "zipCode" : 35016.0, 
+            "latitude" : 34.32768, 
+            "longitude" : -86.49274
+        }
+    ], 
+    "phoneNumber" : "2565866397"
+}
+{ 
+    "_id" : ObjectId("5fbe3b5c8bac42bf8e0c715b"), 
+    "museumID" : [
+        8400100084.0
+    ], 
+    "museumName" : "BELLE MONT MANSION", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "location" : [
+        {
+            "streetAddress" : "1569 COOK LANE", 
+            "city" : "TUSCUMBIA", 
+            "state" : "AL", 
+            "zipCode" : 35643.0, 
+            "latitude" : 34.68412, 
+            "longitude" : -87.67689
+        }
+    ], 
+    "phoneNumber" : "2566378513"
+}
+{ 
+    "_id" : ObjectId("5fbe3b5f8bac42bf8e0c715f"), 
+    "museumID" : [
+        8400100267.0
+    ], 
+    "museumName" : "BUTLER COUNTY HISTORICAL & GENEALOGICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "location" : [
+        {
+            "streetAddress" : "309 FORT DALE RD", 
+            "city" : "GREENVILLE", 
+            "state" : "AL", 
+            "zipCode" : 36037.0, 
+            "latitude" : 31.83257, 
+            "longitude" : -86.62734
+        }
+    ], 
+    "phoneNumber" : "3343839564"
+}
+{ 
+    "_id" : ObjectId("5fbe3b648bac42bf8e0c7164"), 
+    "museumID" : [
+        8400100073.0
+    ], 
+    "museumName" : "CLARKE CO HISTORICAL MUSEUM", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "location" : [
+        {
+            "streetAddress" : "116 COBB STREET", 
+            "city" : "GROVE HILL", 
+            "state" : "AL", 
+            "zipCode" : 36451.0, 
+            "latitude" : 31.686729999999997, 
+            "longitude" : -87.78712
+        }
+    ], 
+    "phoneNumber" : "2512752014"
+}
+{ 
+    "_id" : ObjectId("5fbe3b678bac42bf8e0c7169"), 
+    "museumID" : [
+        8400100360.0
+    ], 
+    "museumName" : "DONNELL HOUSE BOARD", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "location" : [
+        {
+            "streetAddress" : "601 & 1/2 SOUTH CLINTON STREET", 
+            "city" : "ATHENS", 
+            "state" : "AL", 
+            "zipCode" : 35612.0, 
+            "latitude" : 34.80508, 
+            "longitude" : -86.98225
+        }
+    ], 
+    "phoneNumber" : "2562320743"
+}
+{ 
+    "_id" : ObjectId("5fbe3b698bac42bf8e0c716b"), 
+    "museumID" : [
+        8400100198.0
+    ], 
+    "museumName" : "EPES HISTORICAL ASSOCIATION", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "location" : [
+        {
+            "streetAddress" : "12428 SUMTER 20", 
+            "city" : "EPES", 
+            "state" : "AL", 
+            "zipCode" : 35460.0, 
+            "latitude" : 32.671659999999996, 
+            "longitude" : -88.16305
+        }
+    ], 
+    "phoneNumber" : "2056527190"
+}
+{ 
+    "_id" : ObjectId("5fbe3b6a8bac42bf8e0c716c"), 
+    "museumID" : [
+        8400100424.0
+    ], 
+    "museumName" : "EUFAULA HERITAGE ASSOCIATION", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "location" : [
+        {
+            "streetAddress" : "340 N EUFAULA AVE", 
+            "city" : "EUFAULA", 
+            "state" : "AL", 
+            "zipCode" : 36072.0, 
+            "latitude" : 31.89681, 
+            "longitude" : -85.14599
+        }
+    ], 
+    "phoneNumber" : "3346873793"
+}
+{ 
+    "_id" : ObjectId("5fbe3b6d8bac42bf8e0c7171"), 
+    "museumID" : [
+        8400100057.0
+    ], 
+    "museumName" : "FORT MORGAN STATE HISTORIC SITE", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "location" : [
+        {
+            "streetAddress" : "110 STATE HIGHWAY 180", 
+            "city" : "GULF SHORES", 
+            "state" : "AL", 
+            "zipCode" : 36542.0, 
+            "latitude" : 30.22975, 
+            "longitude" : -88.00148
+        }
+    ], 
+    "phoneNumber" : "2515407127"
+}
+{ 
+    "_id" : ObjectId("5fbe3b6e8bac42bf8e0c7173"), 
+    "museumID" : [
+        8400100280.0
+    ], 
+    "museumName" : "GREENE COUNTY HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "location" : [
+        {
+            "streetAddress" : "310 MAIN STREET", 
+            "city" : "EUTAW", 
+            "state" : "AL", 
+            "zipCode" : 35462.0, 
+            "latitude" : 32.84129, 
+            "longitude" : -87.89041
+        }
+    ], 
+    "phoneNumber" : "2052920015"
+}
+{ 
+    "_id" : ObjectId("5fbe3b718bac42bf8e0c7178"), 
+    "museumID" : [
+        8400100383.0
+    ], 
+    "museumName" : "HISTORIC NORTHPORT", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "location" : [
+        {
+            "streetAddress" : "1802 20TH AVENUE", 
+            "city" : "NORTHPORT", 
+            "state" : "AL", 
+            "zipCode" : 35476.0, 
+            "latitude" : 33.228190000000005, 
+            "longitude" : -87.57759
+        }
+    ], 
+    "phoneNumber" : "2053390488"
+}
+{ 
+    "_id" : ObjectId("5fbe3b728bac42bf8e0c717a"), 
+    "museumID" : [
+        8400100223.0
+    ], 
+    "museumName" : "HOOVER HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "location" : [
+        {
+            "streetAddress" : "569 PARK AVENUE", 
+            "city" : "HOOVER", 
+            "state" : "AL", 
+            "zipCode" : 35236.0, 
+            "latitude" : 33.408190000000005, 
+            "longitude" : -86.85433
+        }
+    ], 
+    "phoneNumber" : "2058229392"
+}
+{ 
+    "_id" : ObjectId("5fbe3b738bac42bf8e0c717b"), 
+    "museumID" : [
+        8400100040.0
+    ], 
+    "museumName" : "IMAGINATION PLACE", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "location" : [
+        {
+            "streetAddress" : "501 BROAD ST", 
+            "city" : "GADSDEN", 
+            "state" : "AL", 
+            "zipCode" : 35901.0, 
+            "latitude" : 34.013909999999996, 
+            "longitude" : -86.00513000000001
+        }
+    ], 
+    "phoneNumber" : "2565432787"
+}
+{ 
+    "_id" : ObjectId("5fbe3b758bac42bf8e0c717f"), 
+    "museumID" : [
+        8400100234.0
+    ], 
+    "museumName" : "JEMISON-VAN DE GRAAFF MANSION FOUNDATION", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "location" : [
+        {
+            "streetAddress" : "1305 GREENSBORO AVE", 
+            "city" : "TUSCALOOSA", 
+            "state" : "AL", 
+            "zipCode" : 35403.0, 
+            "latitude" : 33.20224, 
+            "longitude" : -87.56509
+        }
+    ], 
+    "phoneNumber" : "2057582906"
+}
+{ 
+    "_id" : ObjectId("5fbe3b768bac42bf8e0c7180"), 
+    "museumID" : [
+        8400100326.0
+    ], 
+    "museumName" : "LAWRENCE COUNTY HISTORICAL COMMISSION", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "location" : [
+        {
+            "streetAddress" : "698 MAIN STREET", 
+            "city" : "MOULTON", 
+            "state" : "AL", 
+            "zipCode" : 35650.0, 
+            "latitude" : 34.480470000000004, 
+            "longitude" : -87.29119
+        }
+    ], 
+    "phoneNumber" : "2569741757"
+}
+{ 
+    "_id" : ObjectId("5fbe3b768bac42bf8e0c7181"), 
+    "museumID" : [
+        8400100130.0
+    ], 
+    "museumName" : "LEE COUNTY HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "location" : [
+        {
+            "streetAddress" : "6500 STAGE RD", 
+            "city" : "LOACHAPOKA", 
+            "state" : "AL", 
+            "zipCode" : 36865.0, 
+            "latitude" : 32.60443, 
+            "longitude" : -85.59934
+        }
+    ], 
+    "phoneNumber" : "3348873007"
+}
+{ 
+    "_id" : ObjectId("5fbe3b778bac42bf8e0c7182"), 
+    "museumID" : [
+        8400100353.0
+    ], 
+    "museumName" : "LIMESTONE COUNTY ALABAMA ARCHIVES", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "location" : [
+        {
+            "streetAddress" : "102 W WASHINGTON STREET", 
+            "city" : "ATHENS", 
+            "state" : "AL", 
+            "zipCode" : 35612.0, 
+            "latitude" : 34.802409999999995, 
+            "longitude" : -86.97004
+        }
+    ], 
+    "phoneNumber" : "2562336404"
+}
+{ 
+    "_id" : ObjectId("5fbe3b788bac42bf8e0c7184"), 
+    "museumID" : [
+        8400100444.0
+    ], 
+    "museumName" : "MARENGO COUNTY HISTORY-ARCHIVES", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "location" : [
+        {
+            "streetAddress" : "101 NORTH WALNUT AVENUE", 
+            "city" : "DEMOPOLIS", 
+            "state" : "AL", 
+            "zipCode" : 36732.0, 
+            "latitude" : 32.51644, 
+            "longitude" : -87.83766
+        }
+    ], 
+    "phoneNumber" : "3342890599"
+}
+{ 
+    "_id" : ObjectId("5fbe3b7a8bac42bf8e0c7187"), 
+    "museumID" : [
+        8400100458.0
+    ], 
+    "museumName" : "MILDRED WARNER HOUSE", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "location" : [
+        {
+            "streetAddress" : "1925 8TH STREET", 
+            "city" : "TUSCALOOSA", 
+            "state" : "AL", 
+            "zipCode" : 35404.0, 
+            "latitude" : 33.2084, 
+            "longitude" : -87.56158
+        }
+    ], 
+    "phoneNumber" : "2055536200"
+}
+{ 
+    "_id" : ObjectId("5fbe3b7b8bac42bf8e0c7188"), 
+    "museumID" : [
+        8400100256.0
+    ], 
+    "museumName" : "MOBILE HISTORIC DEVELOPMENT COMMISSION", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "location" : [
+        {
+            "streetAddress" : "205 GOVERNMENT STREET 2ND FLOOR S TOWER", 
+            "city" : "MOBILE", 
+            "state" : "AL", 
+            "zipCode" : 36633.0, 
+            "latitude" : 30.6708, 
+            "longitude" : -88.10646
+        }
+    ], 
+    "phoneNumber" : "2512087281"
+}
+{ 
+    "_id" : ObjectId("5fbe3b838bac42bf8e0c7196"), 
+    "museumID" : [
+        8400100274.0
+    ], 
+    "museumName" : "OPELIKA HISTORIC PRESERVATION SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "location" : [
+        {
+            "streetAddress" : "611 NORTH 8TH ST", 
+            "city" : "OPELIKA", 
+            "state" : "AL", 
+            "zipCode" : 36803.0, 
+            "latitude" : 32.653909999999996, 
+            "longitude" : -85.38525
+        }
+    ], 
+    "phoneNumber" : "3347490898"
+}
+{ 
+    "_id" : ObjectId("5fbe3b848bac42bf8e0c7198"), 
+    "museumID" : [
+        8400100133.0
+    ], 
+    "museumName" : "PEA RIVER HISTORICAL & GENEALOGICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "location" : [
+        {
+            "streetAddress" : "108 S MAIN STREET", 
+            "city" : "ENTERPRISE", 
+            "state" : "AL", 
+            "zipCode" : 36331.0, 
+            "latitude" : 31.31533, 
+            "longitude" : -85.85463
+        }
+    ], 
+    "phoneNumber" : "3343932901"
+}
+{ 
+    "_id" : ObjectId("5fbe3b858bac42bf8e0c7199"), 
+    "museumID" : [
+        8400100309.0
+    ], 
+    "museumName" : "PICKENS COUNTY GENEALOGICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "location" : [
+        {
+            "streetAddress" : "PO BOX 793", 
+            "city" : "GORDO", 
+            "state" : "AL", 
+            "zipCode" : 35466.0, 
+            "latitude" : 33.32262, 
+            "longitude" : -87.89038000000001
+        }
+    ], 
+    "phoneNumber" : "2053647830"
+}
+{ 
+    "_id" : ObjectId("5fbe3b888bac42bf8e0c719b"), 
+    "museumID" : [
+        8400100320.0
+    ], 
+    "museumName" : "RUSSELL COUNTY HISTORICAL COMMISSION", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "location" : [
+        {
+            "streetAddress" : "1040 BROAD ST", 
+            "city" : "PHENIX CITY", 
+            "state" : "AL", 
+            "zipCode" : 36868.0, 
+            "latitude" : 32.468509999999995, 
+            "longitude" : -85.0009
+        }
+    ], 
+    "phoneNumber" : "3342978225"
+}
+{ 
+    "_id" : ObjectId("5fbe3b8a8bac42bf8e0c719f"), 
+    "museumID" : [
+        8400100292.0
+    ], 
+    "museumName" : "SUMTER COUNTY HISTORICAL & PRESERVATION SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "location" : [
+        {
+            "streetAddress" : "207 N WASHINGTON ST", 
+            "city" : "LIVINGSTON", 
+            "state" : "AL", 
+            "zipCode" : 35470.0, 
+            "latitude" : 32.563190000000006, 
+            "longitude" : -88.13818
+        }
+    ], 
+    "phoneNumber" : "2056524015"
+}
+{ 
+    "_id" : ObjectId("5fbe3b8c8bac42bf8e0c71a3"), 
+    "museumID" : [
+        8400100423.0
+    ], 
+    "museumName" : "TUSCALOOSA COUNTY PRESERVATION SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "location" : [
+        {
+            "streetAddress" : "1010 GREENSBORO AVE", 
+            "city" : "TUSCALOOSA", 
+            "state" : "AL", 
+            "zipCode" : 35403.0, 
+            "latitude" : 33.20494, 
+            "longitude" : -87.56643000000001
+        }
+    ], 
+    "phoneNumber" : "2057586138"
+}
+{ 
+    "_id" : ObjectId("5fbe3b8f8bac42bf8e0c71a8"), 
+    "museumID" : [
+        8400100129.0
+    ], 
+    "museumName" : "WEST JEFFERSON COUNTY HISTORICAL SOCIETY", 
+    "museumType" : "HISTORIC PRESERVATION", 
+    "location" : [
+        {
+            "streetAddress" : "1740 EASTERN VALLEY ROAD", 
+            "city" : "BESSEMER", 
+            "state" : "AL", 
+            "zipCode" : 35021.0, 
+            "latitude" : 33.3455, 
+            "longitude" : -86.9849
+        }
+    ], 
+    "phoneNumber" : "3342065418"
+}

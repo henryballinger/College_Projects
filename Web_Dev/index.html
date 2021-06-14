@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome Page</title>
+
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/smoothness/jquery-ui.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="css/master.css"/>
+    <link rel="stylesheet" type="text/css" href="css/index.css"/>
+    <link rel="icon" href="imgs/Icon.ico">
+</head>
+<body>
+    <h1 id="pageTitle">Interact</h1>
+    <h3>A Fresh Take On Social</h3>
+
+    <form id="loginForm">
+        <div class="form-group">
+            <label for="username"></label>
+                <input id="username" name="username" type="text" placeholder="Username" class="form-control">
+        </div>
+
+        <div class="form-group" id="passwordgroup">
+            <img src="imgs/eye.svg" alt="eye" id="eye">
+            <label for="password"></label>
+                <input id="password" name="password" type="password" placeholder="Password" class="form-control">
+        </div>
+
+        <div id="inputError">Error Messages</div>
+        <div id="capslock">Capslock is on</div><br />
+
+        <button id="loginBtn" type="button" class="btn btn-secondary">Login</button>
+        <a href="/register" class="btn btn-secondary" id="registerLink">Register</a>
+    </form>
+
+    <br /><br />
+
+    <a href="/about" id="aboutLink">About</a>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="//code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.2/dist/jquery.validate.js"></script>
+    <script src="/js/index.js"></script>
+</body>
+</html>

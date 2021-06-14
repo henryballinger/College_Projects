@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Registration</title>
+
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/smoothness/jquery-ui.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="css/master.css"/>
+    <link rel="stylesheet" type="text/css" href="css/register.css"/>
+    <link rel="icon" href="imgs/Icon.ico">
+</head>
+<body>
+    <a href="/" class="back" id="goback">&#8249;</a>
+    <h1 id="page">Register</h1>
+
+    <form id="registrationForm">
+            <br />
+        <div class="form-group" id="fnamegroup">
+            <label for="firstName">First Name: </label><br />
+                <input id="firstName" name="firstName" type="text" placeholder="First Name" class="form-control">
+            <span id="firstNameError" class="errorMessages">.</span>
+        </div>
+
+        <div class="form-group" id="lnamegroup">
+            <label for="lastName">Last Name: </label><br />
+                <input id="lastName" name="lastName" type="text" placeholder="Last Name" class="form-control">
+            <span id="lastNameError" class="errorMessages">.</span>
+        </div>
+
+        <div class="form-group" id="emailgroup">
+            <label for="email">E-mail: </label><br />
+                <input id="email" name="email" type="email" placeholder="Email" class="form-control">
+            <span id="emailError" class="errorMessages">.</span>
+        </div>
+
+        <div class="form-group" id="usernamegroup">
+            <label for="username">Username: </label><br />
+                <input id="username" name="username" type="text" placeholder="Username" class="form-control">
+            <span id="usernameError" class="errorMessages">.</span>
+        </div>
+
+        <div class="form-group" id="passwordgroup">
+            <label for="password">Password: </label><br />
+                <input id="password" name="password" type="password" placeholder="Password" class="form-control" >
+            <span id="passwordError" class="errorMessages">.</span>
+        </div>
+
+        <div class="form-group" id="repasswordgroup">
+            <label for="repassword">Re-enter Password: </label><br />
+                <input id="repassword" name="repassword" type="password" placeholder="Re-enter Password" class="form-control">
+            <span id="repasswordError" class="errorMessages">.</span>
+        </div>
+
+        <div class="form-group" id="dobgroup">
+            <label for="dob">Date of Birth:</label><br />
+                <input id="dob" name="dob" type="date" class="form-control" placeholder="DD/MM/YYYY">
+        </div>
+    </form>
+
+    <form id='fileForm' method="POST" action="/uploadFile" enctype="multipart/form-data">
+        <div class='form-group'>
+            <label for="profilePicUpload">Upload file: </label><br />
+            <input id="profilePicUpload" name="profilePicUpload" type="file" required/>
+            <button id='uploadBtn' type='submit' class='btn btn-secondary'>Upload</button>
+        </div>
+    </form>
+
+    <button id="skipUpload" type="button" class="btn btn-secondary">Skip Upload</button>
+
+        <br /><br />
+    <button id="registerBtn" type="button" class="btn btn-secondary">Register</button>
+        <br /><br /><br /><br />
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="//code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.2/dist/jquery.validate.js"></script>
+    <script src="/js/register.js"></script>
+</body>
+</html>

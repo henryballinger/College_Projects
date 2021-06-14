@@ -1,0 +1,109 @@
+:root {
+    --fontSize13: 1.3rem;
+    --fontSize12: 1.2rem;
+    --wheat: #f5deb3;
+}
+
+body {
+    background: #336699;
+    background-size: 100%;
+    color: var(--wheat);
+    text-align: center;
+}
+
+.back {
+    position: absolute;
+    top: 3%;
+}
+
+h1 {
+    font-style: normal;
+    margin-top: 3%;
+}
+
+#profilePic {
+    background-image: url("../../Avatar.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 20vh;
+    height: 20vh;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-bottom: 1%;
+    border: 1px solid black;
+}
+
+#profilePic, #container, .form-group, .edit {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#container {
+    width: 60%;
+}
+
+#editProfile {
+    display: inline-block;
+    min-width: 60%;
+    border-radius: 2%;
+}
+
+.form-group {
+    width: 70%;
+}
+
+.edit, #editPic {
+    margin-bottom: 5%;
+    font-size: var(--fontSize13);
+    font-weight: bold;
+}
+.edit:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.label {
+    display: none;
+}
+
+.form-control {
+    border: 1px solid black;
+    font-size: var(--fontSize12);
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+
+.error {
+    color: orangered;
+    font-size: var(--fontSize12);
+}
+
+.errorMessages {
+    visibility: hidden;
+    font-size: var(--fontSize13);
+}
+
+#upload {
+    background: var(--wheat);
+    color: black;
+}
+
+#interestslink {
+    color: var(--wheat);
+    font-size: 1.3rem;
+}
+#interestslink:hover {
+    color: antiquewhite;
+}
+
+#confirmation, #dontDelete {
+    display: none;
+}
+
+#success {
+    width: 20%;
+    height: 20%;
+}
+

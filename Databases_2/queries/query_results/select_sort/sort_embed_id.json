@@ -1,0 +1,1982 @@
+{ 
+    "_id" : ObjectId("5fbe3ecc8bac42bf8e0c7694"), 
+    "museumID" : [
+        8405300346.0
+    ], 
+    "museumName" : "WHITE BLUFFS QUILT MUSEUM", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "294 TORBETT ST", 
+            "city" : "WEST RICHLAND", 
+            "state" : "WA", 
+            "zipCode" : 99353.0, 
+            "latitude" : 46.292770000000004, 
+            "longitude" : -119.27663999999999
+        }
+    ], 
+    "phoneNumber" : "5099432552"
+}
+{ 
+    "_id" : ObjectId("5fbe3e908bac42bf8e0c7642"), 
+    "museumID" : [
+        8405300033.0
+    ], 
+    "museumName" : "NORTHWEST MUSEUM OF ARTS & CULTURE", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "2316 WEST 1ST AVENUE", 
+            "city" : "SPOKANE", 
+            "state" : "WA", 
+            "zipCode" : 99204.0, 
+            "latitude" : 47.65701, 
+            "longitude" : -117.44757
+        }
+    ], 
+    "phoneNumber" : "5094563931"
+}
+{ 
+    "_id" : ObjectId("5fbe3e918bac42bf8e0c7643"), 
+    "museumID" : [
+        8405300458.0
+    ], 
+    "museumName" : "NORTHWEST MUSEUM OF ARTS AND CULTURE FOUNDATION", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "2316 W 1ST AVE", 
+            "city" : "SPOKANE", 
+            "state" : "WA", 
+            "zipCode" : 99201.0, 
+            "latitude" : 47.65701, 
+            "longitude" : -117.44757
+        }
+    ], 
+    "phoneNumber" : "5094563931"
+}
+{ 
+    "_id" : ObjectId("5fbe3e3c8bac42bf8e0c75c8"), 
+    "museumID" : [
+        8405300134.0
+    ], 
+    "museumName" : "ADAM EAST MUSEUM AND ART CENTER", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "401 S BALSAM ST", 
+            "city" : "MOSES LAKE", 
+            "state" : "WA", 
+            "zipCode" : 98837.0, 
+            "latitude" : 47.131440000000005, 
+            "longitude" : -119.27552
+        }
+    ], 
+    "phoneNumber" : "5097643830"
+}
+{ 
+    "_id" : ObjectId("5fbe3e638bac42bf8e0c75fe"), 
+    "museumID" : [
+        8405300725.0
+    ], 
+    "museumName" : "GRANT HOUSE FOLK ART CENTER", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "706 RHODODENDRON DR", 
+            "city" : "VANCOUVER", 
+            "state" : "WA", 
+            "zipCode" : 98661.0, 
+            "latitude" : 45.62583, 
+            "longitude" : -122.62858999999999
+        }
+    ], 
+    "phoneNumber" : "3606945252"
+}
+{ 
+    "_id" : ObjectId("5fbe3e738bac42bf8e0c7617"), 
+    "museumID" : [
+        8405300185.0
+    ], 
+    "museumName" : "KELLY ART DECO LIGHT MUSEUM", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "2000 W SIMS WAY", 
+            "city" : "PORT TOWNSEND", 
+            "state" : "WA", 
+            "zipCode" : 98368.0, 
+            "latitude" : 48.105290000000004, 
+            "longitude" : -122.79468
+        }
+    ], 
+    "phoneNumber" : "3603799030"
+}
+{ 
+    "_id" : ObjectId("5fbe3e898bac42bf8e0c7638"), 
+    "museumID" : [
+        8405300420.0
+    ], 
+    "museumName" : "MUSEUM OF NORTHWEST ART", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "121 1ST ST", 
+            "city" : "LA CONNER", 
+            "state" : "WA", 
+            "zipCode" : 98257.0, 
+            "latitude" : 48.391220000000004, 
+            "longitude" : -122.49633999999999
+        }
+    ], 
+    "phoneNumber" : "3604664446"
+}
+{ 
+    "_id" : ObjectId("5fbe3ea98bac42bf8e0c765f"), 
+    "museumID" : [
+        8405300471.0
+    ], 
+    "museumName" : "SAN JUAN ISLANDS MUSEUM OF ART & SCULPTURE PARK", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "540 SPRING ST", 
+            "city" : "FRIDAY HARBOR", 
+            "state" : "WA", 
+            "zipCode" : 98250.0, 
+            "latitude" : 48.53181, 
+            "longitude" : -123.02096999999999
+        }
+    ], 
+    "phoneNumber" : "3603705050"
+}
+{ 
+    "_id" : ObjectId("5fbe3ec78bac42bf8e0c768b"), 
+    "museumID" : [
+        8405300630.0
+    ], 
+    "museumName" : "WASHINGTON ART CONSORTIUM", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "516 HIGH STREET MS 9068", 
+            "city" : "BELLINGHAM", 
+            "state" : "WA", 
+            "zipCode" : 98225.0, 
+            "latitude" : 48.73731, 
+            "longitude" : -122.48733
+        }
+    ], 
+    "phoneNumber" : "3606502234"
+}
+{ 
+    "_id" : ObjectId("5fbe3e648bac42bf8e0c7600"), 
+    "museumID" : [
+        8405300191.0
+    ], 
+    "museumName" : "HENRY GALLERY ASSOCIATION", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "15TH AVE NE & 41ST ST", 
+            "city" : "SEATTLE", 
+            "state" : "WA", 
+            "zipCode" : 98195.0, 
+            "latitude" : 47.65652, 
+            "longitude" : -122.31116999999999
+        }
+    ], 
+    "phoneNumber" : "2066168782"
+}
+{ 
+    "_id" : ObjectId("5fbe3e458bac42bf8e0c75d6"), 
+    "museumID" : [
+        8405300679.0
+    ], 
+    "museumName" : "BURIEN ARTS ASSOCIATION", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "826 SW 152ND STREET", 
+            "city" : "BURIEN", 
+            "state" : "WA", 
+            "zipCode" : 98166.0, 
+            "latitude" : 47.46686, 
+            "longitude" : -122.34506999999999
+        }
+    ], 
+    "phoneNumber" : "2062447808"
+}
+{ 
+    "_id" : ObjectId("5fbe3e598bac42bf8e0c75f5"), 
+    "museumID" : [
+        8405300359.0
+    ], 
+    "museumName" : "FREE PUBLIC ART MUSEUM", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "704 TERRY AVENUE", 
+            "city" : "SEATTLE", 
+            "state" : "WA", 
+            "zipCode" : 98114.0, 
+            "latitude" : 47.60682, 
+            "longitude" : -122.32425
+        }
+    ], 
+    "phoneNumber" : "2066229250"
+}
+{ 
+    "_id" : ObjectId("5fbe3e408bac42bf8e0c75cf"), 
+    "museumID" : [
+        8405300240.0
+    ], 
+    "museumName" : "BAINBRIDGE ISLAND MUSEUM OF ART", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "550 WINSLOW WAY E", 
+            "city" : "BAINBRIDGE ISLAND", 
+            "state" : "WA", 
+            "zipCode" : 98110.0, 
+            "latitude" : 47.624959999999994, 
+            "longitude" : -122.5153
+        }
+    ], 
+    "phoneNumber" : "2068424451"
+}
+{ 
+    "_id" : ObjectId("5fbe3c508bac42bf8e0c72d9"), 
+    "museumID" : [
+        8400601474.0
+    ], 
+    "museumName" : "MUSEUM OF NORTHERN CALIFORNIA ART", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "PO BOX 4654", 
+            "city" : "CHICO", 
+            "state" : "CA", 
+            "zipCode" : 95927.0, 
+            "latitude" : 39.73261, 
+            "longitude" : -121.83533999999999
+        }
+    ], 
+    "phoneNumber" : "5308914304"
+}
+{ 
+    "_id" : ObjectId("5fbe3bd78bac42bf8e0c721e"), 
+    "museumID" : [
+        8400602517.0
+    ], 
+    "museumName" : "DAVIS ART CENTER", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "PO BOX 4340", 
+            "city" : "DAVIS", 
+            "state" : "CA", 
+            "zipCode" : 95617.0, 
+            "latitude" : 38.54673, 
+            "longitude" : -121.73348
+        }
+    ], 
+    "phoneNumber" : "5307564100"
+}
+{ 
+    "_id" : ObjectId("5fbe3baf8bac42bf8e0c71de"), 
+    "museumID" : [
+        8400602422.0
+    ], 
+    "museumName" : "BOHART MUSEUM SOCIETY", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "1 SHIELD AVE", 
+            "city" : "DAVIS", 
+            "state" : "CA", 
+            "zipCode" : 95616.0, 
+            "latitude" : 38.53353, 
+            "longitude" : -121.74756000000001
+        }
+    ], 
+    "phoneNumber" : "5307520493"
+}
+{ 
+    "_id" : ObjectId("5fbe3cd38bac42bf8e0c73a2"), 
+    "museumID" : [
+        8400602970.0
+    ], 
+    "museumName" : "UC DAVIS CN GORMAN MUSEUM", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "1316 HART HALL 1 SHIELD AVE", 
+            "city" : "DAVIS", 
+            "state" : "CA", 
+            "zipCode" : 95616.0, 
+            "latitude" : 38.55537, 
+            "longitude" : -121.75788
+        }
+    ], 
+    "phoneNumber" : "5307526567"
+}
+{ 
+    "_id" : ObjectId("5fbe3cad8bac42bf8e0c736e"), 
+    "museumID" : [
+        8400600100.0
+    ], 
+    "museumName" : "SONOMA MUSEUM OF VISUAL ART", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "50 MARK WEST SPRINGS RD", 
+            "city" : "SONOMA", 
+            "state" : "CA", 
+            "zipCode" : 95476.0, 
+            "latitude" : 38.29336, 
+            "longitude" : -122.47206000000001
+        }
+    ], 
+    "phoneNumber" : "7079397862"
+}
+{ 
+    "_id" : ObjectId("5fbe3cae8bac42bf8e0c7370"), 
+    "museumID" : [
+        8400601770.0
+    ], 
+    "museumName" : "SONOMA VALLEY MUSEUM OF ART", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "551 BROADWA", 
+            "city" : "SONOMA", 
+            "state" : "CA", 
+            "zipCode" : 95476.0, 
+            "latitude" : 38.29099, 
+            "longitude" : -122.45808999999998
+        }
+    ], 
+    "phoneNumber" : "7079397862"
+}
+{ 
+    "_id" : ObjectId("5fbe3c408bac42bf8e0c72c0"), 
+    "museumID" : [
+        8400600758.0
+    ], 
+    "museumName" : "MODESTO ART MUSEUM", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "404 PATRICK LANE", 
+            "city" : "MODESTO", 
+            "state" : "CA", 
+            "zipCode" : 95350.0, 
+            "latitude" : 37.6861, 
+            "longitude" : -120.99857
+        }
+    ], 
+    "phoneNumber" : "2092361333"
+}
+{ 
+    "_id" : ObjectId("5fbe3c558bac42bf8e0c72e2"), 
+    "museumID" : [
+        8409503768.0
+    ], 
+    "museumName" : "NATALIE AND JAMES THOMPSON ART GALLERY", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "DEPARTMENT OF ART AND ART HISTORY SAN JOSE STATE UNIVERSITY ONE WASHINGTON SQUARE", 
+            "city" : "SAN JOSE", 
+            "state" : "CA", 
+            "zipCode" : 95192.0, 
+            "latitude" : 37.34189, 
+            "longitude" : -121.89021000000001
+        }
+    ], 
+    "phoneNumber" : "4089244327"
+}
+{ 
+    "_id" : ObjectId("5fbe3bf08bac42bf8e0c7246"), 
+    "museumID" : [
+        8400601675.0
+    ], 
+    "museumName" : "GALLERY ROUTE ONE", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "11101 CALFIORNIA 1", 
+            "city" : "POINT REYES STATION", 
+            "state" : "CA", 
+            "zipCode" : 94956.0, 
+            "latitude" : 38.03375, 
+            "longitude" : -122.98411999999999
+        }
+    ], 
+    "phoneNumber" : "4156631347"
+}
+{ 
+    "_id" : ObjectId("5fbe3cd28bac42bf8e0c73a0"), 
+    "museumID" : [
+        8400600025.0
+    ], 
+    "museumName" : "UC BERKELEY ART MUSEUM", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "2626 BANCROFT WAY", 
+            "city" : "BERKELEY", 
+            "state" : "CA", 
+            "zipCode" : 94720.0, 
+            "latitude" : 37.869170000000004, 
+            "longitude" : -122.25501000000001
+        }
+    ], 
+    "phoneNumber" : "5106420808"
+}
+{ 
+    "_id" : ObjectId("5fbe3be38bac42bf8e0c7231"), 
+    "museumID" : [
+        8400601079.0
+    ], 
+    "museumName" : "EMERYVILLE CENTER FOR THE ARTS", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "5710 HOLLIS ST", 
+            "city" : "EMERYVILLE", 
+            "state" : "CA", 
+            "zipCode" : 94662.0, 
+            "latitude" : 37.83948, 
+            "longitude" : -122.28911000000001
+        }
+    ], 
+    "phoneNumber" : "5106010520"
+}
+{ 
+    "_id" : ObjectId("5fbe3c298bac42bf8e0c729a"), 
+    "museumID" : [
+        8400601812.0
+    ], 
+    "museumName" : "LAMORINDA ARTS ALLIANCE", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "3506A MOUNT DIABLO BOULEVARD", 
+            "city" : "LAFAYETTE", 
+            "state" : "CA", 
+            "zipCode" : 94570.0, 
+            "latitude" : 37.89227, 
+            "longitude" : -122.11742
+        }
+    ], 
+    "phoneNumber" : "9253765407"
+}
+{ 
+    "_id" : ObjectId("5fbe3bda8bac42bf8e0c7223"), 
+    "museumID" : [
+        8400602492.0
+    ], 
+    "museumName" : "DI ROSA PRESERVE", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "5200 CARNEROS HWY", 
+            "city" : "NAPA", 
+            "state" : "CA", 
+            "zipCode" : 94559.0, 
+            "latitude" : 38.25646, 
+            "longitude" : -122.35061999999999
+        }
+    ], 
+    "phoneNumber" : "7072265991"
+}
+{ 
+    "_id" : ObjectId("5fbe3c518bac42bf8e0c72db"), 
+    "museumID" : [
+        8400602530.0
+    ], 
+    "museumName" : "MUSEUM OF RUSSIAN CULTURE", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "2450 SUTTER STREET", 
+            "city" : "SAN FRANCISCO", 
+            "state" : "CA", 
+            "zipCode" : 94115.0, 
+            "latitude" : 37.78516, 
+            "longitude" : -122.44126999999999
+        }
+    ], 
+    "phoneNumber" : "4159214082"
+}
+{ 
+    "_id" : ObjectId("5fbe3ca58bac42bf8e0c7361"), 
+    "museumID" : [
+        8400602187.0
+    ], 
+    "museumName" : "SECESSION GALLERY", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "3361 MISSION ST", 
+            "city" : "SAN FRANCISCO", 
+            "state" : "CA", 
+            "zipCode" : 94110.0, 
+            "latitude" : 37.74288, 
+            "longitude" : -122.42152
+        }
+    ], 
+    "phoneNumber" : "4152793058"
+}
+{ 
+    "_id" : ObjectId("5fbe3c168bac42bf8e0c727a"), 
+    "museumID" : [
+        8400601631.0
+    ], 
+    "museumName" : "INTERNATIONAL ART MUSEUM OF AMERICA", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "1025 MARKET STREET", 
+            "city" : "SAN FRANCISCO", 
+            "state" : "CA", 
+            "zipCode" : 94103.0, 
+            "latitude" : 37.78133, 
+            "longitude" : -122.4112
+        }
+    ], 
+    "phoneNumber" : "4153766344"
+}
+{ 
+    "_id" : ObjectId("5fbe3c2a8bac42bf8e0c729b"), 
+    "museumID" : [
+        8400602395.0
+    ], 
+    "museumName" : "LAWSON GALLERIES", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "315 POTRERO AVE", 
+            "city" : "SAN FRANCISCO", 
+            "state" : "CA", 
+            "zipCode" : 94103.0, 
+            "latitude" : 37.76549, 
+            "longitude" : -122.40741000000001
+        }
+    ], 
+    "phoneNumber" : "4157034400"
+}
+{ 
+    "_id" : ObjectId("5fbe3c9a8bac42bf8e0c734e"), 
+    "museumID" : [
+        8400602474.0
+    ], 
+    "museumName" : "SANCHEZ ART CENTER", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "1220-B LINDA MAR BLVD", 
+            "city" : "PACIFICA", 
+            "state" : "CA", 
+            "zipCode" : 94044.0, 
+            "latitude" : 37.584920000000004, 
+            "longitude" : -122.48767
+        }
+    ], 
+    "phoneNumber" : "6503551894"
+}
+{ 
+    "_id" : ObjectId("5fbe3b9d8bac42bf8e0c71bf"), 
+    "museumID" : [
+        8400600569.0
+    ], 
+    "museumName" : "ANDERSON ART COLLECTION", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "2440 SAND HILL RD", 
+            "city" : "MENLO PARK", 
+            "state" : "CA", 
+            "zipCode" : 94025.0, 
+            "latitude" : 37.42185, 
+            "longitude" : -122.2006
+        }
+    ], 
+    "phoneNumber" : "6508545160"
+}
+{ 
+    "_id" : ObjectId("5fbe3ba48bac42bf8e0c71cb"), 
+    "museumID" : [
+        8400602018.0
+    ], 
+    "museumName" : "ARTS HABITAT", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "3785 Vï¿½A NONA MARIE", 
+            "city" : "CARMEL", 
+            "state" : "CA", 
+            "zipCode" : 93922.0, 
+            "latitude" : 36.53934, 
+            "longitude" : -121.90593
+        }
+    ], 
+    "phoneNumber" : "8316246111"
+}
+{ 
+    "_id" : ObjectId("5fbe3cb78bac42bf8e0c737a"), 
+    "museumID" : [
+        8400601590.0
+    ], 
+    "museumName" : "SPECTRUM GALLERY", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "PO BOX 4776", 
+            "city" : "FRESNO", 
+            "state" : "CA", 
+            "zipCode" : 93744.0, 
+            "latitude" : 36.7584, 
+            "longitude" : -119.80044
+        }
+    ], 
+    "phoneNumber" : "5592660691"
+}
+{ 
+    "_id" : ObjectId("5fbe3ba38bac42bf8e0c71c9"), 
+    "museumID" : [
+        8400602020.0
+    ], 
+    "museumName" : "ARTIST GUILD OF THE SANTA YNEZ VALLEY", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "2920 GRAND AVENUE", 
+            "city" : "SANTA YNEZ", 
+            "state" : "CA", 
+            "zipCode" : 93460.0, 
+            "latitude" : 34.63054, 
+            "longitude" : -120.07467
+        }
+    ], 
+    "phoneNumber" : "8056887517"
+}
+{ 
+    "_id" : ObjectId("5fbe3ce08bac42bf8e0c73b5"), 
+    "museumID" : [
+        8400602022.0
+    ], 
+    "museumName" : "WILDLING MUSEUM", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "1511 MISSION DR", 
+            "city" : "SOLVANG", 
+            "state" : "CA", 
+            "zipCode" : 93441.0, 
+            "latitude" : 34.59612, 
+            "longitude" : -120.14183999999999
+        }
+    ], 
+    "phoneNumber" : "8056881082"
+}
+{ 
+    "_id" : ObjectId("5fbe3bbe8bac42bf8e0c71f7"), 
+    "museumID" : [
+        8400601922.0
+    ], 
+    "museumName" : "CAYUCOS ART ASSOCIATION VETS HALL CAYUCOS DR & OCEAN FRONT", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "10 CAYUCOS DRIVE", 
+            "city" : "CAYUCOS", 
+            "state" : "CA", 
+            "zipCode" : 93430.0, 
+            "latitude" : 35.44907, 
+            "longitude" : -120.90813
+        }
+    ], 
+    "phoneNumber" : "8059952049"
+}
+{ 
+    "_id" : ObjectId("5fbe3ba68bac42bf8e0c71ce"), 
+    "museumID" : [
+        8400602913.0
+    ], 
+    "museumName" : "BAKERSFIELD ART ASSOCIATION & GALLERY", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "1817 EYE STREET", 
+            "city" : "BAKERSFIELD", 
+            "state" : "CA", 
+            "zipCode" : 93302.0, 
+            "latitude" : 35.37549, 
+            "longitude" : -119.02011999999999
+        }
+    ], 
+    "phoneNumber" : "6618692320"
+}
+{ 
+    "_id" : ObjectId("5fbe3ba78bac42bf8e0c71d0"), 
+    "museumID" : [
+        8400600596.0
+    ], 
+    "museumName" : "BAKERSFIELD MUSEUM OF ART", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "1930 R STREET", 
+            "city" : "BAKERSFIELD", 
+            "state" : "CA", 
+            "zipCode" : 93301.0, 
+            "latitude" : 35.37678, 
+            "longitude" : -119.00896999999999
+        }
+    ], 
+    "phoneNumber" : "8053237219"
+}
+{ 
+    "_id" : ObjectId("5fbe3c218bac42bf8e0c728d"), 
+    "museumID" : [
+        8400601927.0
+    ], 
+    "museumName" : "KINGS ART CENTER FOUNDATION", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "605 NORTH DOUTY", 
+            "city" : "HANFORD", 
+            "state" : "CA", 
+            "zipCode" : 93230.0, 
+            "latitude" : 36.33129, 
+            "longitude" : -119.64593
+        }
+    ], 
+    "phoneNumber" : "5595841065"
+}
+{ 
+    "_id" : ObjectId("5fbe3c9c8bac42bf8e0c7351"), 
+    "museumID" : [
+        8400600866.0
+    ], 
+    "museumName" : "SANTA BARBARA ART ASSOCIATION", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "1114 STATE STREET 26", 
+            "city" : "SANTA BARBARA", 
+            "state" : "CA", 
+            "zipCode" : 93160.0, 
+            "latitude" : 34.42304, 
+            "longitude" : -119.7032
+        }
+    ], 
+    "phoneNumber" : "8058841938"
+}
+{ 
+    "_id" : ObjectId("5fbe3c3c8bac42bf8e0c72b9"), 
+    "museumID" : [
+        8400600255.0
+    ], 
+    "museumName" : "MAXIMUS GALLERY", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "2559 PUESTA DEL SOL ROAD", 
+            "city" : "SANTA BARBARA", 
+            "state" : "CA", 
+            "zipCode" : 93105.0, 
+            "latitude" : 34.44036, 
+            "longitude" : -119.71698
+        }
+    ], 
+    "phoneNumber" : "8056824711"
+}
+{ 
+    "_id" : ObjectId("5fbe3c878bac42bf8e0c7331"), 
+    "museumID" : [
+        8400601313.0
+    ], 
+    "museumName" : "S C R A P GALLERY", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "RIVERSIDE COUNTY FAIRGROUNDS 46350 ARABIA ST", 
+            "city" : "INDIO", 
+            "state" : "CA", 
+            "zipCode" : 93063.0, 
+            "latitude" : 34.278690000000005, 
+            "longitude" : -118.69888
+        }
+    ], 
+    "phoneNumber" : "7608637777"
+}
+{ 
+    "_id" : ObjectId("5fbe3bc98bac42bf8e0c7208"), 
+    "museumID" : [
+        8400601387.0
+    ], 
+    "museumName" : "CHUCK JONES CENTER FOR CREATIVITY", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "3321 HYLAND AVENUE", 
+            "city" : "COSTA MESA", 
+            "state" : "CA", 
+            "zipCode" : 92780.0, 
+            "latitude" : 33.69984, 
+            "longitude" : -117.92583
+        }
+    ], 
+    "phoneNumber" : "9496607793"
+}
+{ 
+    "_id" : ObjectId("5fbe3baa8bac42bf8e0c71d6"), 
+    "museumID" : [
+        8400600741.0
+    ], 
+    "museumName" : "BENBOUGH OPERATING FOUNDATION", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "2550 FIFTH AVENUE", 
+            "city" : "SAN DIEGO", 
+            "state" : "CA", 
+            "zipCode" : 92101.0, 
+            "latitude" : 32.73191, 
+            "longitude" : -117.16038
+        }
+    ], 
+    "phoneNumber" : "6192358099"
+}
+{ 
+    "_id" : ObjectId("5fbe3c4d8bac42bf8e0c72d5"), 
+    "museumID" : [
+        8400600296.0
+    ], 
+    "museumName" : "MUSEUM OF CONTEMPORY ART", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "700 PROSPECT STREET", 
+            "city" : "SAN DIEGO", 
+            "state" : "CA", 
+            "zipCode" : 92101.0, 
+            "latitude" : 32.718509999999995, 
+            "longitude" : -117.16174
+        }
+    ], 
+    "phoneNumber" : "8584543541"
+}
+{ 
+    "_id" : ObjectId("5fbe3c618bac42bf8e0c72f5"), 
+    "museumID" : [
+        8400601329.0
+    ], 
+    "museumName" : "OLAF WIEGHORST MUSEUM", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "131 REA AVE", 
+            "city" : "EL CAJON", 
+            "state" : "CA", 
+            "zipCode" : 92022.0, 
+            "latitude" : 32.795770000000005, 
+            "longitude" : -116.96172
+        }
+    ], 
+    "phoneNumber" : "6195903431"
+}
+{ 
+    "_id" : ObjectId("5fbe3bc28bac42bf8e0c71fc"), 
+    "museumID" : [
+        8400600514.0
+    ], 
+    "museumName" : "CHAFFEY COMMUNITY MUSEUM OF ART", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "217 S LEMON AVE", 
+            "city" : "ONTARIO", 
+            "state" : "CA", 
+            "zipCode" : 91739.0, 
+            "latitude" : 34.0625, 
+            "longitude" : -117.6495
+        }
+    ], 
+    "phoneNumber" : "9094633733"
+}
+{ 
+    "_id" : ObjectId("5fbe3c8b8bac42bf8e0c7339"), 
+    "museumID" : [
+        8400601294.0
+    ], 
+    "museumName" : "SAM/ALFREDA MALOOF FOUNDATION", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "5131 CARNELIAN STREET", 
+            "city" : "RCH CUCAMONGA", 
+            "state" : "CA", 
+            "zipCode" : 91701.0, 
+            "latitude" : 34.16121, 
+            "longitude" : -117.61567
+        }
+    ], 
+    "phoneNumber" : "9094843465"
+}
+{ 
+    "_id" : ObjectId("5fbe3b928bac42bf8e0c71ac"), 
+    "museumID" : [
+        8400602841.0
+    ], 
+    "museumName" : "ACADEMY INTERACTIVE ARTS SCIENCES", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "9800 S LA CIENEGA BLVD", 
+            "city" : "INGLEWOOD", 
+            "state" : "CA", 
+            "zipCode" : 91302.0, 
+            "latitude" : 33.94721, 
+            "longitude" : -118.36995
+        }
+    ], 
+    "phoneNumber" : "8188760826"
+}
+{ 
+    "_id" : ObjectId("5fbe3c9a8bac42bf8e0c734d"), 
+    "museumID" : [
+        8400602835.0
+    ], 
+    "museumName" : "SAN PEDRO ART ASSOCIATION", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "77 BERTH", 
+            "city" : "SAN PEDRO", 
+            "state" : "CA", 
+            "zipCode" : 90731.0, 
+            "latitude" : 33.73494, 
+            "longitude" : -118.2783
+        }
+    ], 
+    "phoneNumber" : "3108312928"
+}
+{ 
+    "_id" : ObjectId("5fbe3cc98bac42bf8e0c7392"), 
+    "museumID" : [
+        8400601292.0
+    ], 
+    "museumName" : "TORRANCE CULTURAL ARTS CENTER FOUNDATION", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "25500 HAWTHORNE BLVD", 
+            "city" : "TORRANCE", 
+            "state" : "CA", 
+            "zipCode" : 90505.0, 
+            "latitude" : 33.79509, 
+            "longitude" : -118.34825
+        }
+    ], 
+    "phoneNumber" : "3103788100"
+}
+{ 
+    "_id" : ObjectId("5fbe3ca28bac42bf8e0c735c"), 
+    "museumID" : [
+        8400602770.0
+    ], 
+    "museumName" : "SANTA MONICA MUSEUM OF ART", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "2525 MICHIGAN G-1", 
+            "city" : "SANTA MONICA", 
+            "state" : "CA", 
+            "zipCode" : 90404.0, 
+            "latitude" : 34.02698, 
+            "longitude" : -118.4686
+        }
+    ], 
+    "phoneNumber" : "3105866488"
+}
+{ 
+    "_id" : ObjectId("5fbe3c2b8bac42bf8e0c729c"), 
+    "museumID" : [
+        8400600759.0
+    ], 
+    "museumName" : "LAXART", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "2640 S LA CIENEGA BLVD", 
+            "city" : "HOLLYWOOD", 
+            "state" : "CA", 
+            "zipCode" : 90034.0, 
+            "latitude" : 34.033570000000005, 
+            "longitude" : -118.37592
+        }
+    ], 
+    "phoneNumber" : "3238714140"
+}
+{ 
+    "_id" : ObjectId("5fbe3bb08bac42bf8e0c71e1"), 
+    "museumID" : [
+        8400602845.0
+    ], 
+    "museumName" : "BREWERY ARTWALK ASSOCIATION", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "2100 N MAIN ST", 
+            "city" : "LOS ANGELES", 
+            "state" : "CA", 
+            "zipCode" : 90031.0, 
+            "latitude" : 34.065870000000004, 
+            "longitude" : -118.21682
+        }
+    ], 
+    "phoneNumber" : "3236389382"
+}
+{ 
+    "_id" : ObjectId("5fbe3c508bac42bf8e0c72d8"), 
+    "museumID" : [
+        8400600292.0
+    ], 
+    "museumName" : "MUSEUM OF NEON ART", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "501 W OLYMPIC BLVD", 
+            "city" : "GLENDALE", 
+            "state" : "CA", 
+            "zipCode" : 90015.0, 
+            "latitude" : 34.04358, 
+            "longitude" : -118.26093999999999
+        }
+    ], 
+    "phoneNumber" : "2134899918"
+}
+{ 
+    "_id" : ObjectId("5fbe3c6b8bac42bf8e0c7307"), 
+    "museumID" : [
+        8400600140.0
+    ], 
+    "museumName" : "PAPILLION INSTITUTE OF ART", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "4336 DEGNAN BOULEVARD", 
+            "city" : "LOS ANGELES", 
+            "state" : "CA", 
+            "zipCode" : 90015.0, 
+            "latitude" : 34.0053, 
+            "longitude" : -118.33136
+        }
+    ], 
+    "phoneNumber" : "3236428402"
+}
+{ 
+    "_id" : ObjectId("5fbe3cb08bac42bf8e0c7373"), 
+    "museumID" : [
+        8400602629.0
+    ], 
+    "museumName" : "SOUTHERN CALIFORNIA INSTITUTE OF ARCHITECTURE", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "MERRICK STREET", 
+            "city" : "LOS ANGELES", 
+            "state" : "CA", 
+            "zipCode" : 90013.0, 
+            "latitude" : 34.03318, 
+            "longitude" : -118.24871999999999
+        }
+    ], 
+    "phoneNumber" : "2136132200"
+}
+{ 
+    "_id" : ObjectId("5fbe3c4b8bac42bf8e0c72d2"), 
+    "museumID" : [
+        8400601576.0
+    ], 
+    "museumName" : "MUSEUM OF AFRICAN AMERICAN ART", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "4005 CRENSHAW BLVD", 
+            "city" : "LOS ANGELES", 
+            "state" : "CA", 
+            "zipCode" : 90008.0, 
+            "latitude" : 34.01184, 
+            "longitude" : -118.33575
+        }
+    ], 
+    "phoneNumber" : "3232947071"
+}
+{ 
+    "_id" : ObjectId("5fbe3e3a8bac42bf8e0c75c5"), 
+    "museumID" : [
+        8404000541.0
+    ], 
+    "museumName" : "SANTA MARIA MUSEUM ART CENTER", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "412 S MCCLELLAND ST", 
+            "city" : "SANTA MARIA", 
+            "state" : "CA", 
+            "zipCode" : 74743.0, 
+            "latitude" : 34.9484, 
+            "longitude" : -120.43425
+        }
+    ], 
+    "phoneNumber" : "8056140806"
+}
+{ 
+    "_id" : ObjectId("5fbe3b7b8bac42bf8e0c7189"), 
+    "museumID" : [
+        8400100026.0
+    ], 
+    "museumName" : "MOBILE MUSEUM OF ART", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "4850 MUSEUM DR", 
+            "city" : "MOBILE", 
+            "state" : "AL", 
+            "zipCode" : 36689.0, 
+            "latitude" : 30.704009999999997, 
+            "longitude" : -88.15462
+        }
+    ], 
+    "phoneNumber" : "2512085200"
+}
+{ 
+    "_id" : ObjectId("5fbe3b588bac42bf8e0c7155"), 
+    "museumID" : [
+        8409501314.0
+    ], 
+    "museumName" : "AMERICAN SPORT ART MUSEUM AND ARCHIVES", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "1 ACADEMY DR", 
+            "city" : "DAPHNE", 
+            "state" : "AL", 
+            "zipCode" : 36526.0, 
+            "latitude" : 30.639770000000002, 
+            "longitude" : -87.9091
+        }
+    ], 
+    "phoneNumber" : "2516263303"
+}
+{ 
+    "_id" : ObjectId("5fbe3b908bac42bf8e0c71aa"), 
+    "museumID" : [
+        8400100313.0
+    ], 
+    "museumName" : "WIREGRASS MUSEUM OF ART", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "126 MUSEUM AVE", 
+            "city" : "DOTHAN", 
+            "state" : "AL", 
+            "zipCode" : 36302.0, 
+            "latitude" : 31.22382, 
+            "longitude" : -85.38911
+        }
+    ], 
+    "phoneNumber" : "3347943871"
+}
+{ 
+    "_id" : ObjectId("5fbe3b7d8bac42bf8e0c718c"), 
+    "museumID" : [
+        8400100029.0
+    ], 
+    "museumName" : "MONTGOMERY MUSEUM OF FINE ARTS", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "ONE MUSEUM DRIVE", 
+            "city" : "MONTGOMERY", 
+            "state" : "AL", 
+            "zipCode" : 36117.0, 
+            "latitude" : 32.3526, 
+            "longitude" : -86.2087
+        }
+    ], 
+    "phoneNumber" : "3342404333"
+}
+{ 
+    "_id" : ObjectId("5fbe3b528bac42bf8e0c714e"), 
+    "museumID" : [
+        8400100172.0
+    ], 
+    "museumName" : "ALABAMA RIVER REGION ARTS CENTER", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "PO BOX 1172", 
+            "city" : "WETUMPKA", 
+            "state" : "AL", 
+            "zipCode" : 36092.0, 
+            "latitude" : 32.59985, 
+            "longitude" : -86.20616
+        }
+    ], 
+    "phoneNumber" : "3345789485"
+}
+{ 
+    "_id" : ObjectId("5fbe3b8c8bac42bf8e0c71a2"), 
+    "museumID" : [
+        8400100397.0
+    ], 
+    "museumName" : "TROY-PIKE CULTURAL ARTS CENTER", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "300 EAST WALNUT STREET", 
+            "city" : "TROY", 
+            "state" : "AL", 
+            "zipCode" : 36081.0, 
+            "latitude" : 31.80862, 
+            "longitude" : -85.97027
+        }
+    ], 
+    "phoneNumber" : "3346702287"
+}
+{ 
+    "_id" : ObjectId("5fbe3b5a8bac42bf8e0c7159"), 
+    "museumID" : [
+        8409502729.0
+    ], 
+    "museumName" : "ART GALLERIES AT UAH", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "WILSON HALL 160 B", 
+            "city" : "HUNTSVILLE", 
+            "state" : "AL", 
+            "zipCode" : 35899.0, 
+            "latitude" : 34.74054, 
+            "longitude" : -86.62928000000001
+        }
+    ], 
+    "phoneNumber" : "2568246114"
+}
+{ 
+    "_id" : ObjectId("5fbe3b6c8bac42bf8e0c716f"), 
+    "museumID" : [
+        8400100065.0
+    ], 
+    "museumName" : "FAYETTE ART MUSEUM", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "203 TEMPLE AVE N", 
+            "city" : "FAYETTE", 
+            "state" : "AL", 
+            "zipCode" : 35555.0, 
+            "latitude" : 33.687259999999995, 
+            "longitude" : -87.83088000000001
+        }
+    ], 
+    "phoneNumber" : "2059328727"
+}
+{ 
+    "_id" : ObjectId("5fbe3b758bac42bf8e0c717e"), 
+    "museumID" : [
+        8400100341.0
+    ], 
+    "museumName" : "ISABEL ANDERSON COMER MUSEUM & ARTS CENTER", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "711 N BROADWAY AVE", 
+            "city" : "SYLACAUGA", 
+            "state" : "AL", 
+            "zipCode" : 35150.0, 
+            "latitude" : 33.16453, 
+            "longitude" : -86.25086
+        }
+    ], 
+    "phoneNumber" : "2562454016"
+}
+{ 
+    "_id" : ObjectId("5fbe3d808bac42bf8e0c74a5"), 
+    "museumID" : [
+        8403600220.0
+    ], 
+    "museumName" : "JOHNSON MUSEUM OF ART NORTH", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "114 CENTRAL AVENUE", 
+            "city" : "ITHACA", 
+            "state" : "NY", 
+            "zipCode" : 14853.0, 
+            "latitude" : 42.445609999999995, 
+            "longitude" : -76.48598
+        }
+    ], 
+    "phoneNumber" : "6072556464"
+}
+{ 
+    "_id" : ObjectId("5fbe3d7f8bac42bf8e0c74a4"), 
+    "museumID" : [
+        8403600248.0
+    ], 
+    "museumName" : "JOHNSON MUSEUM OF ART", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "114 CENTRAL AVE", 
+            "city" : "ITHACA", 
+            "state" : "NY", 
+            "zipCode" : 14850.0, 
+            "latitude" : 42.445609999999995, 
+            "longitude" : -76.48598
+        }
+    ], 
+    "phoneNumber" : "6072556464"
+}
+{ 
+    "_id" : ObjectId("5fbe3d178bac42bf8e0c7408"), 
+    "museumID" : [
+        8403601305.0
+    ], 
+    "museumName" : "CHAUTAUQUA INSTITUTION", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "ONE AMES AVE", 
+            "city" : "CHAUTAUQUA", 
+            "state" : "NY", 
+            "zipCode" : 14722.0, 
+            "latitude" : 42.20733, 
+            "longitude" : -79.46684
+        }
+    ], 
+    "phoneNumber" : "7163576200"
+}
+{ 
+    "_id" : ObjectId("5fbe3d7f8bac42bf8e0c74a3"), 
+    "museumID" : [
+        8403600214.0
+    ], 
+    "museumName" : "JOHN L. WEHLE GALLERY OF SPORTING ART", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "1410 FLINT HILL RD", 
+            "city" : "MUMFORD", 
+            "state" : "NY", 
+            "zipCode" : 14511.0, 
+            "latitude" : 42.993959999999994, 
+            "longitude" : -77.86244
+        }
+    ], 
+    "phoneNumber" : "5855386822"
+}
+{ 
+    "_id" : ObjectId("5fbe3e1b8bac42bf8e0c7595"), 
+    "museumID" : [
+        8403600053.0
+    ], 
+    "museumName" : "TOWER FINE ARTS GALLERY", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "350 NEW CAMPUS DRIVE", 
+            "city" : "BROCKPORT", 
+            "state" : "NY", 
+            "zipCode" : 14420.0, 
+            "latitude" : 43.2096, 
+            "longitude" : -77.96121
+        }
+    ], 
+    "phoneNumber" : "5853952805"
+}
+{ 
+    "_id" : ObjectId("5fbe3cf28bac42bf8e0c73cf"), 
+    "museumID" : [
+        8403602452.0
+    ], 
+    "museumName" : "ALBRIGHTï¿½KNOX ART GALLERY", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "1285 ELMWOOD AVENUE", 
+            "city" : "BUFFALO", 
+            "state" : "NY", 
+            "zipCode" : 14222.0, 
+            "latitude" : 42.93196, 
+            "longitude" : -78.87689
+        }
+    ], 
+    "phoneNumber" : "7168828700"
+}
+{ 
+    "_id" : ObjectId("5fbe3d998bac42bf8e0c74cb"), 
+    "museumID" : [
+        8403600710.0
+    ], 
+    "museumName" : "MARKET STREET ART CENTER", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "247 MARKET ST", 
+            "city" : "LOCKPORT", 
+            "state" : "NY", 
+            "zipCode" : 14094.0, 
+            "latitude" : 43.176109999999994, 
+            "longitude" : -78.68556
+        }
+    ], 
+    "phoneNumber" : "7164780239"
+}
+{ 
+    "_id" : ObjectId("5fbe3e338bac42bf8e0c75b9"), 
+    "museumID" : [
+        8403602160.0
+    ], 
+    "museumName" : "WINDSOR WHIP WORKS ART CENTER", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "98 MAIN ST", 
+            "city" : "WINDSOR", 
+            "state" : "NY", 
+            "zipCode" : 13865.0, 
+            "latitude" : 42.07829, 
+            "longitude" : -75.63978
+        }
+    ], 
+    "phoneNumber" : "6076552370"
+}
+{ 
+    "_id" : ObjectId("5fbe3de98bac42bf8e0c754b"), 
+    "museumID" : [
+        8403600083.0
+    ], 
+    "museumName" : "RICHARD F. BRUSH GALLERY", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "23 ROMODA DR", 
+            "city" : "CANTON", 
+            "state" : "NY", 
+            "zipCode" : 13617.0, 
+            "latitude" : 44.59315, 
+            "longitude" : -75.16031
+        }
+    ], 
+    "phoneNumber" : "3152295174"
+}
+{ 
+    "_id" : ObjectId("5fbe3d508bac42bf8e0c7458"), 
+    "museumID" : [
+        8403601851.0
+    ], 
+    "museumName" : "GALLERY 53 ARTWORKS", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "118 MAIN STREET", 
+            "city" : "COOPERSTOWN", 
+            "state" : "NY", 
+            "zipCode" : 13326.0, 
+            "latitude" : 42.70089, 
+            "longitude" : -74.92585
+        }
+    ], 
+    "phoneNumber" : "6075479692"
+}
+{ 
+    "_id" : ObjectId("5fbe3d838bac42bf8e0c74aa"), 
+    "museumID" : [
+        8403600263.0
+    ], 
+    "museumName" : "KIRKLAND ART CENTER", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "620 MARKET ST", 
+            "city" : "KIRKLAND", 
+            "state" : "WA", 
+            "zipCode" : 13323.0, 
+            "latitude" : 47.67977, 
+            "longitude" : -122.2096
+        }
+    ], 
+    "phoneNumber" : "4258227161"
+}
+{ 
+    "_id" : ObjectId("5fbe3dad8bac42bf8e0c74ea"), 
+    "museumID" : [
+        8403602046.0
+    ], 
+    "museumName" : "MUSEUM OF YOUNG ART", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "110 WEST FAYETTE ST", 
+            "city" : "SYRACUSE", 
+            "state" : "NY", 
+            "zipCode" : 13218.0, 
+            "latitude" : 43.04868, 
+            "longitude" : -76.15289
+        }
+    ], 
+    "phoneNumber" : "3152185566"
+}
+{ 
+    "_id" : ObjectId("5fbe3e118bac42bf8e0c7585"), 
+    "museumID" : [
+        8403601457.0
+    ], 
+    "museumName" : "STONE QUARRY HILL ART PARK", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "3883 STONE QUARRY ROAD", 
+            "city" : "CAZENOVIA", 
+            "state" : "NY", 
+            "zipCode" : 13035.0, 
+            "latitude" : 42.920159999999996, 
+            "longitude" : -75.8304
+        }
+    ], 
+    "phoneNumber" : "3156553196"
+}
+{ 
+    "_id" : ObjectId("5fbe3dd98bac42bf8e0c7531"), 
+    "museumID" : [
+        8403602424.0
+    ], 
+    "museumName" : "PLATTSBURGH STATE ART MUSEUM", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "101 BROAD STREET", 
+            "city" : "PLATTSBURGH", 
+            "state" : "NY", 
+            "zipCode" : 12901.0, 
+            "latitude" : 44.695240000000005, 
+            "longitude" : -73.46654000000001
+        }
+    ], 
+    "phoneNumber" : "5185642178"
+}
+{ 
+    "_id" : ObjectId("5fbe3df08bac42bf8e0c7556"), 
+    "museumID" : [
+        8403601101.0
+    ], 
+    "museumName" : "ROXBURG ARTS GROUP", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "5025 VEGA MOUNTAIN ROAD", 
+            "city" : "ROXBURY", 
+            "state" : "NY", 
+            "zipCode" : 12474.0, 
+            "latitude" : 42.28373, 
+            "longitude" : -74.56416999999999
+        }
+    ], 
+    "phoneNumber" : "6073267908"
+}
+{ 
+    "_id" : ObjectId("5fbe3d3d8bac42bf8e0c743c"), 
+    "museumID" : [
+        8403600329.0
+    ], 
+    "museumName" : "EMPIRE STATE PLAZA ART COLLECTIONS", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "2978 CORNING TOWER ESP", 
+            "city" : "ALBANY", 
+            "state" : "NY", 
+            "zipCode" : 12242.0, 
+            "latitude" : 42.65275, 
+            "longitude" : -73.75755
+        }
+    ], 
+    "phoneNumber" : "5184737521"
+}
+{ 
+    "_id" : ObjectId("5fbe3dd58bac42bf8e0c752a"), 
+    "museumID" : [
+        8403600514.0
+    ], 
+    "museumName" : "PARRISH ART MUSEUM", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "279 MONTAUK HIGHWAY", 
+            "city" : "WATER MILL", 
+            "state" : "NY", 
+            "zipCode" : 11976.0, 
+            "latitude" : 40.9019, 
+            "longitude" : -72.36679000000001
+        }
+    ], 
+    "phoneNumber" : "6312832118"
+}
+{ 
+    "_id" : ObjectId("5fbe3e1f8bac42bf8e0c759c"), 
+    "museumID" : [
+        8403600031.0
+    ], 
+    "museumName" : "TRIPOLI GALLERY OF CONTEMPORARY ART", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "30A JOBS LANE", 
+            "city" : "SOUTHAMPTON", 
+            "state" : "NY", 
+            "zipCode" : 11968.0, 
+            "latitude" : 40.88371, 
+            "longitude" : -72.39055
+        }
+    ], 
+    "phoneNumber" : "6313773715"
+}
+{ 
+    "_id" : ObjectId("5fbe3d518bac42bf8e0c7459"), 
+    "museumID" : [
+        8403600530.0
+    ], 
+    "museumName" : "GALLERY NORTH", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "SETAUKET- EAST SETAUKET", 
+            "city" : "SETAUKET", 
+            "state" : "NY", 
+            "zipCode" : 11733.0, 
+            "latitude" : 40.93492, 
+            "longitude" : -73.10670999999999
+        }
+    ], 
+    "phoneNumber" : "6317512676"
+}
+{ 
+    "_id" : ObjectId("5fbe3e2d8bac42bf8e0c75b0"), 
+    "museumID" : [
+        8403600008.0
+    ], 
+    "museumName" : "WESTBURY ART AND PHOTO", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "234 POST AVE", 
+            "city" : "WESTBURY", 
+            "state" : "NY", 
+            "zipCode" : 11590.0, 
+            "latitude" : 40.757020000000004, 
+            "longitude" : -73.58779
+        }
+    ], 
+    "phoneNumber" : "5169974342"
+}
+{ 
+    "_id" : ObjectId("5fbe3d428bac42bf8e0c7444"), 
+    "museumID" : [
+        8403600440.0
+    ], 
+    "museumName" : "FINE ARTS MUSEUM OF LONG ISLAND", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "295 FULTON AVE", 
+            "city" : "HEMPSTEAD", 
+            "state" : "NY", 
+            "zipCode" : 11579.0, 
+            "latitude" : 40.70868, 
+            "longitude" : -73.62286999999999
+        }
+    ], 
+    "phoneNumber" : "5164815700"
+}
+{ 
+    "_id" : ObjectId("5fbe3db28bac42bf8e0c74f2"), 
+    "museumID" : [
+        8403600596.0
+    ], 
+    "museumName" : "NASSAU COUNTY MUSEUM OF ART", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "1 MUSEUM DR", 
+            "city" : "ROSLYN", 
+            "state" : "NY", 
+            "zipCode" : 11576.0, 
+            "latitude" : 40.809670000000004, 
+            "longitude" : -73.64336999999999
+        }
+    ], 
+    "phoneNumber" : "5164849338"
+}
+{ 
+    "_id" : ObjectId("5fbe3cfc8bac42bf8e0c73dd"), 
+    "museumID" : [
+        8403600693.0
+    ], 
+    "museumName" : "ARTISTS IN PARTNERSHIP", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "215 W CHESTER ST", 
+            "city" : "LONG BEACH", 
+            "state" : "NY", 
+            "zipCode" : 11561.0, 
+            "latitude" : 40.58945, 
+            "longitude" : -73.67107
+        }
+    ], 
+    "phoneNumber" : "5164326342"
+}
+{ 
+    "_id" : ObjectId("5fbe3de08bac42bf8e0c753c"), 
+    "museumID" : [
+        8403600528.0
+    ], 
+    "museumName" : "QUEENS MUSEUM OF ART", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "NEW YORK CITY BUILDING FLUSHING MEADOWS CORONA PARK", 
+            "city" : "QUEENS", 
+            "state" : "NY", 
+            "zipCode" : 11368.0, 
+            "latitude" : 40.74669, 
+            "longitude" : -73.86106
+        }
+    ], 
+    "phoneNumber" : "7185929700"
+}
+{ 
+    "_id" : ObjectId("5fbe3dca8bac42bf8e0c7518"), 
+    "museumID" : [
+        8403600141.0
+    ], 
+    "museumName" : "NURTUREART NON-PROFIT", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "910 GRAND ST", 
+            "city" : "BROOKLYN", 
+            "state" : "NY", 
+            "zipCode" : 11211.0, 
+            "latitude" : 40.712540000000004, 
+            "longitude" : -73.93786
+        }
+    ], 
+    "phoneNumber" : "7187827755"
+}
+{ 
+    "_id" : ObjectId("5fbe3d2c8bac42bf8e0c7429"), 
+    "museumID" : [
+        8403600327.0
+    ], 
+    "museumName" : "DUMBO ARTS CENTER", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "111 FRONT STREET SUITE 212", 
+            "city" : "BROOKLYN", 
+            "state" : "NY", 
+            "zipCode" : 11201.0, 
+            "latitude" : 40.70258, 
+            "longitude" : -73.98874
+        }
+    ], 
+    "phoneNumber" : "7186940831"
+}
+{ 
+    "_id" : ObjectId("5fbe3d458bac42bf8e0c7447"), 
+    "museumID" : [
+        8403601047.0
+    ], 
+    "museumName" : "FISHER LANDAU CENTER FOR ART", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "299 PARK AVE FL 42", 
+            "city" : "LONG ISLAND CITY", 
+            "state" : "NY", 
+            "zipCode" : 11101.0, 
+            "latitude" : 40.748709999999996, 
+            "longitude" : -73.93839
+        }
+    ], 
+    "phoneNumber" : "7189370727"
+}
+{ 
+    "_id" : ObjectId("5fbe3e128bac42bf8e0c7587"), 
+    "museumID" : [
+        8403601069.0
+    ], 
+    "museumName" : "STORM KING ART CENTER", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "1 MUSEUM ROAD", 
+            "city" : "NEW WINDSOR", 
+            "state" : "NY", 
+            "zipCode" : 10953.0, 
+            "latitude" : 41.43132, 
+            "longitude" : -74.08176
+        }
+    ], 
+    "phoneNumber" : "8455343115"
+}
+{ 
+    "_id" : ObjectId("5fbe3d538bac42bf8e0c745c"), 
+    "museumID" : [
+        8403601040.0
+    ], 
+    "museumName" : "GARRISON ART CENTER", 
+    "museumType" : "ART MUSEUM", 
+    "location" : [
+        {
+            "streetAddress" : "23 GARRISONS LANDING", 
+            "city" : "GARRISON", 
+            "state" : "NY", 
+            "zipCode" : 10524.0, 
+            "latitude" : 41.3839, 
+            "longitude" : -73.94469000000001
+        }
+    ], 
+    "phoneNumber" : "8454243960"
+}
+{ 
+    "_id" : ObjectId("5fbe3cea8bac42bf8e0c73c2"), 
+    "museumID" : [
+        8402700282.0
+    ], 
+    "museumName" : "DIFFUSION ART", 
+    "museumType" : "ART MUSEUM", 
+    "location" : {
+        "city" : "NEW YORK"
+    }, 
+    "phoneNumber" : "8175498453"
+}
+{ 
+    "_id" : ObjectId("5fbe3cf58bac42bf8e0c73d3"), 
+    "museumID" : [
+        8403600167.0
+    ], 
+    "museumName" : "AMERICAN FOLK ART MUSEUM", 
+    "museumType" : "ART MUSEUM", 
+    "location" : {
+        "city" : "NEW YORK"
+    }, 
+    "phoneNumber" : "2122651040"
+}
+{ 
+    "_id" : ObjectId("5fbe3cfd8bac42bf8e0c73df"), 
+    "museumID" : [
+        8403600397.0
+    ], 
+    "museumName" : "ASIAN AMERICAN ARTS CENTER", 
+    "museumType" : "ART MUSEUM", 
+    "location" : {
+        "city" : "NEW YORK"
+    }, 
+    "phoneNumber" : "2122332154"
+}
+{ 
+    "_id" : ObjectId("5fbe3d188bac42bf8e0c740a"), 
+    "museumID" : [
+        8403600969.0
+    ], 
+    "museumName" : "CHELSEA ART MUSEUM", 
+    "museumType" : "ART MUSEUM", 
+    "location" : {
+        "city" : "NEW YORK"
+    }, 
+    "phoneNumber" : "2122550719"
+}
+{ 
+    "_id" : ObjectId("5fbe3d4b8bac42bf8e0c7451"), 
+    "museumID" : [
+        8403600297.0
+    ], 
+    "museumName" : "FOUNDATION FOR ITALIAN ART AND CULTURE", 
+    "museumType" : "ART MUSEUM", 
+    "location" : {
+        "city" : "NEW YORK"
+    }, 
+    "phoneNumber" : "2129801755"
+}
+{ 
+    "_id" : ObjectId("5fbe3d5d8bac42bf8e0c746c"), 
+    "museumID" : [
+        8403600275.0
+    ], 
+    "museumName" : "GUGGENHEIM MUSEUM", 
+    "museumType" : "ART MUSEUM", 
+    "location" : {
+        "city" : "NEW YORK"
+    }, 
+    "phoneNumber" : "2124233500"
+}
+{ 
+    "_id" : ObjectId("5fbe3d668bac42bf8e0c747b"), 
+    "museumID" : [
+        8403601716.0
+    ], 
+    "museumName" : "HEART GALLERY NYC", 
+    "museumType" : "ART MUSEUM", 
+    "location" : {
+        "city" : "NEW YORK"
+    }, 
+    "phoneNumber" : "2129658699"
+}
+{ 
+    "_id" : ObjectId("5fbe3d798bac42bf8e0c749a"), 
+    "museumID" : [
+        8403602008.0
+    ], 
+    "museumName" : "INTERNATIONAL CENTER OF PHOTOGRAPHY", 
+    "museumType" : "ART MUSEUM", 
+    "location" : {
+        "city" : "NEW YORK"
+    }, 
+    "phoneNumber" : "2128570000"
+}
+{ 
+    "_id" : ObjectId("5fbe3dd78bac42bf8e0c752d"), 
+    "museumID" : [
+        8403600775.0
+    ], 
+    "museumName" : "PHOENIX GALLERY", 
+    "museumType" : "ART MUSEUM", 
+    "location" : {
+        "city" : "NEW YORK"
+    }, 
+    "phoneNumber" : "2122268711"
+}
+{ 
+    "_id" : ObjectId("5fbe3e308bac42bf8e0c75b5"), 
+    "museumID" : [
+        8403600764.0
+    ], 
+    "museumName" : "WHITNEY MUSEUM OF AMERICAN ART", 
+    "museumType" : "ART MUSEUM", 
+    "location" : {
+        "city" : "NEW YORK"
+    }, 
+    "phoneNumber" : "2125703600"
+}

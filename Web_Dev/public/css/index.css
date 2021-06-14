@@ -1,0 +1,112 @@
+:root {
+    --fontSize: 12vw;
+    --width50: 50%;
+    --wheat: #f5deb3;
+}
+
+body {
+    background: url(../imgs/cafe.gif) no-repeat center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: var(--wheat);
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+h1 {
+    font-size: var(--fontSize);
+    color: var(--wheat);
+    width: var(--width50);
+    margin: 5% auto 1%;
+    cursor: pointer;
+}
+
+h3 {
+    width: var(--width50);
+    font-size: 3vw;
+}
+
+h3, form, .form-group, #inputError, #capslock {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+form {
+    display: block;
+    width: var(--width50);
+    height: 50%;
+    margin-top: 3%;
+}
+
+/*, #inputError, #capslock*/
+.form-group {
+    min-width: 40%;
+    max-width: var(--width50);
+}
+
+.form-control {
+    text-align: center;
+    font-size: 1.2rem;
+    background: var(--wheat);
+    border: 1px solid black;
+}
+.form-control:focus {
+    background: var(--wheat);
+    z-index: -1;
+}
+
+#eye {
+    color: black;
+    position: relative;
+    left: 45%;
+    top: 35px;
+    width: 1em;
+    height: 1em;
+}
+
+.error {
+    color: red;
+    font-size: 1.2rem;
+}
+
+#inputError, #capslock {
+    color: black;
+    background: var(--wheat);
+    /*background: grey;*/
+    border-radius: 0.5vh;
+    border: 1px solid red;
+    visibility: hidden;
+    min-width: 42%;
+    max-width: 42%;
+}
+
+#inputError {
+    margin-bottom: 0.5%;
+}
+
+
+#loginBtn {
+    margin-right: 2.5%;
+}
+#registerLink {
+    margin-left: 2.5%;
+}
+
+.btn {
+    font-size: 1.2rem;
+    width: 15%;
+    min-width: fit-content;
+    background: var(--wheat);
+    color: black;
+    border: none;
+}
+
+#aboutLink {
+    text-decoration: underline;
+    color: var(--wheat);
+}
+#aboutLink:hover {
+    font-size: 1.3rem;
+}

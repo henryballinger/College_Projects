@@ -1,0 +1,104 @@
+{ 
+    "_id" : {
+        "city" : [
+            "CARMEL"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3ba48bac42bf8e0c71cb"), 
+            "museumID" : [
+                8400602018.0
+            ], 
+            "museumName" : "ARTS HABITAT", 
+            "museumType" : "ART MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "3785 Vï¿½A NONA MARIE", 
+                    "city" : "CARMEL", 
+                    "state" : "CA", 
+                    "zipCode" : 93922.0, 
+                    "latitude" : 36.53934, 
+                    "longitude" : -121.90593
+                }
+            ], 
+            "phoneNumber" : "8316246111"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3bbb8bac42bf8e0c71f1"), 
+            "museumID" : [
+                8400602263.0
+            ], 
+            "museumName" : "CARMEL HERITAGE", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "LINCOLN ST & 6TH AVE", 
+                    "city" : "CARMEL", 
+                    "state" : "CA", 
+                    "zipCode" : 93921.0, 
+                    "latitude" : 36.562, 
+                    "longitude" : -121.8964
+                }
+            ], 
+            "phoneNumber" : "8316244447"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3bbf8bac42bf8e0c71f8"), 
+            "museumID" : [
+                8400601916.0
+            ], 
+            "museumName" : "CENTER FOR PHOTOGRAPHIC ART", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "SAN CARLOS AVE", 
+                    "city" : "CARMEL", 
+                    "state" : "CA", 
+                    "zipCode" : 93921.0, 
+                    "latitude" : 36.53222, 
+                    "longitude" : -121.88571
+                }
+            ], 
+            "phoneNumber" : "8316255181"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3c848bac42bf8e0c732d"), 
+            "museumID" : [
+                8400602287.0
+            ], 
+            "museumName" : "ROBINSON JEFFERS TOR HOUSE", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "26304 OCEAN VIEW AVENUE", 
+                    "city" : "CARMEL", 
+                    "state" : "CA", 
+                    "zipCode" : 93921.0, 
+                    "latitude" : 36.54306, 
+                    "longitude" : -121.93238000000001
+                }
+            ], 
+            "phoneNumber" : "8316241813"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3d818bac42bf8e0c74a7"), 
+            "museumID" : [
+                8403601100.0
+            ], 
+            "museumName" : "KENT HISTORICAL SOCIETY", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "407 FARMERS MILLS RD", 
+                    "city" : "CARMEL", 
+                    "state" : "NY", 
+                    "zipCode" : 10512.0, 
+                    "latitude" : 41.495979999999996, 
+                    "longitude" : -73.73698
+                }
+            ], 
+            "phoneNumber" : "8452281776"
+        }
+    ]
+}

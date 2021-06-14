@@ -1,0 +1,2688 @@
+{ 
+    "_id" : {
+        "city" : [
+            "BIRMINGHAM"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b4d8bac42bf8e0c7148"), 
+            "museumID" : [
+                8400100231.0
+            ], 
+            "museumName" : "ALABAMA HISTORICAL RADIO SOCIETY", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "600 N 18TH STREET", 
+                    "city" : "BIRMINGHAM", 
+                    "state" : "AL", 
+                    "zipCode" : 35213.0, 
+                    "latitude" : 33.51784, 
+                    "longitude" : -86.81185
+                }
+            ], 
+            "phoneNumber" : "2059677000"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b4e8bac42bf8e0c7149"), 
+            "museumID" : [
+                8409501300.0
+            ], 
+            "museumName" : "ALABAMA HUMANITIES FOUNDATION", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "1100 IRELAND WAY SUITE #202", 
+                    "city" : "BIRMINGHAM", 
+                    "state" : "AL", 
+                    "zipCode" : 35205.0, 
+                    "latitude" : 33.50116, 
+                    "longitude" : -86.79191
+                }
+            ], 
+            "phoneNumber" : "2055583980"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b518bac42bf8e0c714c"), 
+            "museumID" : [
+                8400100371.0
+            ], 
+            "museumName" : "ALABAMA MENS HALL OF FAME", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "800 LAKESHORE DRIVE", 
+                    "city" : "BIRMINGHAM", 
+                    "state" : "AL", 
+                    "zipCode" : 36801.0, 
+                    "latitude" : 33.46411, 
+                    "longitude" : -86.78814
+                }
+            ], 
+            "phoneNumber" : "2057262362"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b598bac42bf8e0c7157"), 
+            "museumID" : [
+                8409501946.0
+            ], 
+            "museumName" : "ARLINGTON ANTEBELLUM HOME & GARDENS", 
+            "museumType" : "ARBORETUM, BOTANICAL GARDEN, OR NATURE CENTER", 
+            "location" : [
+                {
+                    "streetAddress" : "331 COTTON AVE SW", 
+                    "city" : "BIRMINGHAM", 
+                    "state" : "AL", 
+                    "zipCode" : 35205.0, 
+                    "latitude" : 33.50088, 
+                    "longitude" : -86.83856999999999
+                }
+            ], 
+            "phoneNumber" : "2057805656"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b5c8bac42bf8e0c715c"), 
+            "museumID" : [
+                8409501975.0
+            ], 
+            "museumName" : "BIRMINGHAM BOTANICAL GARDENS", 
+            "museumType" : "ARBORETUM, BOTANICAL GARDEN, OR NATURE CENTER", 
+            "location" : [
+                {
+                    "streetAddress" : "2612 LANE PARK ROAD", 
+                    "city" : "BIRMINGHAM", 
+                    "state" : "AL", 
+                    "zipCode" : 35223.0, 
+                    "latitude" : 33.48904, 
+                    "longitude" : -86.77441
+                }
+            ], 
+            "phoneNumber" : "2054143900"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b5d8bac42bf8e0c715d"), 
+            "museumID" : [
+                8400100094.0
+            ], 
+            "museumName" : "BIRMINGHAM HISTORY CENTER", 
+            "museumType" : "HISTORY MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "1807 THIRD AVENUE NORTH", 
+                    "city" : "BIRMINGHAM", 
+                    "state" : "AL", 
+                    "zipCode" : 35203.0, 
+                    "latitude" : 33.514959999999995, 
+                    "longitude" : -86.80949
+                }
+            ], 
+            "phoneNumber" : "2052024146"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b798bac42bf8e0c7186"), 
+            "museumID" : [
+                8409500650.0
+            ], 
+            "museumName" : "MCWANE SCIENCE CENTER", 
+            "museumType" : "SCIENCE & TECHNOLOGY MUSEUM OR PLANETARIUM", 
+            "location" : [
+                {
+                    "streetAddress" : "200 19TH STREET N", 
+                    "city" : "BIRMINGHAM", 
+                    "state" : "AL", 
+                    "zipCode" : 35203.0, 
+                    "latitude" : 33.515390000000004, 
+                    "longitude" : -86.80816
+                }
+            ], 
+            "phoneNumber" : "2057148347"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b898bac42bf8e0c719d"), 
+            "museumID" : [
+                8409500915.0
+            ], 
+            "museumName" : "SOUTHERN MUSEUM OF FLIGHT", 
+            "museumType" : "SCIENCE & TECHNOLOGY MUSEUM OR PLANETARIUM", 
+            "location" : [
+                {
+                    "streetAddress" : "4343 73RD STREET NORTH", 
+                    "city" : "BIRMINGHAM", 
+                    "state" : "AL", 
+                    "zipCode" : 35206.0, 
+                    "latitude" : 33.562940000000005, 
+                    "longitude" : -86.73852
+                }
+            ], 
+            "phoneNumber" : "2058338226"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3ce88bac42bf8e0c73be"), 
+            "museumID" : [
+                8401201099.0
+            ], 
+            "museumName" : "ARMED FORCES MUSEUM OF ALABAMA", 
+            "museumType" : "HISTORY MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "3520 LORNA RIDGE DRIVE", 
+                    "city" : "BIRMINGHAM", 
+                    "state" : "AL", 
+                    "zipCode" : 32540.0, 
+                    "latitude" : 33.39181, 
+                    "longitude" : -86.79243000000001
+                }
+            ], 
+            "phoneNumber" : "2055667257"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "EUTAW"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b6e8bac42bf8e0c7173"), 
+            "museumID" : [
+                8400100280.0
+            ], 
+            "museumName" : "GREENE COUNTY HISTORICAL SOCIETY", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "310 MAIN STREET", 
+                    "city" : "EUTAW", 
+                    "state" : "AL", 
+                    "zipCode" : 35462.0, 
+                    "latitude" : 32.84129, 
+                    "longitude" : -87.89041
+                }
+            ], 
+            "phoneNumber" : "2052920015"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "NORTHPORT"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b718bac42bf8e0c7178"), 
+            "museumID" : [
+                8400100383.0
+            ], 
+            "museumName" : "HISTORIC NORTHPORT", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "1802 20TH AVENUE", 
+                    "city" : "NORTHPORT", 
+                    "state" : "AL", 
+                    "zipCode" : 35476.0, 
+                    "latitude" : 33.228190000000005, 
+                    "longitude" : -87.57759
+                }
+            ], 
+            "phoneNumber" : "2053390488"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3dc78bac42bf8e0c7513"), 
+            "museumID" : [
+                8403601988.0
+            ], 
+            "museumName" : "NORTHPORT HISTORICAL SOCIETY", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "215 MAIN ST NORTHPORT", 
+                    "city" : "NORTHPORT", 
+                    "state" : "NY", 
+                    "zipCode" : 11768.0, 
+                    "latitude" : 40.90408, 
+                    "longitude" : -73.33123
+                }
+            ], 
+            "phoneNumber" : "6317579859"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3e8e8bac42bf8e0c763f"), 
+            "museumID" : [
+                8405300637.0
+            ], 
+            "museumName" : "NORTHPORT HISTORICAL SOCIETY", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "311 COLUMBIA AVENUE", 
+                    "city" : "NORTHPORT", 
+                    "state" : "WA", 
+                    "zipCode" : 99157.0, 
+                    "latitude" : 48.91302, 
+                    "longitude" : -117.79545
+                }
+            ], 
+            "phoneNumber" : "5097326675"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "GORDO"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b858bac42bf8e0c7199"), 
+            "museumID" : [
+                8400100309.0
+            ], 
+            "museumName" : "PICKENS COUNTY GENEALOGICAL SOCIETY", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "PO BOX 793", 
+                    "city" : "GORDO", 
+                    "state" : "AL", 
+                    "zipCode" : 35466.0, 
+                    "latitude" : 33.32262, 
+                    "longitude" : -87.89038000000001
+                }
+            ], 
+            "phoneNumber" : "2053647830"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "NAUVOO"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b798bac42bf8e0c7185"), 
+            "museumID" : [
+                8400100461.0
+            ], 
+            "museumName" : "MCDOWELL ENVIRONMENTAL CENTER", 
+            "museumType" : "ARBORETUM, BOTANICAL GARDEN, OR NATURE CENTER", 
+            "location" : [
+                {
+                    "streetAddress" : "105 DELONG RD", 
+                    "city" : "NAUVOO", 
+                    "state" : "AL", 
+                    "zipCode" : 35578.0, 
+                    "latitude" : 34.00155, 
+                    "longitude" : -87.38654
+                }
+            ], 
+            "phoneNumber" : "2053871806"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "MCCALLA"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b748bac42bf8e0c717d"), 
+            "museumID" : [
+                8409500552.0
+            ], 
+            "museumName" : "IRON & STEEL MUSEUM OF ALABAMA", 
+            "museumType" : "SCIENCE & TECHNOLOGY MUSEUM OR PLANETARIUM", 
+            "location" : [
+                {
+                    "streetAddress" : "12632 CONFEDERATE PARKWAY", 
+                    "city" : "MCCALLA", 
+                    "state" : "AL", 
+                    "zipCode" : 35111.0, 
+                    "latitude" : 33.26851, 
+                    "longitude" : -87.08321
+                }
+            ], 
+            "phoneNumber" : "2054775711"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "TUSCALOOSA"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b758bac42bf8e0c717f"), 
+            "museumID" : [
+                8400100234.0
+            ], 
+            "museumName" : "JEMISON-VAN DE GRAAFF MANSION FOUNDATION", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "1305 GREENSBORO AVE", 
+                    "city" : "TUSCALOOSA", 
+                    "state" : "AL", 
+                    "zipCode" : 35403.0, 
+                    "latitude" : 33.20224, 
+                    "longitude" : -87.56509
+                }
+            ], 
+            "phoneNumber" : "2057582906"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b7a8bac42bf8e0c7187"), 
+            "museumID" : [
+                8400100458.0
+            ], 
+            "museumName" : "MILDRED WARNER HOUSE", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "1925 8TH STREET", 
+                    "city" : "TUSCALOOSA", 
+                    "state" : "AL", 
+                    "zipCode" : 35404.0, 
+                    "latitude" : 33.2084, 
+                    "longitude" : -87.56158
+                }
+            ], 
+            "phoneNumber" : "2055536200"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b8c8bac42bf8e0c71a3"), 
+            "museumID" : [
+                8400100423.0
+            ], 
+            "museumName" : "TUSCALOOSA COUNTY PRESERVATION SOCIETY", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "1010 GREENSBORO AVE", 
+                    "city" : "TUSCALOOSA", 
+                    "state" : "AL", 
+                    "zipCode" : 35403.0, 
+                    "latitude" : 33.20494, 
+                    "longitude" : -87.56643000000001
+                }
+            ], 
+            "phoneNumber" : "2057586138"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "LIVINGSTON"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b8a8bac42bf8e0c719f"), 
+            "museumID" : [
+                8400100292.0
+            ], 
+            "museumName" : "SUMTER COUNTY HISTORICAL & PRESERVATION SOCIETY", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "207 N WASHINGTON ST", 
+                    "city" : "LIVINGSTON", 
+                    "state" : "AL", 
+                    "zipCode" : 35470.0, 
+                    "latitude" : 32.563190000000006, 
+                    "longitude" : -88.13818
+                }
+            ], 
+            "phoneNumber" : "2056524015"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "EPES"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b698bac42bf8e0c716b"), 
+            "museumID" : [
+                8400100198.0
+            ], 
+            "museumName" : "EPES HISTORICAL ASSOCIATION", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "12428 SUMTER 20", 
+                    "city" : "EPES", 
+                    "state" : "AL", 
+                    "zipCode" : 35460.0, 
+                    "latitude" : 32.671659999999996, 
+                    "longitude" : -88.16305
+                }
+            ], 
+            "phoneNumber" : "2056527190"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "MONTEVALLO"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b568bac42bf8e0c7153"), 
+            "museumID" : [
+                8409501309.0
+            ], 
+            "museumName" : "ALDRICH COAL MINE MUSEUM", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "137 HIGHWAY 203", 
+                    "city" : "MONTEVALLO", 
+                    "state" : "AL", 
+                    "zipCode" : 35115.0, 
+                    "latitude" : 33.10796, 
+                    "longitude" : -86.89296
+                }
+            ], 
+            "phoneNumber" : "2056652886"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "CALERA"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b708bac42bf8e0c7177"), 
+            "museumID" : [
+                8400100421.0
+            ], 
+            "museumName" : "HEART OF DIXIE RAILROAD MUSEUM", 
+            "museumType" : "HISTORY MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "1919 9TH ST", 
+                    "city" : "CALERA", 
+                    "state" : "AL", 
+                    "zipCode" : 35040.0, 
+                    "latitude" : 33.1092, 
+                    "longitude" : -86.7499
+                }
+            ], 
+            "phoneNumber" : "2056683435"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "LEEDS"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b8b8bac42bf8e0c71a0"), 
+            "museumID" : [
+                8400100013.0
+            ], 
+            "museumName" : "THOMAS BASS MUSEUM", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "1129 MONTEVALLO ROAD SOUTHWEST", 
+                    "city" : "LEEDS", 
+                    "state" : "AL", 
+                    "zipCode" : 35094.0, 
+                    "latitude" : 33.53302, 
+                    "longitude" : -86.56749
+                }
+            ], 
+            "phoneNumber" : "2056992721"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "HOOVER"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b728bac42bf8e0c717a"), 
+            "museumID" : [
+                8400100223.0
+            ], 
+            "museumName" : "HOOVER HISTORICAL SOCIETY", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "569 PARK AVENUE", 
+                    "city" : "HOOVER", 
+                    "state" : "AL", 
+                    "zipCode" : 35236.0, 
+                    "latitude" : 33.408190000000005, 
+                    "longitude" : -86.85433
+                }
+            ], 
+            "phoneNumber" : "2058229392"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "FAYETTE"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b6c8bac42bf8e0c716f"), 
+            "museumID" : [
+                8400100065.0
+            ], 
+            "museumName" : "FAYETTE ART MUSEUM", 
+            "museumType" : "ART MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "203 TEMPLE AVE N", 
+                    "city" : "FAYETTE", 
+                    "state" : "AL", 
+                    "zipCode" : 35555.0, 
+                    "latitude" : 33.687259999999995, 
+                    "longitude" : -87.83088000000001
+                }
+            ], 
+            "phoneNumber" : "2059328727"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "MOBILE"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b498bac42bf8e0c7142"), 
+            "museumID" : [
+                8400100163.0
+            ], 
+            "museumName" : "AFRICAN AMERICAN HERITAGE TRAIL", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "204 SOUTH LAWRENCE ST", 
+                    "city" : "MOBILE", 
+                    "state" : "AL", 
+                    "zipCode" : 36633.0, 
+                    "latitude" : 30.68582, 
+                    "longitude" : -88.04614000000001
+                }
+            ], 
+            "phoneNumber" : "2515332174"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b6b8bac42bf8e0c716d"), 
+            "museumID" : [
+                8400100071.0
+            ], 
+            "museumName" : "EXPLOREUM MUSEUM OF DISCOVERY", 
+            "museumType" : "SCIENCE & TECHNOLOGY MUSEUM OR PLANETARIUM", 
+            "location" : [
+                {
+                    "streetAddress" : "65 GOVERNMENT STREET", 
+                    "city" : "MOBILE", 
+                    "state" : "AL", 
+                    "zipCode" : 36607.0, 
+                    "latitude" : 30.690340000000003, 
+                    "longitude" : -88.03979
+                }
+            ], 
+            "phoneNumber" : "2512086893"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b7b8bac42bf8e0c7188"), 
+            "museumID" : [
+                8400100256.0
+            ], 
+            "museumName" : "MOBILE HISTORIC DEVELOPMENT COMMISSION", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "205 GOVERNMENT STREET 2ND FLOOR S TOWER", 
+                    "city" : "MOBILE", 
+                    "state" : "AL", 
+                    "zipCode" : 36633.0, 
+                    "latitude" : 30.6708, 
+                    "longitude" : -88.10646
+                }
+            ], 
+            "phoneNumber" : "2512087281"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b7b8bac42bf8e0c7189"), 
+            "museumID" : [
+                8400100026.0
+            ], 
+            "museumName" : "MOBILE MUSEUM OF ART", 
+            "museumType" : "ART MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "4850 MUSEUM DR", 
+                    "city" : "MOBILE", 
+                    "state" : "AL", 
+                    "zipCode" : 36689.0, 
+                    "latitude" : 30.704009999999997, 
+                    "longitude" : -88.15462
+                }
+            ], 
+            "phoneNumber" : "2512085200"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b7f8bac42bf8e0c718e"), 
+            "museumID" : [
+                8400100257.0
+            ], 
+            "museumName" : "MUSEUM OF THE CITY OF MOBILE", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "111 SOUTH ROYAL STREET", 
+                    "city" : "MOBILE", 
+                    "state" : "AL", 
+                    "zipCode" : 36607.0, 
+                    "latitude" : 30.69015, 
+                    "longitude" : -88.04008
+                }
+            ], 
+            "phoneNumber" : "2512087569"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b7f8bac42bf8e0c718f"), 
+            "museumID" : [
+                8400100035.0
+            ], 
+            "museumName" : "NATIONAL AFRICAN AMERICAN ARCHIVES", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "564 DR MARTIN L KING JR AVENUE", 
+                    "city" : "MOBILE", 
+                    "state" : "AL", 
+                    "zipCode" : 36604.0, 
+                    "latitude" : 30.69693, 
+                    "longitude" : -88.05651
+                }
+            ], 
+            "phoneNumber" : "2514338511"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b808bac42bf8e0c7190"), 
+            "museumID" : [
+                8400100033.0
+            ], 
+            "museumName" : "NATIONAL MARITIME MUSEUM", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "250 N WATER ST STE 131", 
+                    "city" : "MOBILE", 
+                    "state" : "AL", 
+                    "zipCode" : 36602.0, 
+                    "latitude" : 30.69698, 
+                    "longitude" : -88.04092
+                }
+            ], 
+            "phoneNumber" : "2514368901"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b8e8bac42bf8e0c71a6"), 
+            "museumID" : [
+                8400100007.0
+            ], 
+            "museumName" : "USS ALABAMA BATTLESHIP", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "2703 BATTLESHIP PKWY", 
+                    "city" : "MOBILE", 
+                    "state" : "AL", 
+                    "zipCode" : 36527.0, 
+                    "latitude" : 30.69095, 
+                    "longitude" : -88.04483
+                }
+            ], 
+            "phoneNumber" : "2514332703"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "GROVE HILL"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b648bac42bf8e0c7164"), 
+            "museumID" : [
+                8400100073.0
+            ], 
+            "museumName" : "CLARKE CO HISTORICAL MUSEUM", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "116 COBB STREET", 
+                    "city" : "GROVE HILL", 
+                    "state" : "AL", 
+                    "zipCode" : 36451.0, 
+                    "latitude" : 31.686729999999997, 
+                    "longitude" : -87.78712
+                }
+            ], 
+            "phoneNumber" : "2512752014"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "FLOMATON"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b6c8bac42bf8e0c7170"), 
+            "museumID" : [
+                8400100177.0
+            ], 
+            "museumName" : "FLOMATON AREA RAILROAD MUSEUM", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "702 SYDNEY E MANNING BLVD", 
+                    "city" : "FLOMATON", 
+                    "state" : "AL", 
+                    "zipCode" : 36441.0, 
+                    "latitude" : 31.026, 
+                    "longitude" : -87.24941
+                }
+            ], 
+            "phoneNumber" : "2512961110"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "GULF SHORES"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b6d8bac42bf8e0c7171"), 
+            "museumID" : [
+                8400100057.0
+            ], 
+            "museumName" : "FORT MORGAN STATE HISTORIC SITE", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "110 STATE HIGHWAY 180", 
+                    "city" : "GULF SHORES", 
+                    "state" : "AL", 
+                    "zipCode" : 36542.0, 
+                    "latitude" : 30.22975, 
+                    "longitude" : -88.00148
+                }
+            ], 
+            "phoneNumber" : "2515407127"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b6f8bac42bf8e0c7174"), 
+            "museumID" : [
+                8400100047.0
+            ], 
+            "museumName" : "GULF SHORES MUSEUM", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "244 W 19TH AVE", 
+                    "city" : "GULF SHORES", 
+                    "state" : "AL", 
+                    "zipCode" : 36542.0, 
+                    "latitude" : 30.27485, 
+                    "longitude" : -87.69586
+                }
+            ], 
+            "phoneNumber" : "2519681473"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "MONROEVILLE"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b7c8bac42bf8e0c718a"), 
+            "museumID" : [
+                8400100340.0
+            ], 
+            "museumName" : "MONROE COUNTY HERITAGE MUSEUM", 
+            "museumType" : "HISTORY MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "31 NORTH ALABAMA AVE", 
+                    "city" : "MONROEVILLE", 
+                    "state" : "AL", 
+                    "zipCode" : 36461.0, 
+                    "latitude" : 31.51158, 
+                    "longitude" : -87.32765
+                }
+            ], 
+            "phoneNumber" : "2515757433"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "DAPHNE"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b588bac42bf8e0c7155"), 
+            "museumID" : [
+                8409501314.0
+            ], 
+            "museumName" : "AMERICAN SPORT ART MUSEUM AND ARCHIVES", 
+            "museumType" : "ART MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "1 ACADEMY DR", 
+                    "city" : "DAPHNE", 
+                    "state" : "AL", 
+                    "zipCode" : 36526.0, 
+                    "latitude" : 30.639770000000002, 
+                    "longitude" : -87.9091
+                }
+            ], 
+            "phoneNumber" : "2516263303"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b828bac42bf8e0c7194"), 
+            "museumID" : [
+                8400100406.0
+            ], 
+            "museumName" : "OLD METHODIST CHURCH MUSEUM OF DAPHNE", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "405 DRYER AVENUE", 
+                    "city" : "DAPHNE", 
+                    "state" : "AL", 
+                    "zipCode" : 36526.0, 
+                    "latitude" : 30.6015, 
+                    "longitude" : -87.90916999999999
+                }
+            ], 
+            "phoneNumber" : "2516219620"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "CHATOM"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b8f8bac42bf8e0c71a7"), 
+            "museumID" : [
+                8400100342.0
+            ], 
+            "museumName" : "WASHINGTON COUNTY MUSEUM ASSOCIATION", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "45 COURT ST STE 100", 
+                    "city" : "CHATOM", 
+                    "state" : "AL", 
+                    "zipCode" : 36518.0, 
+                    "latitude" : 31.47253, 
+                    "longitude" : -88.29411
+                }
+            ], 
+            "phoneNumber" : "2518472201"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "FAIRHOPE"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b6b8bac42bf8e0c716e"), 
+            "museumID" : [
+                8400100166.0
+            ], 
+            "museumName" : "FAIRHOPE MUSEUM OF HISTORY", 
+            "museumType" : "HISTORY MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "24 N SECTION ST", 
+                    "city" : "FAIRHOPE", 
+                    "state" : "AL", 
+                    "zipCode" : 36533.0, 
+                    "latitude" : 30.525170000000003, 
+                    "longitude" : -87.9029
+                }
+            ], 
+            "phoneNumber" : "2519291471"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "ORANGE BEACH"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b848bac42bf8e0c7197"), 
+            "museumID" : [
+                8400100015.0
+            ], 
+            "museumName" : "ORANGE BEACH INDIAN AND SEA", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "25855 JOHN M SNOOK DR", 
+                    "city" : "ORANGE BEACH", 
+                    "state" : "AL", 
+                    "zipCode" : 36561.0, 
+                    "latitude" : 30.279529999999998, 
+                    "longitude" : -87.55306
+                }
+            ], 
+            "phoneNumber" : "2519818545"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "ELBERTA"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b5b8bac42bf8e0c715a"), 
+            "museumID" : [
+                8400100282.0
+            ], 
+            "museumName" : "BALDWIN HERITAGE MUSEUM ASSOCIATION", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "25521 US HIGHWAY 98", 
+                    "city" : "ELBERTA", 
+                    "state" : "AL", 
+                    "zipCode" : 36530.0, 
+                    "latitude" : 30.39654, 
+                    "longitude" : -87.56298000000001
+                }
+            ], 
+            "phoneNumber" : "2519868375"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "ATHENS"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b548bac42bf8e0c7150"), 
+            "museumID" : [
+                8400100182.0
+            ], 
+            "museumName" : "ALABAMA VETERANS MUSEUM & ARCHIVES", 
+            "museumType" : "HISTORY MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "100 PRYOR ST W", 
+                    "city" : "ATHENS", 
+                    "state" : "AL", 
+                    "zipCode" : 35612.0, 
+                    "latitude" : 34.80672, 
+                    "longitude" : -86.97072
+                }
+            ], 
+            "phoneNumber" : "2567717578"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b578bac42bf8e0c7154"), 
+            "museumID" : [
+                8409501249.0
+            ], 
+            "museumName" : "ALTAR OF THE NEW TESTAMENT AND FOUNDERS HALL", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "300 N BEATY STï¿½", 
+                    "city" : "ATHENS", 
+                    "state" : "AL", 
+                    "zipCode" : 35611.0, 
+                    "latitude" : 34.80598, 
+                    "longitude" : -86.96746
+                }
+            ], 
+            "phoneNumber" : "2562338215"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b678bac42bf8e0c7169"), 
+            "museumID" : [
+                8400100360.0
+            ], 
+            "museumName" : "DONNELL HOUSE BOARD", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "601 & 1/2 SOUTH CLINTON STREET", 
+                    "city" : "ATHENS", 
+                    "state" : "AL", 
+                    "zipCode" : 35612.0, 
+                    "latitude" : 34.80508, 
+                    "longitude" : -86.98225
+                }
+            ], 
+            "phoneNumber" : "2562320743"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b778bac42bf8e0c7182"), 
+            "museumID" : [
+                8400100353.0
+            ], 
+            "museumName" : "LIMESTONE COUNTY ALABAMA ARCHIVES", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "102 W WASHINGTON STREET", 
+                    "city" : "ATHENS", 
+                    "state" : "AL", 
+                    "zipCode" : 35612.0, 
+                    "latitude" : 34.802409999999995, 
+                    "longitude" : -86.97004
+                }
+            ], 
+            "phoneNumber" : "2562336404"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "SYLACAUGA"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b758bac42bf8e0c717e"), 
+            "museumID" : [
+                8400100341.0
+            ], 
+            "museumName" : "ISABEL ANDERSON COMER MUSEUM & ARTS CENTER", 
+            "museumType" : "ART MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "711 N BROADWAY AVE", 
+                    "city" : "SYLACAUGA", 
+                    "state" : "AL", 
+                    "zipCode" : 35150.0, 
+                    "latitude" : 33.16453, 
+                    "longitude" : -86.25086
+                }
+            ], 
+            "phoneNumber" : "2562454016"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "DECATUR"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b648bac42bf8e0c7165"), 
+            "museumID" : [
+                8400100205.0
+            ], 
+            "museumName" : "COOKS NATURAL SCIENCE MUSEUM", 
+            "museumType" : "SCIENCE & TECHNOLOGY MUSEUM OR PLANETARIUM", 
+            "location" : [
+                {
+                    "streetAddress" : "412 13TH ST SE", 
+                    "city" : "DECATUR", 
+                    "state" : "AL", 
+                    "zipCode" : 35601.0, 
+                    "latitude" : 34.58039, 
+                    "longitude" : -86.98293000000001
+                }
+            ], 
+            "phoneNumber" : "2563509347"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b838bac42bf8e0c7195"), 
+            "museumID" : [
+                8400100024.0
+            ], 
+            "museumName" : "OLD STATE BANK", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "952 BANK STREET NE", 
+                    "city" : "DECATUR", 
+                    "state" : "AL", 
+                    "zipCode" : 35602.0, 
+                    "latitude" : 34.60658, 
+                    "longitude" : -86.98241999999999
+                }
+            ], 
+            "phoneNumber" : "2563414818"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "TALLADEGA"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b738bac42bf8e0c717c"), 
+            "museumID" : [
+                8400100269.0
+            ], 
+            "museumName" : "INTERNATIONAL MOTORSPORTS HALL OF FAME & MUSEUM", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "3198 SPEEDWAY BLVD", 
+                    "city" : "TALLADEGA", 
+                    "state" : "AL", 
+                    "zipCode" : 35161.0, 
+                    "latitude" : 33.43764, 
+                    "longitude" : -86.10313000000001
+                }
+            ], 
+            "phoneNumber" : "2563625002"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "TUSCUMBIA"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b528bac42bf8e0c714d"), 
+            "museumID" : [
+                8409501303.0
+            ], 
+            "museumName" : "ALABAMA MUSIC HALL OF FAME", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "617 HIGHWAY 72 WEST", 
+                    "city" : "TUSCUMBIA", 
+                    "state" : "AL", 
+                    "zipCode" : 35674.0, 
+                    "latitude" : 34.71624, 
+                    "longitude" : -87.69496
+                }
+            ], 
+            "phoneNumber" : "2563814417"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b5c8bac42bf8e0c715b"), 
+            "museumID" : [
+                8400100084.0
+            ], 
+            "museumName" : "BELLE MONT MANSION", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "1569 COOK LANE", 
+                    "city" : "TUSCUMBIA", 
+                    "state" : "AL", 
+                    "zipCode" : 35643.0, 
+                    "latitude" : 34.68412, 
+                    "longitude" : -87.67689
+                }
+            ], 
+            "phoneNumber" : "2566378513"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "PIEDMONT"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b878bac42bf8e0c719a"), 
+            "museumID" : [
+                8400100019.0
+            ], 
+            "museumName" : "PIEDMONT MUSEUM", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "109 N CENTER AVE", 
+                    "city" : "PIEDMONT", 
+                    "state" : "AL", 
+                    "zipCode" : 36272.0, 
+                    "latitude" : 33.92352, 
+                    "longitude" : -85.61135999999999
+                }
+            ], 
+            "phoneNumber" : "2564476904"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "DELTA"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b628bac42bf8e0c7162"), 
+            "museumID" : [
+                8400100064.0
+            ], 
+            "museumName" : "CHEAHA STATE PARK", 
+            "museumType" : "ARBORETUM, BOTANICAL GARDEN, OR NATURE CENTER", 
+            "location" : [
+                {
+                    "streetAddress" : "2141 BUNKER LOOP", 
+                    "city" : "DELTA", 
+                    "state" : "AL", 
+                    "zipCode" : 36258.0, 
+                    "latitude" : 33.48103, 
+                    "longitude" : -85.80863000000001
+                }
+            ], 
+            "phoneNumber" : "2564885115"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "BRIDGEPORT"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b5e8bac42bf8e0c715e"), 
+            "museumID" : [
+                8400100319.0
+            ], 
+            "museumName" : "BRIDGEPORT AREA HISTORIC ASSOCIATION", 
+            "museumType" : "HISTORY MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "116 SOULARD SQ", 
+                    "city" : "BRIDGEPORT", 
+                    "state" : "AL", 
+                    "zipCode" : 35740.0, 
+                    "latitude" : 34.94947, 
+                    "longitude" : -85.71959
+                }
+            ], 
+            "phoneNumber" : "2564954020"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "ARAB"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b588bac42bf8e0c7156"), 
+            "museumID" : [
+                8400100321.0
+            ], 
+            "museumName" : "ARAB HISTORICAL SOCIETY", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "224 CITY PARK DRIVE NORTHEAST", 
+                    "city" : "ARAB", 
+                    "state" : "AL", 
+                    "zipCode" : 35016.0, 
+                    "latitude" : 34.32768, 
+                    "longitude" : -86.49274
+                }
+            ], 
+            "phoneNumber" : "2565866397"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b658bac42bf8e0c7166"), 
+            "museumID" : [
+                8400100200.0
+            ], 
+            "museumName" : "COST OF FREEDOM VETERANS MUSEUM", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "135 MAIN STREET", 
+                    "city" : "ARAB", 
+                    "state" : "AL", 
+                    "zipCode" : 35016.0, 
+                    "latitude" : 34.316, 
+                    "longitude" : -86.49575
+                }
+            ], 
+            "phoneNumber" : "2564982499"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "HUNTSVILLE"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b4c8bac42bf8e0c7146"), 
+            "museumID" : [
+                8400100083.0
+            ], 
+            "museumName" : "ALABAMA CONSTITUTION VILLAGE", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "109 GATES AVENUE SOUTHWEST", 
+                    "city" : "HUNTSVILLE", 
+                    "state" : "AL", 
+                    "zipCode" : 35801.0, 
+                    "latitude" : 34.72664, 
+                    "longitude" : -86.57223
+                }
+            ], 
+            "phoneNumber" : "2565648100"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b5a8bac42bf8e0c7159"), 
+            "museumID" : [
+                8409502729.0
+            ], 
+            "museumName" : "ART GALLERIES AT UAH", 
+            "museumType" : "ART MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "WILSON HALL 160 B", 
+                    "city" : "HUNTSVILLE", 
+                    "state" : "AL", 
+                    "zipCode" : 35899.0, 
+                    "latitude" : 34.74054, 
+                    "longitude" : -86.62928000000001
+                }
+            ], 
+            "phoneNumber" : "2568246114"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b688bac42bf8e0c716a"), 
+            "museumID" : [
+                8409400912.0
+            ], 
+            "museumName" : "EARLYWORKS", 
+            "museumType" : "CHILDREN'S MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "404 MADISON STREET", 
+                    "city" : "HUNTSVILLE", 
+                    "state" : "AL", 
+                    "zipCode" : 35801.0, 
+                    "latitude" : 34.728609999999996, 
+                    "longitude" : -86.58469000000001
+                }
+            ], 
+            "phoneNumber" : "2565648100"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b788bac42bf8e0c7183"), 
+            "museumID" : [
+                8400100329.0
+            ], 
+            "museumName" : "MADISON COUNTY MILITARY HERITAGE", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "100 NORTHSIDE SQUARE", 
+                    "city" : "HUNTSVILLE", 
+                    "state" : "AL", 
+                    "zipCode" : 35801.0, 
+                    "latitude" : 34.7305, 
+                    "longitude" : -86.58595
+                }
+            ], 
+            "phoneNumber" : "2565321662"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b818bac42bf8e0c7192"), 
+            "museumID" : [
+                8400100422.0
+            ], 
+            "museumName" : "NORTH ALABAMA RAILROAD MUSEUM", 
+            "museumType" : "HISTORY MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "694 CHASE RD NE", 
+                    "city" : "HUNTSVILLE", 
+                    "state" : "AL", 
+                    "zipCode" : 35815.0, 
+                    "latitude" : 34.78365, 
+                    "longitude" : -86.5462
+                }
+            ], 
+            "phoneNumber" : "2568516276"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b828bac42bf8e0c7193"), 
+            "museumID" : [
+                8400100233.0
+            ], 
+            "museumName" : "NORTH ALABAMA SCIENCE CENTER", 
+            "museumType" : "SCIENCE & TECHNOLOGY MUSEUM OR PLANETARIUM", 
+            "location" : [
+                {
+                    "streetAddress" : "1435 PARAMOUNT DRIVE", 
+                    "city" : "HUNTSVILLE", 
+                    "state" : "AL", 
+                    "zipCode" : 35805.0, 
+                    "latitude" : 34.751490000000004, 
+                    "longitude" : -86.69326
+                }
+            ], 
+            "phoneNumber" : "2568374536"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b8e8bac42bf8e0c71a5"), 
+            "museumID" : [
+                8400100004.0
+            ], 
+            "museumName" : "U.S. SPACE & ROCKET CENTER", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "ONE TRANQUILITY BASE", 
+                    "city" : "HUNTSVILLE", 
+                    "state" : "AL", 
+                    "zipCode" : 35807.0, 
+                    "latitude" : 34.7138, 
+                    "longitude" : -86.62841
+                }
+            ], 
+            "phoneNumber" : "2568373400"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "GADSDEN"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b608bac42bf8e0c7160"), 
+            "museumID" : [
+                8400100305.0
+            ], 
+            "museumName" : "CENTER FOR CULTURAL ARTS", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "501 BROAD STREET", 
+                    "city" : "GADSDEN", 
+                    "state" : "AL", 
+                    "zipCode" : 35902.0, 
+                    "latitude" : 34.013909999999996, 
+                    "longitude" : -86.00513000000001
+                }
+            ], 
+            "phoneNumber" : "2565432787"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b618bac42bf8e0c7161"), 
+            "museumID" : [
+                8400100455.0
+            ], 
+            "museumName" : "CENTRAL CARVER FOUNDATION", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "1030 TUSCALOOSA AVE", 
+                    "city" : "GADSDEN", 
+                    "state" : "AL", 
+                    "zipCode" : 35902.0, 
+                    "latitude" : 34.024229999999996, 
+                    "longitude" : -86.01404000000001
+                }
+            ], 
+            "phoneNumber" : "2565494742"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b738bac42bf8e0c717b"), 
+            "museumID" : [
+                8400100040.0
+            ], 
+            "museumName" : "IMAGINATION PLACE", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "501 BROAD ST", 
+                    "city" : "GADSDEN", 
+                    "state" : "AL", 
+                    "zipCode" : 35901.0, 
+                    "latitude" : 34.013909999999996, 
+                    "longitude" : -86.00513000000001
+                }
+            ], 
+            "phoneNumber" : "2565432787"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "COURTLAND"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b668bac42bf8e0c7167"), 
+            "museumID" : [
+                8400100445.0
+            ], 
+            "museumName" : "COURTLAND HERITAGE MUSEUM", 
+            "museumType" : "HISTORY MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "252 COLLEGE ST", 
+                    "city" : "COURTLAND", 
+                    "state" : "AL", 
+                    "zipCode" : 35618.0, 
+                    "latitude" : 34.66655, 
+                    "longitude" : -87.31031999999999
+                }
+            ], 
+            "phoneNumber" : "2566372710"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "FORT PAYNE"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b668bac42bf8e0c7168"), 
+            "museumID" : [
+                8400100076.0
+            ], 
+            "museumName" : "DEPOT MUSEUM", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "105 5TH STREET NORTHEAST", 
+                    "city" : "FORT PAYNE", 
+                    "state" : "AL", 
+                    "zipCode" : 35967.0, 
+                    "latitude" : 34.43922, 
+                    "longitude" : -85.71449
+                }
+            ], 
+            "phoneNumber" : "2568455714"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b6e8bac42bf8e0c7172"), 
+            "museumID" : [
+                8400100296.0
+            ], 
+            "museumName" : "FORT PAYNE DEPOT MUSEUM", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "105 5TH STREET NE", 
+                    "city" : "FORT PAYNE", 
+                    "state" : "AL", 
+                    "zipCode" : 35968.0, 
+                    "latitude" : 34.43922, 
+                    "longitude" : -85.71449
+                }
+            ], 
+            "phoneNumber" : "2568455714"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "ALBERTVILLE"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b558bac42bf8e0c7152"), 
+            "museumID" : [
+                8409501307.0
+            ], 
+            "museumName" : "ALBERTVILLE MUSEUM", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "610 WEST MAIN STREET", 
+                    "city" : "ALBERTVILLE", 
+                    "state" : "AL", 
+                    "zipCode" : 35950.0, 
+                    "latitude" : 34.26948, 
+                    "longitude" : -86.21514
+                }
+            ], 
+            "phoneNumber" : "2568780605"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "MOULTON"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b768bac42bf8e0c7180"), 
+            "museumID" : [
+                8400100326.0
+            ], 
+            "museumName" : "LAWRENCE COUNTY HISTORICAL COMMISSION", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "698 MAIN STREET", 
+                    "city" : "MOULTON", 
+                    "state" : "AL", 
+                    "zipCode" : 35650.0, 
+                    "latitude" : 34.480470000000004, 
+                    "longitude" : -87.29119
+                }
+            ], 
+            "phoneNumber" : "2569741757"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "BESSEMER"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b8f8bac42bf8e0c71a8"), 
+            "museumID" : [
+                8400100129.0
+            ], 
+            "museumName" : "WEST JEFFERSON COUNTY HISTORICAL SOCIETY", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "1740 EASTERN VALLEY ROAD", 
+                    "city" : "BESSEMER", 
+                    "state" : "AL", 
+                    "zipCode" : 35021.0, 
+                    "latitude" : 33.3455, 
+                    "longitude" : -86.9849
+                }
+            ], 
+            "phoneNumber" : "3342065418"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "MONTGOMERY"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b4b8bac42bf8e0c7144"), 
+            "museumID" : [
+                8409501296.0
+            ], 
+            "museumName" : "ALABAMA CATTLEMAN'S ASSOCIATION MUSEUMï¿½", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "201 S BAINBRIDGE STREET", 
+                    "city" : "MONTGOMERY", 
+                    "state" : "AL", 
+                    "zipCode" : 36102.0, 
+                    "latitude" : 32.37535, 
+                    "longitude" : -86.30105999999999
+                }
+            ], 
+            "phoneNumber" : "3342651867"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b4c8bac42bf8e0c7145"), 
+            "museumID" : [
+                8409501297.0
+            ], 
+            "museumName" : "ALABAMA CENTER FOR TRADITIONAL CULTURE", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "201 MONROE STREET", 
+                    "city" : "MONTGOMERY", 
+                    "state" : "AL", 
+                    "zipCode" : 36130.0, 
+                    "latitude" : 32.37878, 
+                    "longitude" : -86.30628
+                }
+            ], 
+            "phoneNumber" : "3342424076"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b4d8bac42bf8e0c7147"), 
+            "museumID" : [
+                8400100428.0
+            ], 
+            "museumName" : "ALABAMA DEPARTMENT OF ARCHIVES AND HISTORY", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "624 WASHINGTON AVE", 
+                    "city" : "MONTGOMERY", 
+                    "state" : "AL", 
+                    "zipCode" : 36130.0, 
+                    "latitude" : 32.37771, 
+                    "longitude" : -86.291
+                }
+            ], 
+            "phoneNumber" : "3343531936"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b4f8bac42bf8e0c714a"), 
+            "museumID" : [
+                8409501301.0
+            ], 
+            "museumName" : "ALABAMA INDIAN AFFAIRS COMMISSION", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "771 SOUTH LAWRENCE STREET  SUITE 106ï¿½ï¿½ï¿½ï¿½ï¿½", 
+                    "city" : "MONTGOMERY", 
+                    "state" : "AL", 
+                    "zipCode" : 36130.0, 
+                    "latitude" : 32.36698, 
+                    "longitude" : -86.3057
+                }
+            ], 
+            "phoneNumber" : "3342422831"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b508bac42bf8e0c714b"), 
+            "museumID" : [
+                8409501302.0
+            ], 
+            "museumName" : "ALABAMA JUDICIAL DEPARTMENT MUSEUM", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "300 DEXTER AVENUE", 
+                    "city" : "MONTGOMERY", 
+                    "state" : "AL", 
+                    "zipCode" : 36130.0, 
+                    "latitude" : 32.37744, 
+                    "longitude" : -86.30496
+                }
+            ], 
+            "phoneNumber" : "3342424347"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b638bac42bf8e0c7163"), 
+            "museumID" : [
+                8400100195.0
+            ], 
+            "museumName" : "CHILDREN'S MUSEUM OF ALABAMA", 
+            "museumType" : "CHILDREN'S MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "105 TALLAPOOSA STREET", 
+                    "city" : "MONTGOMERY", 
+                    "state" : "AL", 
+                    "zipCode" : 36102.0, 
+                    "latitude" : 32.380829999999996, 
+                    "longitude" : -86.31088000000001
+                }
+            ], 
+            "phoneNumber" : "3348322777"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b7d8bac42bf8e0c718b"), 
+            "museumID" : [
+                8400100213.0
+            ], 
+            "museumName" : "MONTGOMERY AREA ZOOLOGICAL SOCIETY", 
+            "museumType" : "ZOO, AQUARIUM, OR WILDLIFE CONSERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "2301 COLISEUM PKWY", 
+                    "city" : "MONTGOMERY", 
+                    "state" : "AL", 
+                    "zipCode" : 36109.0, 
+                    "latitude" : 32.421079999999996, 
+                    "longitude" : -86.27306
+                }
+            ], 
+            "phoneNumber" : "3342404900"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b7d8bac42bf8e0c718c"), 
+            "museumID" : [
+                8400100029.0
+            ], 
+            "museumName" : "MONTGOMERY MUSEUM OF FINE ARTS", 
+            "museumType" : "ART MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "ONE MUSEUM DRIVE", 
+                    "city" : "MONTGOMERY", 
+                    "state" : "AL", 
+                    "zipCode" : 36117.0, 
+                    "latitude" : 32.3526, 
+                    "longitude" : -86.2087
+                }
+            ], 
+            "phoneNumber" : "3342404333"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b908bac42bf8e0c71a9"), 
+            "museumID" : [
+                8400100297.0
+            ], 
+            "museumName" : "WHITE HOUSE ASSOCIATION", 
+            "museumType" : "HISTORY MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "644 WASHINGTON AVENUE", 
+                    "city" : "MONTGOMERY", 
+                    "state" : "AL", 
+                    "zipCode" : 36102.0, 
+                    "latitude" : 32.37645, 
+                    "longitude" : -86.29303
+                }
+            ], 
+            "phoneNumber" : "3342421861"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3dcf8bac42bf8e0c7520"), 
+            "museumID" : [
+                8403601157.0
+            ], 
+            "museumName" : "ORANGE COUNTY FARMERS MUSEUM", 
+            "museumType" : "HISTORY MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "850 STATE ROUTE 17K", 
+                    "city" : "MONTGOMERY", 
+                    "state" : "NY", 
+                    "zipCode" : 12549.0, 
+                    "latitude" : 41.52831, 
+                    "longitude" : -74.27783000000001
+                }
+            ], 
+            "phoneNumber" : "8454572959"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3dd08bac42bf8e0c7521"), 
+            "museumID" : [
+                8403601171.0
+            ], 
+            "museumName" : "ORANGE COUNTY FIREFIGHTERS MUSEUM", 
+            "museumType" : "HISTORY MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "141 CLINTON STREET", 
+                    "city" : "MONTGOMERY", 
+                    "state" : "NY", 
+                    "zipCode" : 12549.0, 
+                    "latitude" : 41.5255, 
+                    "longitude" : -74.23482
+                }
+            ], 
+            "phoneNumber" : "8454579654"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "DEMOPOLIS"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b788bac42bf8e0c7184"), 
+            "museumID" : [
+                8400100444.0
+            ], 
+            "museumName" : "MARENGO COUNTY HISTORY-ARCHIVES", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "101 NORTH WALNUT AVENUE", 
+                    "city" : "DEMOPOLIS", 
+                    "state" : "AL", 
+                    "zipCode" : 36732.0, 
+                    "latitude" : 32.51644, 
+                    "longitude" : -87.83766
+                }
+            ], 
+            "phoneNumber" : "3342890599"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "PHENIX CITY"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b888bac42bf8e0c719b"), 
+            "museumID" : [
+                8400100320.0
+            ], 
+            "museumName" : "RUSSELL COUNTY HISTORICAL COMMISSION", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "1040 BROAD ST", 
+                    "city" : "PHENIX CITY", 
+                    "state" : "AL", 
+                    "zipCode" : 36868.0, 
+                    "latitude" : 32.468509999999995, 
+                    "longitude" : -85.0009
+                }
+            ], 
+            "phoneNumber" : "3342978225"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "GEORGIANA"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b6f8bac42bf8e0c7175"), 
+            "museumID" : [
+                8400100365.0
+            ], 
+            "museumName" : "HANK WILLIAMS MUSEUM AND FESTIVAL", 
+            "museumType" : "HISTORY MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "127 ROSE STREET", 
+                    "city" : "GEORGIANA", 
+                    "state" : "AL", 
+                    "zipCode" : 36033.0, 
+                    "latitude" : 31.65737, 
+                    "longitude" : -86.74566
+                }
+            ], 
+            "phoneNumber" : "3343762396"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b708bac42bf8e0c7176"), 
+            "museumID" : [
+                8400100056.0
+            ], 
+            "museumName" : "HANK WILLIAMS SENIOR BOYHOOD HOME AND MUSEUM", 
+            "museumType" : "HISTORY MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "127 ROSE STREET", 
+                    "city" : "GEORGIANA", 
+                    "state" : "AL", 
+                    "zipCode" : 36033.0, 
+                    "latitude" : 31.65737, 
+                    "longitude" : -86.74566
+                }
+            ], 
+            "phoneNumber" : "3343762396"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "GREENVILLE"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b5f8bac42bf8e0c715f"), 
+            "museumID" : [
+                8400100267.0
+            ], 
+            "museumName" : "BUTLER COUNTY HISTORICAL & GENEALOGICAL SOCIETY", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "309 FORT DALE RD", 
+                    "city" : "GREENVILLE", 
+                    "state" : "AL", 
+                    "zipCode" : 36037.0, 
+                    "latitude" : 31.83257, 
+                    "longitude" : -86.62734
+                }
+            ], 
+            "phoneNumber" : "3343839564"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3bf88bac42bf8e0c7253"), 
+            "museumID" : [
+                8400601133.0
+            ], 
+            "museumName" : "GREENVILLE CY HALL MEMORIAL MUSEUM", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "408 MAIN ST", 
+                    "city" : "GREENVILLE", 
+                    "state" : "CA", 
+                    "zipCode" : 95947.0, 
+                    "latitude" : 40.13785, 
+                    "longitude" : -120.90293
+                }
+            ], 
+            "phoneNumber" : "5302846633"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "ENTERPRISE"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b848bac42bf8e0c7198"), 
+            "museumID" : [
+                8400100133.0
+            ], 
+            "museumName" : "PEA RIVER HISTORICAL & GENEALOGICAL SOCIETY", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "108 S MAIN STREET", 
+                    "city" : "ENTERPRISE", 
+                    "state" : "AL", 
+                    "zipCode" : 36331.0, 
+                    "latitude" : 31.31533, 
+                    "longitude" : -85.85463
+                }
+            ], 
+            "phoneNumber" : "3343932901"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "SELMA"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b818bac42bf8e0c7191"), 
+            "museumID" : [
+                8400100335.0
+            ], 
+            "museumName" : "NATIONAL VOTING RIGHTS MUSEUM AND INSTITUTE", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "6 US HIGHWAY 80 EAST", 
+                    "city" : "SELMA", 
+                    "state" : "AL", 
+                    "zipCode" : 36702.0, 
+                    "latitude" : 32.40298, 
+                    "longitude" : -87.01724
+                }
+            ], 
+            "phoneNumber" : "3344180800"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b888bac42bf8e0c719c"), 
+            "museumID" : [
+                8400100287.0
+            ], 
+            "museumName" : "SELMA-DALLAS COUNTY MUSEUM OF HISTORY AND ARCHIVES", 
+            "museumType" : "HISTORY MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "4 MARTIN LUTHER KING STREET", 
+                    "city" : "SELMA", 
+                    "state" : "AL", 
+                    "zipCode" : 36702.0, 
+                    "latitude" : 32.40885, 
+                    "longitude" : -87.01422
+                }
+            ], 
+            "phoneNumber" : "3348742197"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b898bac42bf8e0c719e"), 
+            "museumID" : [
+                8400100248.0
+            ], 
+            "museumName" : "STURDIVANT HALL MUSEUM", 
+            "museumType" : "HISTORY MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "713 MABRY ST", 
+                    "city" : "SELMA", 
+                    "state" : "AL", 
+                    "zipCode" : 36702.0, 
+                    "latitude" : 32.41279, 
+                    "longitude" : -87.02826999999999
+                }
+            ], 
+            "phoneNumber" : "3348725626"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "WETUMPKA"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b528bac42bf8e0c714e"), 
+            "museumID" : [
+                8400100172.0
+            ], 
+            "museumName" : "ALABAMA RIVER REGION ARTS CENTER", 
+            "museumType" : "ART MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "PO BOX 1172", 
+                    "city" : "WETUMPKA", 
+                    "state" : "AL", 
+                    "zipCode" : 36092.0, 
+                    "latitude" : 32.59985, 
+                    "longitude" : -86.20616
+                }
+            ], 
+            "phoneNumber" : "3345789485"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b8b8bac42bf8e0c71a1"), 
+            "museumID" : [
+                8400100349.0
+            ], 
+            "museumName" : "TRAIL OF LEGENDS ASSOCIATION", 
+            "museumType" : "HISTORY MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "PO BOX 1101", 
+                    "city" : "WETUMPKA", 
+                    "state" : "AL", 
+                    "zipCode" : 36092.0, 
+                    "latitude" : 32.59985, 
+                    "longitude" : -86.20616
+                }
+            ], 
+            "phoneNumber" : "3345679090"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "FORT RUCKER"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b598bac42bf8e0c7158"), 
+            "museumID" : [
+                8409501327.0
+            ], 
+            "museumName" : "ARMY AVIATION MUSEUM", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "NOVOSEL ST", 
+                    "city" : "FORT RUCKER", 
+                    "state" : "AL", 
+                    "zipCode" : 36362.0, 
+                    "latitude" : 31.349359999999997, 
+                    "longitude" : -85.71978
+                }
+            ], 
+            "phoneNumber" : "3345982508"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "THOMASTON"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b538bac42bf8e0c714f"), 
+            "museumID" : [
+                8409501304.0
+            ], 
+            "museumName" : "ALABAMA RURAL HERITAGE CENTER", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "133 SIXTH AVENUE", 
+                    "city" : "THOMASTON", 
+                    "state" : "AL", 
+                    "zipCode" : 36783.0, 
+                    "latitude" : 32.25179, 
+                    "longitude" : -87.61395
+                }
+            ], 
+            "phoneNumber" : "3346273388"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "TROY"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b8c8bac42bf8e0c71a2"), 
+            "museumID" : [
+                8400100397.0
+            ], 
+            "museumName" : "TROY-PIKE CULTURAL ARTS CENTER", 
+            "museumType" : "ART MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "300 EAST WALNUT STREET", 
+                    "city" : "TROY", 
+                    "state" : "AL", 
+                    "zipCode" : 36081.0, 
+                    "latitude" : 31.80862, 
+                    "longitude" : -85.97027
+                }
+            ], 
+            "phoneNumber" : "3346702287"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3d0c8bac42bf8e0c73f7"), 
+            "museumID" : [
+                8403602282.0
+            ], 
+            "museumName" : "BRUNSWICK HISTORICAL SOCIETY", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "605 OLD BRUNSWICK ROAD", 
+                    "city" : "TROY", 
+                    "state" : "NY", 
+                    "zipCode" : 12052.0, 
+                    "latitude" : 42.753840000000004, 
+                    "longitude" : -73.48684
+                }
+            ], 
+            "phoneNumber" : "5182794024"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3d1b8bac42bf8e0c740e"), 
+            "museumID" : [
+                8403601066.0
+            ], 
+            "museumName" : "CHILDREN'S MUSEUM OF SCIENCE AND TECHNOLOGY", 
+            "museumType" : "CHILDREN'S MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "250 JORDAN RD", 
+                    "city" : "TROY", 
+                    "state" : "NY", 
+                    "zipCode" : 12180.0, 
+                    "latitude" : 42.678290000000004, 
+                    "longitude" : -73.69887
+                }
+            ], 
+            "phoneNumber" : "5182352120"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3d878bac42bf8e0c74b0"), 
+            "museumID" : [
+                8403601934.0
+            ], 
+            "museumName" : "LANSINGBURGH HISTORICAL SOCIETY", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "2 114TH ST", 
+                    "city" : "TROY", 
+                    "state" : "NY", 
+                    "zipCode" : 12182.0, 
+                    "latitude" : 42.77357, 
+                    "longitude" : -73.67854
+                }
+            ], 
+            "phoneNumber" : "5182353501"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "DOTHAN"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b4a8bac42bf8e0c7143"), 
+            "museumID" : [
+                8409500238.0
+            ], 
+            "museumName" : "ALABAMA AGRICULTURAL MUSEUM", 
+            "museumType" : "SCIENCE & TECHNOLOGY MUSEUM OR PLANETARIUM", 
+            "location" : [
+                {
+                    "streetAddress" : "430 LANDMARK DR", 
+                    "city" : "DOTHAN", 
+                    "state" : "AL", 
+                    "zipCode" : 36303.0, 
+                    "latitude" : 31.27931, 
+                    "longitude" : -85.37361
+                }
+            ], 
+            "phoneNumber" : "3346711078"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b908bac42bf8e0c71aa"), 
+            "museumID" : [
+                8400100313.0
+            ], 
+            "museumName" : "WIREGRASS MUSEUM OF ART", 
+            "museumType" : "ART MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "126 MUSEUM AVE", 
+                    "city" : "DOTHAN", 
+                    "state" : "AL", 
+                    "zipCode" : 36302.0, 
+                    "latitude" : 31.22382, 
+                    "longitude" : -85.38911
+                }
+            ], 
+            "phoneNumber" : "3347943871"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "MARION"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b558bac42bf8e0c7151"), 
+            "museumID" : [
+                8409501305.0
+            ], 
+            "museumName" : "ALABAMA WOMEN'S HALL OF FAME", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "302 BIBB STREET", 
+                    "city" : "MARION", 
+                    "state" : "AL", 
+                    "zipCode" : 36756.0, 
+                    "latitude" : 32.63066, 
+                    "longitude" : -87.31662
+                }
+            ], 
+            "phoneNumber" : "3346835156"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "EUFAULA"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b6a8bac42bf8e0c716c"), 
+            "museumID" : [
+                8400100424.0
+            ], 
+            "museumName" : "EUFAULA HERITAGE ASSOCIATION", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "340 N EUFAULA AVE", 
+                    "city" : "EUFAULA", 
+                    "state" : "AL", 
+                    "zipCode" : 36072.0, 
+                    "latitude" : 31.89681, 
+                    "longitude" : -85.14599
+                }
+            ], 
+            "phoneNumber" : "3346873793"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "TUSKEGEE"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b8d8bac42bf8e0c71a4"), 
+            "museumID" : [
+                8400100435.0
+            ], 
+            "museumName" : "TUSKEGEE HUMAN & CIVIL RIGHTS", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "104 SOUTH ELM STREET", 
+                    "city" : "TUSKEGEE", 
+                    "state" : "AL", 
+                    "zipCode" : 36083.0, 
+                    "latitude" : 32.42215, 
+                    "longitude" : -85.69088
+                }
+            ], 
+            "phoneNumber" : "3347240800"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "OPELIKA"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b7e8bac42bf8e0c718d"), 
+            "museumID" : [
+                8400100328.0
+            ], 
+            "museumName" : "MUSEUM OF EAST ALABAMA", 
+            "museumType" : "GENERAL MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "121 S 9TH STREET", 
+                    "city" : "OPELIKA", 
+                    "state" : "AL", 
+                    "zipCode" : 36803.0, 
+                    "latitude" : 32.647079999999995, 
+                    "longitude" : -85.38025
+                }
+            ], 
+            "phoneNumber" : "3347492751"
+        }, 
+        {
+            "_id" : ObjectId("5fbe3b838bac42bf8e0c7196"), 
+            "museumID" : [
+                8400100274.0
+            ], 
+            "museumName" : "OPELIKA HISTORIC PRESERVATION SOCIETY", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "611 NORTH 8TH ST", 
+                    "city" : "OPELIKA", 
+                    "state" : "AL", 
+                    "zipCode" : 36803.0, 
+                    "latitude" : 32.653909999999996, 
+                    "longitude" : -85.38525
+                }
+            ], 
+            "phoneNumber" : "3347490898"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "LOACHAPOKA"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b768bac42bf8e0c7181"), 
+            "museumID" : [
+                8400100130.0
+            ], 
+            "museumName" : "LEE COUNTY HISTORICAL SOCIETY", 
+            "museumType" : "HISTORIC PRESERVATION", 
+            "location" : [
+                {
+                    "streetAddress" : "6500 STAGE RD", 
+                    "city" : "LOACHAPOKA", 
+                    "state" : "AL", 
+                    "zipCode" : 36865.0, 
+                    "latitude" : 32.60443, 
+                    "longitude" : -85.59934
+                }
+            ], 
+            "phoneNumber" : "3348873007"
+        }
+    ]
+}
+{ 
+    "_id" : {
+        "city" : [
+            "SHELBY"
+        ]
+    }, 
+    "museums" : [
+        {
+            "_id" : ObjectId("5fbe3b728bac42bf8e0c7179"), 
+            "museumID" : [
+                8400100230.0
+            ], 
+            "museumName" : "HISTORIC SHELBY ASSOCIATION", 
+            "museumType" : "HISTORY MUSEUM", 
+            "location" : [
+                {
+                    "streetAddress" : "10268 HWY 42", 
+                    "city" : "SHELBY", 
+                    "state" : "AL", 
+                    "zipCode" : 35143.0, 
+                    "latitude" : 33.08552, 
+                    "longitude" : -86.54245
+                }
+            ], 
+            "phoneNumber" : "7044843100"
+        }
+    ]
+}

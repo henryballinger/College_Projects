@@ -1,0 +1,225 @@
+{ 
+    "_id" : {
+        "MuseumType" : "ZOO, AQUARIUM, OR WILDLIFE CONSERVATION"
+    }, 
+    "museums" : {
+        "museumID" : [
+            8409500010.0
+        ], 
+        "location" : [
+            {
+                "zipCode" : 94133.0
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "MuseumType" : "ZOO, AQUARIUM, OR WILDLIFE CONSERVATION"
+    }, 
+    "museums" : {
+        "museumID" : [
+            8409500041.0
+        ], 
+        "location" : [
+            {
+                "zipCode" : 93422.0
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "MuseumType" : "ZOO, AQUARIUM, OR WILDLIFE CONSERVATION"
+    }, 
+    "museums" : {
+        "museumID" : [
+            8400602354.0
+        ], 
+        "location" : [
+            {
+                "zipCode" : 95763.0
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "MuseumType" : "ZOO, AQUARIUM, OR WILDLIFE CONSERVATION"
+    }, 
+    "museums" : {
+        "museumID" : [
+            8409500069.0
+        ], 
+        "location" : [
+            {
+                "zipCode" : 93728.0
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "MuseumType" : "ZOO, AQUARIUM, OR WILDLIFE CONSERVATION"
+    }, 
+    "museums" : {
+        "museumID" : [
+            8409500017.0
+        ], 
+        "location" : [
+            {
+                "zipCode" : 92037.0
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "MuseumType" : "ZOO, AQUARIUM, OR WILDLIFE CONSERVATION"
+    }, 
+    "museums" : {
+        "museumID" : [
+            8409500108.0
+        ], 
+        "location" : [
+            {
+                "zipCode" : 90027.0
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "MuseumType" : "ZOO, AQUARIUM, OR WILDLIFE CONSERVATION"
+    }, 
+    "museums" : {
+        "museumID" : [
+            8409500138.0
+        ], 
+        "location" : [
+            {
+                "zipCode" : 94605.0
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "MuseumType" : "ZOO, AQUARIUM, OR WILDLIFE CONSERVATION"
+    }, 
+    "museums" : {
+        "museumID" : [
+            8409500171.0
+        ], 
+        "location" : [
+            {
+                "zipCode" : 92101.0
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "MuseumType" : "ZOO, AQUARIUM, OR WILDLIFE CONSERVATION"
+    }, 
+    "museums" : {
+        "museumID" : [
+            8400602215.0
+        ], 
+        "location" : [
+            {
+                "zipCode" : 94128.0
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "MuseumType" : "ZOO, AQUARIUM, OR WILDLIFE CONSERVATION"
+    }, 
+    "museums" : {
+        "museumID" : [
+            8409500173.0
+        ], 
+        "location" : [
+            {
+                "zipCode" : 94132.0
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "MuseumType" : "ZOO, AQUARIUM, OR WILDLIFE CONSERVATION"
+    }, 
+    "museums" : {
+        "museumID" : [
+            8409500175.0
+        ], 
+        "location" : [
+            {
+                "zipCode" : 93103.0
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "MuseumType" : "ZOO, AQUARIUM, OR WILDLIFE CONSERVATION"
+    }, 
+    "museums" : {
+        "museumID" : [
+            8409500184.0
+        ], 
+        "location" : [
+            {
+                "zipCode" : 92109.0
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "MuseumType" : "ZOO, AQUARIUM, OR WILDLIFE CONSERVATION"
+    }, 
+    "museums" : {
+        "museumID" : [
+            8409500187.0
+        ], 
+        "location" : [
+            {
+                "zipCode" : 95503.0
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "MuseumType" : "ZOO, AQUARIUM, OR WILDLIFE CONSERVATION"
+    }, 
+    "museums" : {
+        "museumID" : [
+            8409500194.0
+        ], 
+        "location" : [
+            {
+                "zipCode" : 94118.0
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "MuseumType" : "ZOO, AQUARIUM, OR WILDLIFE CONSERVATION"
+    }, 
+    "museums" : {
+        "museumID" : [
+            8409500149.0
+        ], 
+        "location" : [
+            {
+                "zipCode" : 98407.0
+            }
+        ]
+    }
+}

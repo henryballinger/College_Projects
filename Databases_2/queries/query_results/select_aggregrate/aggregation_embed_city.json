@@ -1,0 +1,375 @@
+{ 
+    "_id" : {
+        "city" : [
+            "PORT TOWNSEND"
+        ]
+    }, 
+    "museums" : {
+        "museumName" : "PORT TOWNSEND AERO MUSEUM", 
+        "location" : [
+            {
+                "state" : "WA"
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "city" : [
+            "RICHLAND"
+        ]
+    }, 
+    "museums" : {
+        "museumName" : "HANFORD REACH INTERPRETIVE CENTER", 
+        "location" : [
+            {
+                "state" : "WA"
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "city" : [
+            "QUILCENE"
+        ]
+    }, 
+    "museums" : {
+        "museumName" : "QUILCENE HISTORICAL MUSEUM", 
+        "location" : [
+            {
+                "state" : "WA"
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "city" : [
+            "LANGLEY"
+        ]
+    }, 
+    "museums" : {
+        "museumName" : "WHIDBY COMMUNITY HALL ASSOCIATION", 
+        "location" : [
+            {
+                "state" : "WA"
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "city" : [
+            "ARLINGTON"
+        ]
+    }, 
+    "museums" : {
+        "museumName" : "ARLINGTON NAVAL AIR MUSEUM", 
+        "location" : [
+            {
+                "state" : "WA"
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "city" : [
+            "TACOMA"
+        ]
+    }, 
+    "museums" : {
+        "museumName" : "JOB CARR CABIN MUSEUM", 
+        "location" : [
+            {
+                "state" : "WA"
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "city" : [
+            "SEATTLE"
+        ]
+    }, 
+    "museums" : {
+        "museumName" : "BURKE MUSEUM ASSOCIATION", 
+        "location" : [
+            {
+                "state" : "WA"
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "city" : [
+            "SEATTLE"
+        ]
+    }, 
+    "museums" : {
+        "museumName" : "NORTHWEST SEAPORT", 
+        "location" : [
+            {
+                "state" : "WA"
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "city" : [
+            "RAYMOND"
+        ]
+    }, 
+    "museums" : {
+        "museumName" : "NORTHWEST CARRIAGE MUSEUM", 
+        "location" : [
+            {
+                "state" : "WA"
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "city" : [
+            "JOINT BASE LEWIS-MCCHORD"
+        ]
+    }, 
+    "museums" : {
+        "museumName" : "FORT LEWIS MILITARY MUSEUM", 
+        "location" : [
+            {
+                "state" : "WA"
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "city" : [
+            "VASHON"
+        ]
+    }, 
+    "museums" : {
+        "museumName" : "VASHON MAURY ISLAND HERITAGE ASSOCIATION", 
+        "location" : [
+            {
+                "state" : "WA"
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "city" : [
+            "FORT LEWIS"
+        ]
+    }, 
+    "museums" : {
+        "museumName" : "FORT LEWIS MILITARY MUSEUM", 
+        "location" : [
+            {
+                "state" : "WA"
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "city" : [
+            "HUNTERS"
+        ]
+    }, 
+    "museums" : {
+        "museumName" : "HUNTERS MUSEUM", 
+        "location" : [
+            {
+                "state" : "WA"
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "city" : [
+            "AMBOY"
+        ]
+    }, 
+    "museums" : {
+        "museumName" : "NORTH CLARK HISTORICAL MUSEUM", 
+        "location" : [
+            {
+                "state" : "WA"
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "city" : [
+            "COLVILLE"
+        ]
+    }, 
+    "museums" : {
+        "museumName" : "HERITAGE NETWORK", 
+        "location" : [
+            {
+                "state" : "WA"
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "city" : [
+            "TOPPENISH"
+        ]
+    }, 
+    "museums" : {
+        "museumName" : "AMERICAN HOP MUSEUM", 
+        "location" : [
+            {
+                "state" : "WA"
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "city" : [
+            "SHORELINE"
+        ]
+    }, 
+    "museums" : {
+        "museumName" : "SHORELINE HISTORICAL MUSEUM", 
+        "location" : [
+            {
+                "state" : "WA"
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "city" : [
+            "BELLEVUE"
+        ]
+    }, 
+    "museums" : {
+        "museumName" : "EASTSIDE HERITAGE CENTER", 
+        "location" : [
+            {
+                "state" : "WA"
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "city" : [
+            "FORKS"
+        ]
+    }, 
+    "museums" : {
+        "museumName" : "FORKS TIMBER MUSEUM", 
+        "location" : [
+            {
+                "state" : "WA"
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "city" : [
+            "EVERETT"
+        ]
+    }, 
+    "museums" : {
+        "museumName" : "SNOHOMISH COUNTY MUSEUM & HISTORICAL ASSOCIATION", 
+        "location" : [
+            {
+                "state" : "WA"
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "city" : [
+            "CONCRETE"
+        ]
+    }, 
+    "museums" : {
+        "museumName" : "CONCRETE HERITAGE MUSEUM ASSOCIATION", 
+        "location" : [
+            {
+                "state" : "WA"
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "city" : [
+            "VANCOUVER"
+        ]
+    }, 
+    "museums" : {
+        "museumName" : "VANCOUVER BARRACKS MILITARY ASN VBMA", 
+        "location" : [
+            {
+                "state" : "WA"
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "city" : [
+            "WOODINVILLE"
+        ]
+    }, 
+    "museums" : {
+        "museumName" : "WOODINVILLE HERITAGE SOCIETY", 
+        "location" : [
+            {
+                "state" : "WA"
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "city" : [
+            "STEVENSON"
+        ]
+    }, 
+    "museums" : {
+        "museumName" : "COLUMBIA GORGE INTERPRETIVE CENTER", 
+        "location" : [
+            {
+                "state" : "WA"
+            }
+        ]
+    }
+}
+{ 
+    "_id" : {
+        "city" : [
+            "LYLE"
+        ]
+    }, 
+    "museums" : {
+        "museumName" : "TWIN BRIDGES MUSEUM", 
+        "location" : [
+            {
+                "state" : "WA"
+            }
+        ]
+    }
+}

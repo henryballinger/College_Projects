@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Profile</title>
+
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/smoothness/jquery-ui.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="css/master.css"/>
+    <link rel="stylesheet" type="text/css" href="css/common.css"/>
+    <link rel="stylesheet" type="text/css" href="css/profile.css"/>
+    <link rel="icon" href="imgs/Icon.ico">
+</head>
+<body>
+    <a href="/moods" class="back" id="goback">&#8249;</a>
+
+    <h1>Profile</h1>
+
+    <div id="profilePic"></div>
+
+    <div id="container">
+        <form id="editProfile">
+            <div class="form-group" id="fnamegroup">
+                <span id="edit__firstName" class="edit">Edit:</span>
+                <label for="firstName" class="label">First Name: </label><br />
+                <input id="firstName" name="firstName" type="text" placeholder="First Name" class="form-control">
+                <span id="firstNameError" class="errorMessages">.</span>
+            </div>
+
+            <div class="form-group" id="lnamegroup">
+                <span id="edit__lastName" class="edit">Edit:</span>
+                <label for="lastName" class="label">Last Name: </label><br />
+                <input id="lastName" name="lastName" type="text" placeholder="Last Name" class="form-control">
+                <span id="lastNameError" class="errorMessages">.</span>
+            </div>
+
+            <div class="form-group" id="emailgroup">
+                <span id="edit__email" class="edit">Edit:</span>
+                <label for="email" class="label">E-mail: </label><br />
+                <input id="email" name="email" type="email" placeholder="Email" class="form-control">
+                <span id="emailError" class="errorMessages">.</span>
+            </div>
+
+            <div class="form-group" id="usernamegroup">
+                <span id="edit__user_id" class="edit">Edit:</span>
+                <label for="user_id" class="label">Username: </label><br />
+                <input id="user_id" name="user_id" type="text" placeholder="Username" class="form-control">
+                <span id="user_idError" class="errorMessages">.</span>
+            </div>
+
+            <div class="form-group" id="passwordgroup">
+                <span id="edit__password" class="edit">Edit:</span>
+                <label for="password" class="label">Password: </label><br />
+                <input id="password" name="password" type="password" placeholder="Password" class="form-control" >
+                <span id="passwordError" class="errorMessages">.</span>
+            </div>
+        </form>
+
+        <form id="editPicture" method="POST" action="/uploadNewFile" enctype="multipart/form-data">
+            <div class="form-group">
+                <span id="editPic">Change Profile Picture:</span>
+                <label for="picUpload" class="label">Change profile picture: </label><br /><br />
+                <input id="picUpload" name="picUpload" type="file" required />
+                <button id="upload" type="submit" class="btn btn-secondary">Upload</button>
+            </div>
+        </form>
+
+            <br />
+        <a href="/interests" id="interestslink">Edit Interests</a>
+            <br /><br />
+        <button id="delete" type="button" class="btn btn-secondary">Delete Profile</button>
+        <button id="confirmation" type="button" class="btn btn-danger">Yes, I'm Sure</button>
+        <button id="dontDelete" type="button" class="btn btn-secondary">No, Don't Delete!</button>
+            <br /><br /><br /><br />
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="//code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.2/dist/jquery.validate.js"></script>
+    <script src="/js/profile.js"></script>
+</body>
+</html>
